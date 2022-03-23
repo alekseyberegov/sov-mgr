@@ -2,6 +2,8 @@
 
 port="4444"
 database="analytics"
+host="redshift.prod.clicktripz.com"
+proxy="dev.clicktripz.com"
 
 if [[ -z "${POSTGRESQL_BIN}" ]]; then
     echo "Please set POSTGRESQL_BIN environment variable"
@@ -64,7 +66,7 @@ if [[ -z "${script}" ]]; then
 fi
 
 # start a ssh tunnel for redshift
-ssh -N -f -i ~/.ssh/id_rsa -L "${port}:redshift.prod.clicktripz.com:5439" "${user}@dev.clicktripz.com"
+ssh -N -f -i ~/.ssh/id_rsa -L "${port}:${host}:5439" "${user}@${proxy}"
 
 # run SQL
 echo "" | cat "${script}" - | template | ${POSTGRESQL_BIN}/psql -t -A -F',' -h localhost -p ${port} -U ${user} ${database}
