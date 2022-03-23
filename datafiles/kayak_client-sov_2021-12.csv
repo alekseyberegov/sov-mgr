@@ -1,0 +1,2796 @@
+device,brand,country,vertical,sov
+-1,KAYAK,Afghanistan,Flights,7.2438%
+-1,Hotelscombined,Afghanistan,Flights,8.9223%
+-1,Momondo,Afghanistan,Flights,1.0601%
+-1,CheapFlights,Afghanistan,Flights,0.7951%
+-1,KAYAK,Afghanistan,Hotel,3.7037%
+-1,Hotelscombined,Afghanistan,Hotel,4.6296%
+-1,KAYAK,Afghanistan,Hotel Citywide,10.1809%
+-1,Momondo,Afghanistan,Hotel Citywide,2.1620%
+-1,Hotelscombined,Afghanistan,Hotel Citywide,2.6730%
+-1,KAYAK,Albania,Flights,3.0162%
+-1,CheapFlights,Albania,Flights,3.5951%
+-1,Hotelscombined,Albania,Flights,13.6832%
+-1,Momondo,Albania,Flights,2.6209%
+-1,KAYAK,Albania,Hotel,7.5078%
+-1,Hotelscombined,Albania,Hotel,9.5975%
+-1,Momondo,Albania,Hotel,0.6966%
+-1,Swoodoo,Albania,Hotel,0.0774%
+-1,KAYAK,Albania,Hotel Citywide,7.5666%
+-1,Momondo,Albania,Hotel Citywide,0.9783%
+-1,Hotelscombined,Albania,Hotel Citywide,3.8817%
+-1,Swoodoo,Albania,Hotel Citywide,0.0040%
+-1,Hotelscombined,Albania,Vacations,13.7255%
+-1,KAYAK,Albania,Vacations,0.9804%
+-1,Momondo,Algeria,Car Rentals,24.9999%
+-1,Hotelscombined,Algeria,Flights,5.2763%
+-1,KAYAK,Algeria,Flights,0.0829%
+-1,Momondo,Algeria,Flights,0.0816%
+-1,CheapFlights,Algeria,Flights,0.1166%
+-1,Hotelscombined,Algeria,Hotel,6.7170%
+-1,KAYAK,Algeria,Hotel,6.1387%
+-1,Momondo,Algeria,Hotel,1.0231%
+-1,KAYAK,Algeria,Hotel Citywide,6.1672%
+-1,Hotelscombined,Algeria,Hotel Citywide,3.6077%
+-1,Momondo,Algeria,Hotel Citywide,1.1307%
+-1,KAYAK,Algeria,Vacations,9.4828%
+-1,Hotelscombined,Algeria,Vacations,5.1724%
+-1,KAYAK,American Samoa,Flights,15.6250%
+-1,Hotelscombined,American Samoa,Hotel,5.0000%
+-1,KAYAK,American Samoa,Hotel,5.0000%
+-1,KAYAK,American Samoa,Hotel Citywide,4.1667%
+-1,Momondo,American Samoa,Hotel Citywide,4.1667%
+-1,Hotelscombined,American Samoa,Hotel Citywide,2.7778%
+-1,KAYAK,Andorra,Flights,5.2070%
+-1,CheapFlights,Andorra,Flights,5.8431%
+-1,Momondo,Andorra,Flights,2.1449%
+-1,Hotelscombined,Andorra,Flights,6.5384%
+-1,KAYAK,Andorra,Hotel,10.9467%
+-1,Hotelscombined,Andorra,Hotel,4.5858%
+-1,Momondo,Andorra,Hotel,0.1479%
+-1,KAYAK,Andorra,Hotel Citywide,7.0401%
+-1,Hotelscombined,Andorra,Hotel Citywide,2.5769%
+-1,Momondo,Andorra,Hotel Citywide,0.7688%
+-1,Hotelscombined,Andorra,Vacations,16.3979%
+-1,KAYAK,Andorra,Vacations,0.8065%
+-1,Momondo,Angola,Car Rentals,24.1935%
+-1,KAYAK,Angola,Car Rentals,0.8065%
+-1,CheapFlights,Angola,Flights,6.0006%
+-1,KAYAK,Angola,Flights,4.8755%
+-1,Hotelscombined,Angola,Flights,5.4080%
+-1,Momondo,Angola,Flights,2.0402%
+-1,KAYAK,Angola,Hotel,8.2558%
+-1,Hotelscombined,Angola,Hotel,6.3953%
+-1,Momondo,Angola,Hotel,0.3488%
+-1,KAYAK,Angola,Hotel Citywide,7.8045%
+-1,Momondo,Angola,Hotel Citywide,1.7028%
+-1,Hotelscombined,Angola,Hotel Citywide,2.1124%
+-1,Swoodoo,Angola,Hotel Citywide,0.0032%
+-1,KAYAK,Angola,Vacations,8.3333%
+-1,Hotelscombined,Angola,Vacations,8.3333%
+-1,KAYAK,Anguilla,Flights,3.6649%
+-1,Momondo,Anguilla,Flights,1.0471%
+-1,Hotelscombined,Anguilla,Flights,8.1152%
+-1,CheapFlights,Anguilla,Flights,0.3927%
+-1,KAYAK,Anguilla,Hotel,4.7795%
+-1,Hotelscombined,Anguilla,Hotel,4.4119%
+-1,Momondo,Anguilla,Hotel,0.3677%
+-1,KAYAK,Anguilla,Hotel Citywide,6.1302%
+-1,Hotelscombined,Anguilla,Hotel Citywide,3.1130%
+-1,Momondo,Anguilla,Hotel Citywide,1.1015%
+-1,CheapFlights,Anguilla,Hotel Citywide,0.0958%
+-1,KAYAK,Antarctica,Hotel Citywide,8.3333%
+-1,Hotelscombined,Antarctica,Hotel Citywide,2.0833%
+-1,KAYAK,Antigua and Barbuda,Flights,5.2552%
+-1,Momondo,Antigua and Barbuda,Flights,1.3513%
+-1,Hotelscombined,Antigua and Barbuda,Flights,5.7057%
+-1,CheapFlights,Antigua and Barbuda,Flights,0.3003%
+-1,KAYAK,Antigua and Barbuda,Hotel,3.1819%
+-1,Hotelscombined,Antigua and Barbuda,Hotel,3.6365%
+-1,Momondo,Antigua and Barbuda,Hotel,0.6818%
+-1,KAYAK,Antigua and Barbuda,Hotel Citywide,5.2568%
+-1,Momondo,Antigua and Barbuda,Hotel Citywide,1.0901%
+-1,Hotelscombined,Antigua and Barbuda,Hotel Citywide,2.0591%
+-1,CheapFlights,Antigua and Barbuda,Hotel Citywide,0.0969%
+-1,Momondo,Argentina,Car Rentals,23.3784%
+-1,KAYAK,Argentina,Car Rentals,5.5405%
+-1,Momondo,Argentina,Flights,4.1259%
+-1,KAYAK,Argentina,Flights,5.1179%
+-1,Hotelscombined,Argentina,Flights,2.3760%
+-1,CheapFlights,Argentina,Flights,0.5534%
+-1,Hotelscombined,Argentina,Hotel,11.0109%
+-1,Momondo,Argentina,Hotel,3.0367%
+-1,KAYAK,Argentina,Hotel,4.2467%
+-1,Hotelscombined,Argentina,Hotel Citywide,8.1004%
+-1,KAYAK,Argentina,Hotel Citywide,1.8845%
+-1,Momondo,Argentina,Hotel Citywide,2.9423%
+-1,Swoodoo,Argentina,Hotel Citywide,0.0008%
+-1,Hotelscombined,Argentina,Vacations,17.2839%
+-1,KAYAK,Argentina,Vacations,0.3086%
+-1,KAYAK,Armenia,Flights,3.0720%
+-1,CheapFlights,Armenia,Flights,1.8644%
+-1,Hotelscombined,Armenia,Flights,11.3772%
+-1,Momondo,Armenia,Flights,0.7839%
+-1,KAYAK,Armenia,Hotel,8.9714%
+-1,Hotelscombined,Armenia,Hotel,7.4163%
+-1,Momondo,Armenia,Hotel,0.4785%
+-1,KAYAK,Armenia,Hotel Citywide,8.7227%
+-1,Hotelscombined,Armenia,Hotel Citywide,3.3676%
+-1,Momondo,Armenia,Hotel Citywide,1.0974%
+-1,Hotelscombined,Armenia,Vacations,21.8750%
+-1,Momondo,Aruba,Car Rentals,25.0001%
+-1,KAYAK,Aruba,Flights,1.8135%
+-1,Hotelscombined,Aruba,Flights,6.5120%
+-1,CheapFlights,Aruba,Flights,0.6241%
+-1,Momondo,Aruba,Flights,0.4239%
+-1,KAYAK,Aruba,Hotel,4.6539%
+-1,Hotelscombined,Aruba,Hotel,5.9665%
+-1,Momondo,Aruba,Hotel,0.2387%
+-1,KAYAK,Aruba,Hotel Citywide,7.2565%
+-1,Hotelscombined,Aruba,Hotel Citywide,3.2984%
+-1,Momondo,Aruba,Hotel Citywide,1.4552%
+-1,CheapFlights,Aruba,Hotel Citywide,0.0291%
+-1,Hotelscombined,Aruba,Vacations,12.5000%
+-1,Momondo,Australia,Car Rentals,25.0000%
+-1,CheapFlights,Australia,Flights,8.6374%
+-1,Momondo,Australia,Flights,6.2538%
+-1,KAYAK,Australia,Flights,5.9871%
+-1,Travelsearch,Australia,Flights,5.9191%
+-1,Hotelscombined,Australia,Flights,2.6045%
+-1,Hotelscombined,Australia,Hotel,4.0000%
+-1,KAYAK,Australia,Hotel,2.3436%
+-1,Momondo,Australia,Hotel,0.3401%
+-1,Swoodoo,Australia,Hotel,0.0002%
+-1,KAYAK,Australia,Hotel Citywide,4.8756%
+-1,Momondo,Australia,Hotel Citywide,1.4321%
+-1,Hotelscombined,Australia,Hotel Citywide,0.5509%
+-1,Swoodoo,Australia,Hotel Citywide,0.0020%
+-1,Hotelscombined,Australia,Vacations,11.0553%
+-1,KAYAK,Australia,Vacations,0.5025%
+-1,Momondo,Austria,Car Rentals,24.5146%
+-1,KAYAK,Austria,Car Rentals,0.7282%
+-1,Momondo,Austria,Flights,12.1449%
+-1,CheapFlights,Austria,Flights,2.3780%
+-1,Hotelscombined,Austria,Flights,4.0443%
+-1,KAYAK,Austria,Flights,2.4246%
+-1,Hotelscombined,Austria,Hotel,5.1385%
+-1,KAYAK,Austria,Hotel,1.8872%
+-1,Swoodoo,Austria,Hotel,0.1166%
+-1,Momondo,Austria,Hotel,0.0742%
+-1,KAYAK,Austria,Hotel Citywide,3.8356%
+-1,Hotelscombined,Austria,Hotel Citywide,3.9242%
+-1,Momondo,Austria,Hotel Citywide,2.1957%
+-1,Swoodoo,Austria,Hotel Citywide,0.5255%
+-1,Hotelscombined,Austria,Vacations,16.5911%
+-1,KAYAK,Austria,Vacations,1.3417%
+-1,Momondo,Azerbaijan,Car Rentals,25.0000%
+-1,KAYAK,Azerbaijan,Flights,1.8431%
+-1,CheapFlights,Azerbaijan,Flights,2.1975%
+-1,Hotelscombined,Azerbaijan,Flights,12.0510%
+-1,Momondo,Azerbaijan,Flights,0.9216%
+-1,KAYAK,Azerbaijan,Hotel,8.3101%
+-1,Hotelscombined,Azerbaijan,Hotel,5.0279%
+-1,Momondo,Azerbaijan,Hotel,1.1173%
+-1,KAYAK,Azerbaijan,Hotel Citywide,10.3396%
+-1,Momondo,Azerbaijan,Hotel Citywide,1.6021%
+-1,Hotelscombined,Azerbaijan,Hotel Citywide,3.6113%
+-1,Swoodoo,Azerbaijan,Hotel Citywide,0.0058%
+-1,Hotelscombined,Azerbaijan,Vacations,10.4167%
+-1,KAYAK,Bahamas,Flights,2.8107%
+-1,Momondo,Bahamas,Flights,0.8629%
+-1,Hotelscombined,Bahamas,Flights,5.3748%
+-1,CheapFlights,Bahamas,Flights,0.2959%
+-1,KAYAK,Bahamas,Hotel,6.1164%
+-1,Hotelscombined,Bahamas,Hotel,7.8258%
+-1,Momondo,Bahamas,Hotel,0.6677%
+-1,KAYAK,Bahamas,Hotel Citywide,8.6869%
+-1,Momondo,Bahamas,Hotel Citywide,1.1433%
+-1,Hotelscombined,Bahamas,Hotel Citywide,3.1471%
+-1,CheapFlights,Bahamas,Hotel Citywide,0.0118%
+-1,Hotelscombined,Bahamas,Vacations,25.0000%
+-1,KAYAK,Bahrain,Flights,3.7934%
+-1,Momondo,Bahrain,Flights,1.1561%
+-1,Hotelscombined,Bahrain,Flights,7.3916%
+-1,CheapFlights,Bahrain,Flights,0.4986%
+-1,KAYAK,Bahrain,Hotel,7.2088%
+-1,Hotelscombined,Bahrain,Hotel,5.9659%
+-1,Momondo,Bahrain,Hotel,0.8523%
+-1,KAYAK,Bahrain,Hotel Citywide,8.3128%
+-1,Hotelscombined,Bahrain,Hotel Citywide,2.9614%
+-1,Momondo,Bahrain,Hotel Citywide,0.7557%
+-1,Hotelscombined,Bahrain,Vacations,22.5000%
+-1,KAYAK,Bangladesh,Flights,4.0870%
+-1,Momondo,Bangladesh,Flights,1.8241%
+-1,CheapFlights,Bangladesh,Flights,0.5226%
+-1,Hotelscombined,Bangladesh,Flights,5.3343%
+-1,KAYAK,Bangladesh,Hotel,8.0178%
+-1,Hotelscombined,Bangladesh,Hotel,8.5799%
+-1,Momondo,Bangladesh,Hotel,2.7811%
+-1,Swoodoo,Bangladesh,Hotel,0.0296%
+-1,KAYAK,Bangladesh,Hotel Citywide,11.6087%
+-1,Momondo,Bangladesh,Hotel Citywide,2.2357%
+-1,Hotelscombined,Bangladesh,Hotel Citywide,5.1249%
+-1,Hotelscombined,Bangladesh,Vacations,16.6667%
+-1,KAYAK,Bangladesh,Vacations,1.6667%
+-1,KAYAK,Barbados,Flights,6.6429%
+-1,Momondo,Barbados,Flights,1.4828%
+-1,Hotelscombined,Barbados,Flights,6.4947%
+-1,CheapFlights,Barbados,Flights,0.5931%
+-1,KAYAK,Barbados,Hotel,5.3834%
+-1,Hotelscombined,Barbados,Hotel,6.1946%
+-1,Momondo,Barbados,Hotel,0.9218%
+-1,KAYAK,Barbados,Hotel Citywide,9.9877%
+-1,Hotelscombined,Barbados,Hotel Citywide,2.3971%
+-1,Momondo,Barbados,Hotel Citywide,0.8374%
+-1,Swoodoo,Barbados,Hotel Citywide,0.0077%
+-1,CheapFlights,Barbados,Hotel Citywide,0.0077%
+-1,Hotelscombined,Barbados,Vacations,25.0002%
+-1,Momondo,Belarus,Car Rentals,25.0000%
+-1,KAYAK,Belarus,Flights,4.0000%
+-1,CheapFlights,Belarus,Flights,3.8484%
+-1,Momondo,Belarus,Flights,2.6969%
+-1,KAYAK,Belarus,Hotel,6.7726%
+-1,Momondo,Belarus,Hotel,2.1739%
+-1,KAYAK,Belarus,Hotel Citywide,5.7592%
+-1,Momondo,Belarus,Hotel Citywide,1.3669%
+-1,Swoodoo,Belarus,Hotel Citywide,0.0398%
+-1,Hotelscombined,Belarus,Hotel Citywide,0.0435%
+-1,Momondo,Belgium,Car Rentals,23.9248%
+-1,KAYAK,Belgium,Car Rentals,1.0753%
+-1,Momondo,Belgium,Flights,3.4039%
+-1,CheapFlights,Belgium,Flights,1.6340%
+-1,Hotelscombined,Belgium,Flights,6.3643%
+-1,KAYAK,Belgium,Flights,1.0880%
+-1,Hotelscombined,Belgium,Hotel,7.8024%
+-1,KAYAK,Belgium,Hotel,5.6976%
+-1,Momondo,Belgium,Hotel,0.3977%
+-1,Swoodoo,Belgium,Hotel,0.0058%
+-1,Hotelscombined,Belgium,Hotel Citywide,4.6930%
+-1,KAYAK,Belgium,Hotel Citywide,6.3409%
+-1,Momondo,Belgium,Hotel Citywide,0.7626%
+-1,Swoodoo,Belgium,Hotel Citywide,0.0007%
+-1,KAYAK,Belgium,Vacations,10.0586%
+-1,Hotelscombined,Belgium,Vacations,7.4375%
+-1,KAYAK,Belize,Flights,3.6028%
+-1,Hotelscombined,Belize,Flights,6.0633%
+-1,Momondo,Belize,Flights,1.0105%
+-1,CheapFlights,Belize,Flights,0.7909%
+-1,KAYAK,Belize,Hotel,6.9444%
+-1,Hotelscombined,Belize,Hotel,8.0246%
+-1,Momondo,Belize,Hotel,1.2346%
+-1,KAYAK,Belize,Hotel Citywide,9.4037%
+-1,Hotelscombined,Belize,Hotel Citywide,3.3384%
+-1,Momondo,Belize,Hotel Citywide,1.4908%
+-1,Swoodoo,Belize,Hotel Citywide,0.0127%
+-1,CheapFlights,Belize,Hotel Citywide,0.0255%
+-1,Hotelscombined,Benin,Flights,6.3608%
+-1,KAYAK,Benin,Flights,0.1923%
+-1,CheapFlights,Benin,Flights,0.2457%
+-1,Momondo,Benin,Flights,0.1175%
+-1,KAYAK,Benin,Hotel,4.5455%
+-1,Momondo,Benin,Hotel,0.9091%
+-1,Hotelscombined,Benin,Hotel,2.7273%
+-1,KAYAK,Benin,Hotel Citywide,3.2225%
+-1,Momondo,Benin,Hotel Citywide,0.7034%
+-1,Hotelscombined,Benin,Hotel Citywide,0.9360%
+-1,KAYAK,Benin,Vacations,16.6667%
+-1,Hotelscombined,Benin,Vacations,8.3333%
+-1,KAYAK,Bermuda,Flights,5.3077%
+-1,Momondo,Bermuda,Flights,0.7692%
+-1,Hotelscombined,Bermuda,Flights,9.5385%
+-1,CheapFlights,Bermuda,Flights,1.2308%
+-1,KAYAK,Bermuda,Hotel,6.1057%
+-1,Hotelscombined,Bermuda,Hotel,7.5960%
+-1,Momondo,Bermuda,Hotel,0.8173%
+-1,KAYAK,Bermuda,Hotel Citywide,10.1727%
+-1,Hotelscombined,Bermuda,Hotel Citywide,2.7191%
+-1,Momondo,Bermuda,Hotel Citywide,1.0237%
+-1,CheapFlights,Bermuda,Hotel Citywide,0.0160%
+-1,CheapFlights,Bhutan,Flights,0.9259%
+-1,KAYAK,Bhutan,Flights,0.9259%
+-1,Hotelscombined,Bhutan,Flights,15.7406%
+-1,Hotelscombined,Bhutan,Hotel,7.1429%
+-1,KAYAK,Bhutan,Hotel,6.2501%
+-1,Momondo,Bhutan,Hotel,2.6786%
+-1,KAYAK,Bhutan,Hotel Citywide,8.6982%
+-1,Hotelscombined,Bhutan,Hotel Citywide,5.4148%
+-1,Momondo,Bhutan,Hotel Citywide,1.7281%
+-1,Momondo,Bolivia,Car Rentals,25.0000%
+-1,CheapFlights,Bolivia,Flights,1.2954%
+-1,Hotelscombined,Bolivia,Flights,4.4318%
+-1,KAYAK,Bolivia,Flights,0.6320%
+-1,Momondo,Bolivia,Flights,0.8288%
+-1,Hotelscombined,Bolivia,Hotel,9.3634%
+-1,KAYAK,Bolivia,Hotel,7.6568%
+-1,Momondo,Bolivia,Hotel,1.2915%
+-1,KAYAK,Bolivia,Hotel Citywide,4.9887%
+-1,Hotelscombined,Bolivia,Hotel Citywide,2.9742%
+-1,Momondo,Bolivia,Hotel Citywide,2.0343%
+-1,Swoodoo,Bolivia,Hotel Citywide,0.0013%
+-1,Hotelscombined,Bolivia,Vacations,10.0000%
+-1,KAYAK,"Bonaire, Sint Eustatius, and Saba",Flights,3.2767%
+-1,CheapFlights,"Bonaire, Sint Eustatius, and Saba",Flights,2.6699%
+-1,Momondo,"Bonaire, Sint Eustatius, and Saba",Flights,1.3350%
+-1,Hotelscombined,"Bonaire, Sint Eustatius, and Saba",Flights,5.7039%
+-1,KAYAK,"Bonaire, Sint Eustatius, and Saba",Hotel,8.8711%
+-1,Hotelscombined,"Bonaire, Sint Eustatius, and Saba",Hotel,9.4088%
+-1,Momondo,"Bonaire, Sint Eustatius, and Saba",Hotel,0.2688%
+-1,KAYAK,"Bonaire, Sint Eustatius, and Saba",Hotel Citywide,6.4711%
+-1,Momondo,"Bonaire, Sint Eustatius, and Saba",Hotel Citywide,0.9244%
+-1,Hotelscombined,"Bonaire, Sint Eustatius, and Saba",Hotel Citywide,1.8489%
+-1,CheapFlights,Bosnia and Herzegovina,Flights,6.9538%
+-1,KAYAK,Bosnia and Herzegovina,Flights,4.5915%
+-1,Hotelscombined,Bosnia and Herzegovina,Flights,8.6146%
+-1,Momondo,Bosnia and Herzegovina,Flights,2.6021%
+-1,KAYAK,Bosnia and Herzegovina,Hotel,11.2126%
+-1,Hotelscombined,Bosnia and Herzegovina,Hotel,8.2226%
+-1,Momondo,Bosnia and Herzegovina,Hotel,0.7475%
+-1,KAYAK,Bosnia and Herzegovina,Hotel Citywide,8.4948%
+-1,Hotelscombined,Bosnia and Herzegovina,Hotel Citywide,2.3841%
+-1,Momondo,Bosnia and Herzegovina,Hotel Citywide,0.8040%
+-1,Swoodoo,Bosnia and Herzegovina,Hotel Citywide,0.0787%
+-1,KAYAK,Bosnia and Herzegovina,Vacations,6.2501%
+-1,Hotelscombined,Bosnia and Herzegovina,Vacations,10.9376%
+-1,KAYAK,Botswana,Flights,3.6482%
+-1,Momondo,Botswana,Flights,1.3441%
+-1,Hotelscombined,Botswana,Flights,6.8356%
+-1,CheapFlights,Botswana,Flights,0.4992%
+-1,KAYAK,Botswana,Hotel,5.8824%
+-1,Hotelscombined,Botswana,Hotel,7.1692%
+-1,Momondo,Botswana,Hotel,0.3677%
+-1,KAYAK,Botswana,Hotel Citywide,8.6399%
+-1,Momondo,Botswana,Hotel Citywide,1.5564%
+-1,Hotelscombined,Botswana,Hotel Citywide,3.1482%
+-1,Hotelscombined,Botswana,Vacations,8.3333%
+-1,Momondo,Brazil,Car Rentals,24.9740%
+-1,KAYAK,Brazil,Car Rentals,1.0512%
+-1,Hotelscombined,Brazil,Flights,9.8790%
+-1,KAYAK,Brazil,Flights,4.2033%
+-1,Mundi,Brazil,Flights,2.1873%
+-1,Momondo,Brazil,Flights,0.6463%
+-1,CheapFlights,Brazil,Flights,0.1361%
+-1,Hotelscombined,Brazil,Hotel,11.0932%
+-1,KAYAK,Brazil,Hotel,8.8336%
+-1,Mundi,Brazil,Hotel,0.3301%
+-1,Momondo,Brazil,Hotel,0.0687%
+-1,KAYAK,Brazil,Hotel Citywide,14.0000%
+-1,Hotelscombined,Brazil,Hotel Citywide,2.3560%
+-1,Mundi,Brazil,Hotel Citywide,0.4847%
+-1,Momondo,Brazil,Hotel Citywide,1.3721%
+-1,Swoodoo,Brazil,Hotel Citywide,0.0005%
+-1,Hotelscombined,Brazil,Vacations,14.7322%
+-1,KAYAK,Brazil,Vacations,0.8929%
+-1,KAYAK,British Virgin Islands,Flights,3.3058%
+-1,Hotelscombined,British Virgin Islands,Flights,3.9945%
+-1,CheapFlights,British Virgin Islands,Flights,0.3444%
+-1,Momondo,British Virgin Islands,Flights,0.2755%
+-1,KAYAK,British Virgin Islands,Hotel,4.2373%
+-1,Momondo,British Virgin Islands,Hotel,2.1187%
+-1,Hotelscombined,British Virgin Islands,Hotel,4.6611%
+-1,KAYAK,British Virgin Islands,Hotel Citywide,9.8131%
+-1,Momondo,British Virgin Islands,Hotel Citywide,1.1682%
+-1,Hotelscombined,British Virgin Islands,Hotel Citywide,2.9595%
+-1,Hotelscombined,British Virgin Islands,Vacations,12.5000%
+-1,KAYAK,Brunei,Flights,9.6657%
+-1,Momondo,Brunei,Flights,1.5988%
+-1,CheapFlights,Brunei,Flights,0.3634%
+-1,Hotelscombined,Brunei,Flights,3.9244%
+-1,Hotelscombined,Brunei,Hotel,7.5292%
+-1,KAYAK,Brunei,Hotel,7.0176%
+-1,Momondo,Brunei,Hotel,2.4123%
+-1,KAYAK,Brunei,Hotel Citywide,12.7969%
+-1,Momondo,Brunei,Hotel Citywide,1.7608%
+-1,Hotelscombined,Brunei,Hotel Citywide,3.3374%
+-1,Swoodoo,Brunei,Hotel Citywide,0.0205%
+-1,Momondo,Bulgaria,Car Rentals,25.0000%
+-1,KAYAK,Bulgaria,Car Rentals,16.6667%
+-1,KAYAK,Bulgaria,Flights,5.0100%
+-1,CheapFlights,Bulgaria,Flights,7.6607%
+-1,Momondo,Bulgaria,Flights,3.3876%
+-1,Hotelscombined,Bulgaria,Flights,7.7817%
+-1,KAYAK,Bulgaria,Hotel,9.0561%
+-1,Hotelscombined,Bulgaria,Hotel,4.9927%
+-1,Momondo,Bulgaria,Hotel,0.9840%
+-1,KAYAK,Bulgaria,Hotel Citywide,4.2758%
+-1,Hotelscombined,Bulgaria,Hotel Citywide,7.9288%
+-1,Momondo,Bulgaria,Hotel Citywide,1.0538%
+-1,Swoodoo,Bulgaria,Hotel Citywide,0.0173%
+-1,Hotelscombined,Bulgaria,Vacations,13.2530%
+-1,Hotelscombined,Burkina Faso,Flights,6.2395%
+-1,KAYAK,Burkina Faso,Flights,0.2658%
+-1,Momondo,Burkina Faso,Flights,0.2378%
+-1,CheapFlights,Burkina Faso,Flights,0.1679%
+-1,KAYAK,Burkina Faso,Hotel,7.8571%
+-1,Hotelscombined,Burkina Faso,Hotel,5.0000%
+-1,Momondo,Burkina Faso,Hotel,1.4286%
+-1,KAYAK,Burkina Faso,Hotel Citywide,4.8599%
+-1,Momondo,Burkina Faso,Hotel Citywide,1.6792%
+-1,Hotelscombined,Burkina Faso,Hotel Citywide,1.9674%
+-1,KAYAK,Burundi,Flights,0.6957%
+-1,Hotelscombined,Burundi,Flights,3.6087%
+-1,CheapFlights,Burundi,Flights,0.4348%
+-1,Momondo,Burundi,Flights,0.2174%
+-1,Hotelscombined,Burundi,Hotel,8.3332%
+-1,KAYAK,Burundi,Hotel,4.1666%
+-1,KAYAK,Burundi,Hotel Citywide,6.8744%
+-1,Momondo,Burundi,Hotel Citywide,2.1990%
+-1,Hotelscombined,Burundi,Hotel Citywide,1.7933%
+-1,Momondo,Cabo Verde,Car Rentals,27.5000%
+-1,CheapFlights,Cabo Verde,Flights,8.8208%
+-1,KAYAK,Cabo Verde,Flights,5.2102%
+-1,Momondo,Cabo Verde,Flights,4.0562%
+-1,Hotelscombined,Cabo Verde,Flights,6.3642%
+-1,KAYAK,Cabo Verde,Hotel,7.4562%
+-1,Hotelscombined,Cabo Verde,Hotel,7.8948%
+-1,Momondo,Cabo Verde,Hotel,0.4386%
+-1,KAYAK,Cabo Verde,Hotel Citywide,4.2600%
+-1,Hotelscombined,Cabo Verde,Hotel Citywide,2.0749%
+-1,Momondo,Cabo Verde,Hotel Citywide,0.5325%
+-1,Hotelscombined,Cabo Verde,Vacations,16.6667%
+-1,KAYAK,Cabo Verde,Vacations,8.3333%
+-1,KAYAK,Cambodia,Flights,6.0778%
+-1,Momondo,Cambodia,Flights,0.7874%
+-1,Hotelscombined,Cambodia,Flights,6.7175%
+-1,CheapFlights,Cambodia,Flights,0.4921%
+-1,KAYAK,Cambodia,Hotel,9.2975%
+-1,Hotelscombined,Cambodia,Hotel,9.8140%
+-1,Momondo,Cambodia,Hotel,3.0992%
+-1,KAYAK,Cambodia,Hotel Citywide,10.5444%
+-1,Momondo,Cambodia,Hotel Citywide,2.2914%
+-1,Hotelscombined,Cambodia,Hotel Citywide,3.7933%
+-1,Hotelscombined,Cambodia,Vacations,25.0000%
+-1,Hotelscombined,Cameroon,Flights,5.5649%
+-1,KAYAK,Cameroon,Flights,0.2632%
+-1,Momondo,Cameroon,Flights,0.2140%
+-1,CheapFlights,Cameroon,Flights,0.2781%
+-1,KAYAK,Cameroon,Hotel,4.7826%
+-1,Hotelscombined,Cameroon,Hotel,3.6957%
+-1,Momondo,Cameroon,Hotel,0.4348%
+-1,KAYAK,Cameroon,Hotel Citywide,3.7440%
+-1,Momondo,Cameroon,Hotel Citywide,1.0435%
+-1,Hotelscombined,Cameroon,Hotel Citywide,2.3398%
+-1,KAYAK,Cameroon,Vacations,7.1429%
+-1,Hotelscombined,Cameroon,Vacations,7.1429%
+-1,Momondo,Canada,Car Rentals,18.6932%
+-1,KAYAK,Canada,Car Rentals,1.8182%
+-1,KAYAK,Canada,Flights,6.6422%
+-1,CheapFlights,Canada,Flights,2.4111%
+-1,Momondo,Canada,Flights,3.9836%
+-1,Hotelscombined,Canada,Flights,0.3844%
+-1,KAYAK,Canada,Hotel,5.4631%
+-1,Momondo,Canada,Hotel,1.1638%
+-1,Hotelscombined,Canada,Hotel,2.9994%
+-1,Swoodoo,Canada,Hotel,0.0007%
+-1,KAYAK,Canada,Hotel Citywide,2.4556%
+-1,Hotelscombined,Canada,Hotel Citywide,0.6237%
+-1,Momondo,Canada,Hotel Citywide,0.5407%
+-1,Swoodoo,Canada,Hotel Citywide,0.0004%
+-1,KAYAK,Canada,Vacations,10.4730%
+-1,Hotelscombined,Canada,Vacations,6.0135%
+-1,KAYAK,Cayman Islands,Flights,4.6116%
+-1,Hotelscombined,Cayman Islands,Flights,5.8252%
+-1,Momondo,Cayman Islands,Flights,0.6675%
+-1,CheapFlights,Cayman Islands,Flights,0.4854%
+-1,KAYAK,Cayman Islands,Hotel,7.4468%
+-1,Hotelscombined,Cayman Islands,Hotel,8.4346%
+-1,Momondo,Cayman Islands,Hotel,1.1398%
+-1,KAYAK,Cayman Islands,Hotel Citywide,10.5868%
+-1,Momondo,Cayman Islands,Hotel Citywide,1.1662%
+-1,Hotelscombined,Cayman Islands,Hotel Citywide,2.8972%
+-1,CheapFlights,Cayman Islands,Hotel Citywide,0.0364%
+-1,Hotelscombined,Cayman Islands,Vacations,18.7500%
+-1,KAYAK,Central African Republic,Flights,0.6042%
+-1,Hotelscombined,Central African Republic,Flights,4.0786%
+-1,CheapFlights,Central African Republic,Flights,0.3021%
+-1,Momondo,Central African Republic,Hotel,3.1250%
+-1,KAYAK,Central African Republic,Hotel Citywide,4.4548%
+-1,Momondo,Central African Republic,Hotel Citywide,2.5931%
+-1,Hotelscombined,Central African Republic,Hotel Citywide,1.9282%
+-1,KAYAK,Central African Republic,Vacations,25.0000%
+-1,KAYAK,Chad,Flights,0.3121%
+-1,Hotelscombined,Chad,Flights,6.1596%
+-1,CheapFlights,Chad,Flights,0.0657%
+-1,Momondo,Chad,Flights,0.0657%
+-1,KAYAK,Chad,Hotel,3.3333%
+-1,Hotelscombined,Chad,Hotel,5.0000%
+-1,KAYAK,Chad,Hotel Citywide,3.4870%
+-1,Momondo,Chad,Hotel Citywide,1.0480%
+-1,Hotelscombined,Chad,Hotel Citywide,1.4482%
+-1,Momondo,Chile,Car Rentals,23.8552%
+-1,KAYAK,Chile,Car Rentals,1.5708%
+-1,KAYAK,Chile,Flights,3.0686%
+-1,Hotelscombined,Chile,Flights,6.6838%
+-1,CheapFlights,Chile,Flights,2.4547%
+-1,Momondo,Chile,Flights,1.2231%
+-1,Hotelscombined,Chile,Hotel,8.9184%
+-1,KAYAK,Chile,Hotel,7.0520%
+-1,Momondo,Chile,Hotel,1.2721%
+-1,Momondo,Chile,Hotel Citywide,2.7231%
+-1,Hotelscombined,Chile,Hotel Citywide,3.3862%
+-1,KAYAK,Chile,Hotel Citywide,0.3707%
+-1,Swoodoo,Chile,Hotel Citywide,0.0002%
+-1,Hotelscombined,Chile,Vacations,17.9825%
+-1,Momondo,China,Car Rentals,25.0000%
+-1,Hotelscombined,China,Flights,9.9776%
+-1,CheapFlights,China,Flights,0.1121%
+-1,Hotelscombined,China,Hotel,6.2146%
+-1,Hotelscombined,China,Hotel Citywide,13.2988%
+-1,KAYAK,China,Hotel Citywide,0.0337%
+-1,Momondo,China,Hotel Citywide,0.0142%
+-1,Hotelscombined,China,Vacations,9.3750%
+-1,Momondo,Colombia,Car Rentals,24.2021%
+-1,KAYAK,Colombia,Car Rentals,1.3298%
+-1,KAYAK,Colombia,Flights,4.7862%
+-1,CheapFlights,Colombia,Flights,4.1483%
+-1,Momondo,Colombia,Flights,2.7747%
+-1,Hotelscombined,Colombia,Flights,1.9900%
+-1,Hotelscombined,Colombia,Hotel,8.2534%
+-1,KAYAK,Colombia,Hotel,7.8257%
+-1,Momondo,Colombia,Hotel,1.2886%
+-1,KAYAK,Colombia,Hotel Citywide,7.4743%
+-1,Hotelscombined,Colombia,Hotel Citywide,3.9482%
+-1,Momondo,Colombia,Hotel Citywide,1.6397%
+-1,Swoodoo,Colombia,Hotel Citywide,0.0017%
+-1,Hotelscombined,Colombia,Vacations,18.5324%
+-1,KAYAK,Colombia,Vacations,0.4975%
+-1,KAYAK,Comoros,Flights,0.2676%
+-1,Hotelscombined,Comoros,Flights,3.4021%
+-1,CheapFlights,Comoros,Flights,0.4205%
+-1,KAYAK,Comoros,Hotel,10.0000%
+-1,Momondo,Comoros,Hotel,5.0000%
+-1,Hotelscombined,Comoros,Hotel,10.0000%
+-1,KAYAK,Comoros,Hotel Citywide,5.0210%
+-1,Momondo,Comoros,Hotel Citywide,1.7783%
+-1,Hotelscombined,Comoros,Hotel Citywide,2.4059%
+-1,KAYAK,Congo Republic,Flights,0.3513%
+-1,Hotelscombined,Congo Republic,Flights,4.7965%
+-1,CheapFlights,Congo Republic,Flights,0.1938%
+-1,Momondo,Congo Republic,Flights,0.0969%
+-1,Momondo,Congo Republic,Hotel,5.2632%
+-1,Hotelscombined,Congo Republic,Hotel,5.2632%
+-1,KAYAK,Congo Republic,Hotel,4.6053%
+-1,KAYAK,Congo Republic,Hotel Citywide,9.0347%
+-1,Momondo,Congo Republic,Hotel Citywide,2.4033%
+-1,Hotelscombined,Congo Republic,Hotel Citywide,2.1540%
+-1,Hotelscombined,Congo Republic,Vacations,12.5000%
+-1,KAYAK,Congo Republic,Vacations,12.5000%
+-1,KAYAK,Cook Islands,Flights,4.5455%
+-1,Hotelscombined,Cook Islands,Flights,6.8182%
+-1,KAYAK,Cook Islands,Hotel,3.2258%
+-1,Momondo,Cook Islands,Hotel,3.2258%
+-1,Hotelscombined,Cook Islands,Hotel,2.4194%
+-1,KAYAK,Cook Islands,Hotel Citywide,5.1887%
+-1,Momondo,Cook Islands,Hotel Citywide,1.8868%
+-1,Hotelscombined,Cook Islands,Hotel Citywide,2.8302%
+-1,Momondo,Costa Rica,Car Rentals,25.0000%
+-1,Hotelscombined,Costa Rica,Flights,4.7990%
+-1,Momondo,Costa Rica,Flights,0.3488%
+-1,KAYAK,Costa Rica,Flights,0.2976%
+-1,CheapFlights,Costa Rica,Flights,0.3183%
+-1,Hotelscombined,Costa Rica,Hotel,8.4746%
+-1,KAYAK,Costa Rica,Hotel,7.1708%
+-1,Momondo,Costa Rica,Hotel,1.3722%
+-1,Hotelscombined,Costa Rica,Hotel Citywide,5.2300%
+-1,KAYAK,Costa Rica,Hotel Citywide,4.7789%
+-1,Momondo,Costa Rica,Hotel Citywide,2.0486%
+-1,CheapFlights,Costa Rica,Hotel Citywide,0.0259%
+-1,Swoodoo,Costa Rica,Hotel Citywide,0.0006%
+-1,Hotelscombined,Costa Rica,Vacations,13.6364%
+-1,KAYAK,Costa Rica,Vacations,2.2727%
+-1,KAYAK,Croatia,Car Rentals,8.3333%
+-1,Momondo,Croatia,Car Rentals,16.6666%
+-1,Hotelscombined,Croatia,Flights,11.9930%
+-1,KAYAK,Croatia,Flights,2.5475%
+-1,CheapFlights,Croatia,Flights,3.0673%
+-1,Momondo,Croatia,Flights,1.1459%
+-1,KAYAK,Croatia,Hotel,11.0401%
+-1,Hotelscombined,Croatia,Hotel,7.4635%
+-1,Momondo,Croatia,Hotel,0.6752%
+-1,Swoodoo,Croatia,Hotel,0.0182%
+-1,KAYAK,Croatia,Hotel Citywide,8.4137%
+-1,Momondo,Croatia,Hotel Citywide,1.0354%
+-1,Hotelscombined,Croatia,Hotel Citywide,1.8564%
+-1,Swoodoo,Croatia,Hotel Citywide,0.0797%
+-1,Hotelscombined,Croatia,Vacations,15.9420%
+-1,KAYAK,Croatia,Vacations,0.7246%
+-1,Momondo,Cuba,Car Rentals,25.0000%
+-1,CheapFlights,Cuba,Flights,2.0705%
+-1,KAYAK,Cuba,Flights,1.0296%
+-1,Hotelscombined,Cuba,Flights,3.8268%
+-1,Momondo,Cuba,Flights,0.8848%
+-1,KAYAK,Cuba,Hotel,4.3479%
+-1,Momondo,Cuba,Hotel,2.1739%
+-1,Hotelscombined,Cuba,Hotel,2.1739%
+-1,KAYAK,Cuba,Hotel Citywide,2.2154%
+-1,Hotelscombined,Cuba,Hotel Citywide,1.5719%
+-1,Momondo,Cuba,Hotel Citywide,0.3191%
+-1,CheapFlights,Cuba,Hotel Citywide,0.0704%
+-1,Swoodoo,Cuba,Hotel Citywide,0.0011%
+-1,Hotelscombined,Cuba,Vacations,7.1429%
+-1,KAYAK,Curaçao,Flights,4.8538%
+-1,CheapFlights,Curaçao,Flights,1.9591%
+-1,Hotelscombined,Curaçao,Flights,6.2866%
+-1,Momondo,Curaçao,Flights,1.2573%
+-1,KAYAK,Curaçao,Hotel,5.7875%
+-1,Hotelscombined,Curaçao,Hotel,6.6825%
+-1,Momondo,Curaçao,Hotel,0.5370%
+-1,KAYAK,Curaçao,Hotel Citywide,10.7766%
+-1,Hotelscombined,Curaçao,Hotel Citywide,2.0698%
+-1,Momondo,Curaçao,Hotel Citywide,0.9494%
+-1,Hotelscombined,Curaçao,Vacations,25.0000%
+-1,Momondo,Cyprus,Car Rentals,25.0000%
+-1,CheapFlights,Cyprus,Flights,4.8890%
+-1,KAYAK,Cyprus,Flights,2.0174%
+-1,Hotelscombined,Cyprus,Flights,7.5996%
+-1,Momondo,Cyprus,Flights,1.3405%
+-1,KAYAK,Cyprus,Hotel,8.0537%
+-1,Hotelscombined,Cyprus,Hotel,3.2359%
+-1,Momondo,Cyprus,Hotel,0.8629%
+-1,KAYAK,Cyprus,Hotel Citywide,6.1143%
+-1,Hotelscombined,Cyprus,Hotel Citywide,2.2418%
+-1,Momondo,Cyprus,Hotel Citywide,0.8735%
+-1,Swoodoo,Cyprus,Hotel Citywide,0.0043%
+-1,Hotelscombined,Cyprus,Vacations,13.2978%
+-1,Momondo,Czechia,Car Rentals,25.0000%
+-1,Hotelscombined,Czechia,Flights,12.4191%
+-1,CheapFlights,Czechia,Flights,1.7725%
+-1,Momondo,Czechia,Flights,0.4076%
+-1,KAYAK,Czechia,Flights,0.1096%
+-1,Hotelscombined,Czechia,Hotel,7.8795%
+-1,KAYAK,Czechia,Hotel,2.7988%
+-1,Momondo,Czechia,Hotel,0.1891%
+-1,Swoodoo,Czechia,Hotel,0.0126%
+-1,KAYAK,Czechia,Hotel Citywide,7.2312%
+-1,Hotelscombined,Czechia,Hotel Citywide,2.0646%
+-1,Momondo,Czechia,Hotel Citywide,0.2105%
+-1,Swoodoo,Czechia,Hotel Citywide,0.0031%
+-1,Hotelscombined,Czechia,Vacations,17.3077%
+-1,KAYAK,Czechia,Vacations,1.6026%
+-1,KAYAK,DR Congo,Flights,0.4592%
+-1,Hotelscombined,DR Congo,Flights,7.0471%
+-1,CheapFlights,DR Congo,Flights,0.3697%
+-1,Momondo,DR Congo,Flights,0.1531%
+-1,Hotelscombined,DR Congo,Hotel,9.1603%
+-1,KAYAK,DR Congo,Hotel,8.5878%
+-1,Momondo,DR Congo,Hotel,4.0076%
+-1,KAYAK,DR Congo,Hotel Citywide,6.3961%
+-1,Momondo,DR Congo,Hotel Citywide,2.2969%
+-1,Hotelscombined,DR Congo,Hotel Citywide,3.1796%
+-1,KAYAK,DR Congo,Vacations,12.5000%
+-1,Hotelscombined,DR Congo,Vacations,2.0833%
+-1,Momondo,Denmark,Car Rentals,22.9167%
+-1,KAYAK,Denmark,Car Rentals,2.0833%
+-1,Momondo,Denmark,Flights,14.1387%
+-1,CheapFlights,Denmark,Flights,1.1421%
+-1,Hotelscombined,Denmark,Flights,2.6886%
+-1,KAYAK,Denmark,Flights,1.2132%
+-1,Swoodoo,Denmark,Flights,0.0013%
+-1,Momondo,Denmark,Hotel,2.1467%
+-1,Hotelscombined,Denmark,Hotel,7.8129%
+-1,KAYAK,Denmark,Hotel,3.5501%
+-1,Swoodoo,Denmark,Hotel,0.0044%
+-1,Momondo,Denmark,Hotel Citywide,23.3323%
+-1,Hotelscombined,Denmark,Hotel Citywide,10.3525%
+-1,KAYAK,Denmark,Hotel Citywide,6.5325%
+-1,Swoodoo,Denmark,Hotel Citywide,0.3028%
+-1,Hotelscombined,Denmark,Vacations,17.4582%
+-1,KAYAK,Denmark,Vacations,0.9777%
+-1,KAYAK,Djibouti,Flights,1.9531%
+-1,Hotelscombined,Djibouti,Flights,6.2500%
+-1,Momondo,Djibouti,Flights,0.3906%
+-1,CheapFlights,Djibouti,Flights,0.6510%
+-1,KAYAK,Djibouti,Hotel,6.4286%
+-1,Hotelscombined,Djibouti,Hotel,6.4286%
+-1,Momondo,Djibouti,Hotel,1.4286%
+-1,KAYAK,Djibouti,Hotel Citywide,8.0503%
+-1,Momondo,Djibouti,Hotel Citywide,2.6415%
+-1,Hotelscombined,Djibouti,Hotel Citywide,2.3585%
+-1,Hotelscombined,Djibouti,Vacations,12.5000%
+-1,KAYAK,Djibouti,Vacations,12.5000%
+-1,KAYAK,Dominica,Flights,12.9687%
+-1,Momondo,Dominica,Flights,1.5625%
+-1,Hotelscombined,Dominica,Flights,2.0312%
+-1,CheapFlights,Dominica,Flights,0.7812%
+-1,KAYAK,Dominica,Hotel,6.8182%
+-1,Hotelscombined,Dominica,Hotel,9.0910%
+-1,KAYAK,Dominica,Hotel Citywide,11.7378%
+-1,Momondo,Dominica,Hotel Citywide,1.9055%
+-1,Hotelscombined,Dominica,Hotel Citywide,2.2866%
+-1,CheapFlights,Dominica,Hotel Citywide,0.0762%
+-1,Hotelscombined,Dominica,Vacations,25.0000%
+-1,Momondo,Dominican Republic,Car Rentals,25.0000%
+-1,Hotelscombined,Dominican Republic,Flights,7.0633%
+-1,CheapFlights,Dominican Republic,Flights,0.5076%
+-1,Momondo,Dominican Republic,Flights,0.3938%
+-1,KAYAK,Dominican Republic,Flights,0.3422%
+-1,Hotelscombined,Dominican Republic,Hotel,6.2576%
+-1,KAYAK,Dominican Republic,Hotel,5.0912%
+-1,Momondo,Dominican Republic,Hotel,0.7708%
+-1,KAYAK,Dominican Republic,Hotel Citywide,4.6753%
+-1,Momondo,Dominican Republic,Hotel Citywide,1.9927%
+-1,Hotelscombined,Dominican Republic,Hotel Citywide,3.3431%
+-1,CheapFlights,Dominican Republic,Hotel Citywide,0.0899%
+-1,Swoodoo,Dominican Republic,Hotel Citywide,0.0028%
+-1,Hotelscombined,Dominican Republic,Vacations,17.3913%
+-1,KAYAK,Dominican Republic,Vacations,0.5435%
+-1,KAYAK,East Timor,Flights,7.8124%
+-1,Hotelscombined,East Timor,Flights,5.4687%
+-1,CheapFlights,East Timor,Flights,7.8124%
+-1,Momondo,East Timor,Flights,6.2500%
+-1,KAYAK,East Timor,Hotel,15.2778%
+-1,Hotelscombined,East Timor,Hotel,16.6667%
+-1,Momondo,East Timor,Hotel,12.5000%
+-1,KAYAK,East Timor,Hotel Citywide,7.9411%
+-1,Momondo,East Timor,Hotel Citywide,1.1765%
+-1,Hotelscombined,East Timor,Hotel Citywide,4.4117%
+-1,Momondo,Ecuador,Car Rentals,25.0000%
+-1,KAYAK,Ecuador,Car Rentals,3.3333%
+-1,Momondo,Ecuador,Flights,0.6845%
+-1,Hotelscombined,Ecuador,Flights,4.8880%
+-1,CheapFlights,Ecuador,Flights,0.4608%
+-1,KAYAK,Ecuador,Flights,0.3464%
+-1,Hotelscombined,Ecuador,Hotel,8.5295%
+-1,KAYAK,Ecuador,Hotel,7.3224%
+-1,Momondo,Ecuador,Hotel,1.2869%
+-1,Hotelscombined,Ecuador,Hotel Citywide,5.7728%
+-1,KAYAK,Ecuador,Hotel Citywide,5.7720%
+-1,Momondo,Ecuador,Hotel Citywide,2.0644%
+-1,Swoodoo,Ecuador,Hotel Citywide,0.0012%
+-1,Hotelscombined,Ecuador,Vacations,13.4615%
+-1,KAYAK,Ecuador,Vacations,1.9231%
+-1,KAYAK,Egypt,Flights,0.6441%
+-1,Hotelscombined,Egypt,Flights,3.7132%
+-1,Momondo,Egypt,Flights,0.2676%
+-1,CheapFlights,Egypt,Flights,0.1763%
+-1,KAYAK,Egypt,Hotel,6.6694%
+-1,Hotelscombined,Egypt,Hotel,5.5406%
+-1,Momondo,Egypt,Hotel,0.8285%
+-1,Swoodoo,Egypt,Hotel,0.0414%
+-1,KAYAK,Egypt,Hotel Citywide,5.8876%
+-1,Hotelscombined,Egypt,Hotel Citywide,2.3702%
+-1,Momondo,Egypt,Hotel Citywide,0.7157%
+-1,Swoodoo,Egypt,Hotel Citywide,0.0083%
+-1,Hotelscombined,Egypt,Vacations,15.1163%
+-1,KAYAK,Egypt,Vacations,1.1628%
+-1,Hotelscombined,El Salvador,Flights,4.4627%
+-1,Momondo,El Salvador,Flights,0.3128%
+-1,KAYAK,El Salvador,Flights,0.3428%
+-1,CheapFlights,El Salvador,Flights,0.2392%
+-1,Hotelscombined,El Salvador,Hotel,9.1545%
+-1,KAYAK,El Salvador,Hotel,7.4468%
+-1,Momondo,El Salvador,Hotel,1.2038%
+-1,Hotelscombined,El Salvador,Hotel Citywide,4.3228%
+-1,KAYAK,El Salvador,Hotel Citywide,3.6273%
+-1,Momondo,El Salvador,Hotel Citywide,1.5086%
+-1,CheapFlights,El Salvador,Hotel Citywide,0.0304%
+-1,Hotelscombined,El Salvador,Vacations,15.0000%
+-1,KAYAK,Equatorial Guinea,Flights,1.8456%
+-1,CheapFlights,Equatorial Guinea,Flights,1.8456%
+-1,Hotelscombined,Equatorial Guinea,Flights,3.8591%
+-1,Momondo,Equatorial Guinea,Flights,1.1745%
+-1,KAYAK,Equatorial Guinea,Hotel,2.7778%
+-1,Hotelscombined,Equatorial Guinea,Hotel,2.7778%
+-1,KAYAK,Equatorial Guinea,Hotel Citywide,5.3309%
+-1,Hotelscombined,Equatorial Guinea,Hotel Citywide,3.9522%
+-1,Momondo,Equatorial Guinea,Hotel Citywide,1.9301%
+-1,KAYAK,Eritrea,Flights,25.0000%
+-1,KAYAK,Eritrea,Hotel Citywide,9.0908%
+-1,Momondo,Eritrea,Hotel Citywide,4.5454%
+-1,Hotelscombined,Eritrea,Hotel Citywide,4.5454%
+-1,CheapFlights,Estonia,Flights,5.0347%
+-1,KAYAK,Estonia,Flights,2.2789%
+-1,Hotelscombined,Estonia,Flights,6.7315%
+-1,Momondo,Estonia,Flights,1.3562%
+-1,KAYAK,Estonia,Hotel,9.7474%
+-1,Hotelscombined,Estonia,Hotel,7.1429%
+-1,Momondo,Estonia,Hotel,1.0655%
+-1,KAYAK,Estonia,Hotel Citywide,8.5195%
+-1,Hotelscombined,Estonia,Hotel Citywide,2.8932%
+-1,Momondo,Estonia,Hotel Citywide,1.2786%
+-1,Swoodoo,Estonia,Hotel Citywide,0.0293%
+-1,Hotelscombined,Estonia,Vacations,14.1666%
+-1,KAYAK,Estonia,Vacations,1.6667%
+-1,KAYAK,Eswatini,Flights,3.5959%
+-1,CheapFlights,Eswatini,Flights,3.0822%
+-1,Hotelscombined,Eswatini,Flights,5.4794%
+-1,Momondo,Eswatini,Flights,1.3699%
+-1,KAYAK,Eswatini,Hotel,6.7308%
+-1,Momondo,Eswatini,Hotel,2.8846%
+-1,Hotelscombined,Eswatini,Hotel,5.7692%
+-1,KAYAK,Eswatini,Hotel Citywide,7.0416%
+-1,Hotelscombined,Eswatini,Hotel Citywide,2.8828%
+-1,Momondo,Eswatini,Hotel Citywide,1.1342%
+-1,KAYAK,Ethiopia,Flights,6.9499%
+-1,Momondo,Ethiopia,Flights,1.4980%
+-1,CheapFlights,Ethiopia,Flights,0.9823%
+-1,Hotelscombined,Ethiopia,Flights,3.0697%
+-1,KAYAK,Ethiopia,Hotel,7.1943%
+-1,Hotelscombined,Ethiopia,Hotel,7.3742%
+-1,Momondo,Ethiopia,Hotel,0.8993%
+-1,KAYAK,Ethiopia,Hotel Citywide,6.5817%
+-1,Momondo,Ethiopia,Hotel Citywide,1.5911%
+-1,Hotelscombined,Ethiopia,Hotel Citywide,1.7277%
+-1,KAYAK,Ethiopia,Vacations,16.6666%
+-1,KAYAK,Falkland Islands,Flights,2.3810%
+-1,CheapFlights,Falkland Islands,Flights,2.3810%
+-1,KAYAK,Falkland Islands,Hotel Citywide,3.7500%
+-1,Hotelscombined,Falkland Islands,Hotel Citywide,4.3750%
+-1,CheapFlights,Faroe Islands,Flights,2.5603%
+-1,Hotelscombined,Faroe Islands,Flights,11.4459%
+-1,Momondo,Faroe Islands,Flights,0.7530%
+-1,KAYAK,Faroe Islands,Flights,1.2048%
+-1,KAYAK,Faroe Islands,Hotel,12.3016%
+-1,Hotelscombined,Faroe Islands,Hotel,5.1587%
+-1,Momondo,Faroe Islands,Hotel,2.3810%
+-1,KAYAK,Faroe Islands,Hotel Citywide,12.9496%
+-1,Momondo,Faroe Islands,Hotel Citywide,1.5108%
+-1,Hotelscombined,Faroe Islands,Hotel Citywide,2.4460%
+-1,Hotelscombined,Faroe Islands,Vacations,25.0000%
+-1,KAYAK,Federated States of Micronesia,Flights,10.2941%
+-1,KAYAK,Federated States of Micronesia,Hotel,6.2500%
+-1,Momondo,Federated States of Micronesia,Hotel,6.2500%
+-1,Hotelscombined,Federated States of Micronesia,Hotel,6.2500%
+-1,KAYAK,Federated States of Micronesia,Hotel Citywide,8.9843%
+-1,Hotelscombined,Federated States of Micronesia,Hotel Citywide,3.9062%
+-1,Momondo,Federated States of Micronesia,Hotel Citywide,1.9531%
+-1,KAYAK,Fiji,Flights,6.7661%
+-1,Momondo,Fiji,Flights,1.7202%
+-1,CheapFlights,Fiji,Flights,1.3761%
+-1,Hotelscombined,Fiji,Flights,4.0138%
+-1,Hotelscombined,Fiji,Hotel,5.6390%
+-1,KAYAK,Fiji,Hotel,4.8636%
+-1,Momondo,Fiji,Hotel,0.9868%
+-1,KAYAK,Fiji,Hotel Citywide,11.4819%
+-1,Momondo,Fiji,Hotel Citywide,2.3865%
+-1,Hotelscombined,Fiji,Hotel Citywide,3.3211%
+-1,Momondo,Finland,Car Rentals,25.0000%
+-1,KAYAK,Finland,Car Rentals,0.8065%
+-1,Momondo,Finland,Flights,15.7542%
+-1,CheapFlights,Finland,Flights,5.5208%
+-1,Hotelscombined,Finland,Flights,3.8369%
+-1,KAYAK,Finland,Flights,3.9504%
+-1,Hotelscombined,Finland,Hotel,9.1845%
+-1,Momondo,Finland,Hotel,0.9158%
+-1,KAYAK,Finland,Hotel,2.1310%
+-1,Swoodoo,Finland,Hotel,0.0176%
+-1,Momondo,Finland,Hotel Citywide,8.4313%
+-1,Hotelscombined,Finland,Hotel Citywide,3.3154%
+-1,KAYAK,Finland,Hotel Citywide,1.6355%
+-1,Swoodoo,Finland,Hotel Citywide,0.0836%
+-1,Hotelscombined,Finland,Vacations,18.3334%
+-1,KAYAK,Finland,Vacations,1.1111%
+-1,Momondo,France,Car Rentals,24.8438%
+-1,KAYAK,France,Car Rentals,0.3125%
+-1,KAYAK,France,Flights,9.0000%
+-1,CheapFlights,France,Flights,0.9098%
+-1,Hotelscombined,France,Flights,6.7359%
+-1,Momondo,France,Flights,0.6797%
+-1,KAYAK,France,Hotel,6.3774%
+-1,Momondo,France,Hotel,0.5654%
+-1,Hotelscombined,France,Hotel,1.3064%
+-1,Swoodoo,France,Hotel,0.0277%
+-1,KAYAK,France,Hotel Citywide,11.0830%
+-1,Momondo,France,Hotel Citywide,1.4729%
+-1,Hotelscombined,France,Hotel Citywide,0.5567%
+-1,Swoodoo,France,Hotel Citywide,0.0073%
+-1,KAYAK,France,Vacations,17.1364%
+-1,Hotelscombined,France,Vacations,1.0086%
+-1,CheapFlights,French Guiana,Flights,0.8597%
+-1,Hotelscombined,French Guiana,Flights,5.3989%
+-1,KAYAK,French Guiana,Flights,0.4470%
+-1,Momondo,French Guiana,Flights,0.1376%
+-1,KAYAK,French Guiana,Hotel,4.2308%
+-1,Hotelscombined,French Guiana,Hotel,5.0000%
+-1,Momondo,French Guiana,Hotel,0.7692%
+-1,KAYAK,French Guiana,Hotel Citywide,6.0964%
+-1,Momondo,French Guiana,Hotel Citywide,1.7396%
+-1,Hotelscombined,French Guiana,Hotel Citywide,1.7499%
+-1,KAYAK,French Guiana,Vacations,14.8148%
+-1,Hotelscombined,French Guiana,Vacations,2.7778%
+-1,Momondo,French Polynesia,Car Rentals,25.0000%
+-1,Hotelscombined,French Polynesia,Flights,6.2728%
+-1,KAYAK,French Polynesia,Flights,0.1562%
+-1,CheapFlights,French Polynesia,Flights,0.2343%
+-1,Momondo,French Polynesia,Flights,0.0130%
+-1,KAYAK,French Polynesia,Hotel,5.2610%
+-1,Hotelscombined,French Polynesia,Hotel,4.6297%
+-1,Momondo,French Polynesia,Hotel,1.3047%
+-1,KAYAK,French Polynesia,Hotel Citywide,5.3203%
+-1,Momondo,French Polynesia,Hotel Citywide,1.0102%
+-1,Hotelscombined,French Polynesia,Hotel Citywide,2.6954%
+-1,Hotelscombined,Gabon,Flights,5.8736%
+-1,KAYAK,Gabon,Flights,0.1638%
+-1,CheapFlights,Gabon,Flights,0.2028%
+-1,Momondo,Gabon,Flights,0.0312%
+-1,KAYAK,Gabon,Hotel,9.7458%
+-1,Momondo,Gabon,Hotel,0.4237%
+-1,Hotelscombined,Gabon,Hotel,5.0848%
+-1,KAYAK,Gabon,Hotel Citywide,5.3624%
+-1,Momondo,Gabon,Hotel Citywide,1.3144%
+-1,Hotelscombined,Gabon,Hotel Citywide,1.2751%
+-1,Hotelscombined,Gabon,Vacations,12.5000%
+-1,KAYAK,Gambia,Flights,1.5514%
+-1,Hotelscombined,Gambia,Flights,8.5106%
+-1,CheapFlights,Gambia,Flights,2.3493%
+-1,Momondo,Gambia,Flights,2.1277%
+-1,KAYAK,Gambia,Hotel,5.3572%
+-1,Hotelscombined,Gambia,Hotel,4.7619%
+-1,Momondo,Gambia,Hotel,1.7857%
+-1,KAYAK,Gambia,Hotel Citywide,3.8651%
+-1,Momondo,Gambia,Hotel Citywide,0.9320%
+-1,Hotelscombined,Gambia,Hotel Citywide,2.1382%
+-1,Hotelscombined,Gambia,Vacations,25.0000%
+-1,Momondo,Georgia,Car Rentals,25.0000%
+-1,KAYAK,Georgia,Flights,2.4424%
+-1,CheapFlights,Georgia,Flights,1.6159%
+-1,Hotelscombined,Georgia,Flights,12.0449%
+-1,Momondo,Georgia,Flights,1.0308%
+-1,KAYAK,Georgia,Hotel,10.4054%
+-1,Hotelscombined,Georgia,Hotel,8.8513%
+-1,Momondo,Georgia,Hotel,1.6892%
+-1,KAYAK,Georgia,Hotel Citywide,12.7211%
+-1,Momondo,Georgia,Hotel Citywide,1.4026%
+-1,Hotelscombined,Georgia,Hotel Citywide,2.5781%
+-1,Swoodoo,Georgia,Hotel Citywide,0.0139%
+-1,Hotelscombined,Georgia,Vacations,19.0001%
+-1,KAYAK,Georgia,Vacations,2.0000%
+-1,Momondo,Germany,Car Rentals,24.4381%
+-1,KAYAK,Germany,Car Rentals,1.4045%
+-1,Swoodoo,Germany,Flights,6.0000%
+-1,Momondo,Germany,Flights,4.4207%
+-1,KAYAK,Germany,Flights,4.7668%
+-1,CheapFlights,Germany,Flights,0.5966%
+-1,Hotelscombined,Germany,Flights,3.4115%
+-1,Swoodoo,Germany,Hotel,10.8057%
+-1,Hotelscombined,Germany,Hotel,3.8621%
+-1,KAYAK,Germany,Hotel,1.5329%
+-1,Momondo,Germany,Hotel,0.5074%
+-1,Swoodoo,Germany,Hotel Citywide,2.2808%
+-1,Momondo,Germany,Hotel Citywide,4.9089%
+-1,KAYAK,Germany,Hotel Citywide,3.2541%
+-1,Hotelscombined,Germany,Hotel Citywide,2.1958%
+-1,KAYAK,Germany,Vacations,15.0000%
+-1,Hotelscombined,Germany,Vacations,6.5916%
+-1,KAYAK,Ghana,Flights,0.6949%
+-1,Hotelscombined,Ghana,Flights,10.9310%
+-1,Momondo,Ghana,Flights,0.8493%
+-1,CheapFlights,Ghana,Flights,0.6011%
+-1,KAYAK,Ghana,Hotel,4.3201%
+-1,Hotelscombined,Ghana,Hotel,4.7451%
+-1,Momondo,Ghana,Hotel,0.6374%
+-1,KAYAK,Ghana,Hotel Citywide,5.5566%
+-1,Hotelscombined,Ghana,Hotel Citywide,3.0363%
+-1,Momondo,Ghana,Hotel Citywide,1.4446%
+-1,KAYAK,Ghana,Vacations,5.5556%
+-1,Hotelscombined,Ghana,Vacations,11.1111%
+-1,KAYAK,Gibraltar,Flights,5.1224%
+-1,CheapFlights,Gibraltar,Flights,2.9817%
+-1,Hotelscombined,Gibraltar,Flights,7.7218%
+-1,Momondo,Gibraltar,Flights,2.2936%
+-1,KAYAK,Gibraltar,Hotel,7.2182%
+-1,Hotelscombined,Gibraltar,Hotel,7.2182%
+-1,Momondo,Gibraltar,Hotel,0.5282%
+-1,KAYAK,Gibraltar,Hotel Citywide,9.2543%
+-1,Hotelscombined,Gibraltar,Hotel Citywide,3.2994%
+-1,Momondo,Gibraltar,Hotel Citywide,1.2876%
+-1,Hotelscombined,Gibraltar,Vacations,16.6667%
+-1,Momondo,Greece,Car Rentals,25.0000%
+-1,KAYAK,Greece,Car Rentals,4.1667%
+-1,CheapFlights,Greece,Flights,4.6124%
+-1,Hotelscombined,Greece,Flights,6.5793%
+-1,Momondo,Greece,Flights,0.8105%
+-1,KAYAK,Greece,Flights,0.3113%
+-1,Hotelscombined,Greece,Hotel,9.7198%
+-1,Momondo,Greece,Hotel,1.0676%
+-1,KAYAK,Greece,Hotel,1.5169%
+-1,KAYAK,Greece,Hotel Citywide,2.7784%
+-1,Momondo,Greece,Hotel Citywide,3.0657%
+-1,Hotelscombined,Greece,Hotel Citywide,3.3419%
+-1,Swoodoo,Greece,Hotel Citywide,0.0309%
+-1,Hotelscombined,Greece,Vacations,14.8586%
+-1,KAYAK,Greece,Vacations,1.6510%
+-1,KAYAK,Greenland,Flights,2.5568%
+-1,Hotelscombined,Greenland,Flights,8.5228%
+-1,CheapFlights,Greenland,Flights,0.2841%
+-1,KAYAK,Greenland,Hotel,10.7143%
+-1,Hotelscombined,Greenland,Hotel,3.9286%
+-1,Momondo,Greenland,Hotel,0.3571%
+-1,KAYAK,Greenland,Hotel Citywide,14.4495%
+-1,Hotelscombined,Greenland,Hotel Citywide,4.3578%
+-1,Momondo,Greenland,Hotel Citywide,1.4908%
+-1,Swoodoo,Greenland,Hotel Citywide,0.2294%
+-1,KAYAK,Grenada,Flights,7.3122%
+-1,Momondo,Grenada,Flights,1.2846%
+-1,Hotelscombined,Grenada,Flights,5.0395%
+-1,CheapFlights,Grenada,Flights,0.4941%
+-1,KAYAK,Grenada,Hotel,5.5557%
+-1,Hotelscombined,Grenada,Hotel,5.5557%
+-1,Momondo,Grenada,Hotel,0.5953%
+-1,KAYAK,Grenada,Hotel Citywide,7.7215%
+-1,Hotelscombined,Grenada,Hotel Citywide,2.8798%
+-1,Momondo,Grenada,Hotel Citywide,0.8861%
+-1,CheapFlights,Grenada,Hotel Citywide,0.0316%
+-1,Hotelscombined,Guadeloupe,Flights,5.3706%
+-1,CheapFlights,Guadeloupe,Flights,0.4415%
+-1,KAYAK,Guadeloupe,Flights,0.1086%
+-1,Momondo,Guadeloupe,Flights,0.1809%
+-1,KAYAK,Guadeloupe,Hotel,6.9940%
+-1,Hotelscombined,Guadeloupe,Hotel,5.0595%
+-1,Momondo,Guadeloupe,Hotel,1.0417%
+-1,KAYAK,Guadeloupe,Hotel Citywide,5.4698%
+-1,Hotelscombined,Guadeloupe,Hotel Citywide,2.2651%
+-1,Momondo,Guadeloupe,Hotel Citywide,0.7735%
+-1,CheapFlights,Guadeloupe,Hotel Citywide,0.0022%
+-1,Hotelscombined,Guadeloupe,Vacations,1.0563%
+-1,KAYAK,Guadeloupe,Vacations,0.3521%
+-1,KAYAK,Guam,Flights,13.9925%
+-1,Momondo,Guam,Flights,1.7724%
+-1,Hotelscombined,Guam,Flights,2.7985%
+-1,CheapFlights,Guam,Flights,0.3731%
+-1,KAYAK,Guam,Hotel,6.2846%
+-1,Hotelscombined,Guam,Hotel,6.0073%
+-1,Momondo,Guam,Hotel,0.8780%
+-1,KAYAK,Guam,Hotel Citywide,10.2360%
+-1,Momondo,Guam,Hotel Citywide,1.6829%
+-1,Hotelscombined,Guam,Hotel Citywide,3.6954%
+-1,Hotelscombined,Guatemala,Flights,6.3382%
+-1,Momondo,Guatemala,Flights,0.2421%
+-1,KAYAK,Guatemala,Flights,0.2925%
+-1,CheapFlights,Guatemala,Flights,0.1833%
+-1,Hotelscombined,Guatemala,Hotel,8.0493%
+-1,KAYAK,Guatemala,Hotel,4.8570%
+-1,Momondo,Guatemala,Hotel,1.1261%
+-1,Hotelscombined,Guatemala,Hotel Citywide,4.8745%
+-1,KAYAK,Guatemala,Hotel Citywide,2.9345%
+-1,Momondo,Guatemala,Hotel Citywide,0.8036%
+-1,CheapFlights,Guatemala,Hotel Citywide,0.0154%
+-1,Hotelscombined,Guatemala,Vacations,18.7500%
+-1,KAYAK,Guatemala,Vacations,3.1250%
+-1,KAYAK,Guernsey,Flights,0.7732%
+-1,Hotelscombined,Guernsey,Flights,11.5980%
+-1,CheapFlights,Guernsey,Flights,0.2577%
+-1,Momondo,Guernsey,Flights,0.2577%
+-1,KAYAK,Guernsey,Hotel,4.4181%
+-1,Hotelscombined,Guernsey,Hotel,5.4957%
+-1,Momondo,Guernsey,Hotel,0.3233%
+-1,KAYAK,Guernsey,Hotel Citywide,7.4107%
+-1,Momondo,Guernsey,Hotel Citywide,1.3393%
+-1,Hotelscombined,Guernsey,Hotel Citywide,2.9167%
+-1,Hotelscombined,Guernsey,Vacations,20.6522%
+-1,Hotelscombined,Guinea,Flights,8.7085%
+-1,KAYAK,Guinea,Flights,0.1909%
+-1,Momondo,Guinea,Flights,0.2172%
+-1,CheapFlights,Guinea,Flights,0.1316%
+-1,KAYAK,Guinea,Hotel,4.3750%
+-1,Hotelscombined,Guinea,Hotel,2.5000%
+-1,Momondo,Guinea,Hotel,0.6250%
+-1,KAYAK,Guinea,Hotel Citywide,4.9367%
+-1,Momondo,Guinea,Hotel Citywide,1.6456%
+-1,Hotelscombined,Guinea,Hotel Citywide,1.2719%
+-1,Hotelscombined,Guinea,Vacations,4.1667%
+-1,KAYAK,Guinea,Vacations,8.3333%
+-1,KAYAK,Guinea-Bissau,Flights,2.9268%
+-1,CheapFlights,Guinea-Bissau,Flights,4.2683%
+-1,Hotelscombined,Guinea-Bissau,Flights,5.2439%
+-1,Momondo,Guinea-Bissau,Flights,1.7073%
+-1,KAYAK,Guinea-Bissau,Hotel Citywide,5.3125%
+-1,Momondo,Guinea-Bissau,Hotel Citywide,0.9375%
+-1,Hotelscombined,Guinea-Bissau,Hotel Citywide,3.7500%
+-1,KAYAK,Guyana,Flights,4.7337%
+-1,Momondo,Guyana,Flights,0.8580%
+-1,Hotelscombined,Guyana,Flights,5.2959%
+-1,CheapFlights,Guyana,Flights,0.5621%
+-1,KAYAK,Guyana,Hotel,3.3132%
+-1,Hotelscombined,Guyana,Hotel,4.2168%
+-1,Momondo,Guyana,Hotel,1.2048%
+-1,KAYAK,Guyana,Hotel Citywide,10.2153%
+-1,Momondo,Guyana,Hotel Citywide,2.6362%
+-1,Hotelscombined,Guyana,Hotel Citywide,2.3067%
+-1,Swoodoo,Guyana,Hotel Citywide,0.0220%
+-1,Hotelscombined,Guyana,Vacations,25.0000%
+-1,KAYAK,Haiti,Flights,0.5860%
+-1,Hotelscombined,Haiti,Flights,3.6987%
+-1,CheapFlights,Haiti,Flights,0.5813%
+-1,Momondo,Haiti,Flights,0.3703%
+-1,KAYAK,Haiti,Hotel,7.0615%
+-1,Hotelscombined,Haiti,Hotel,8.1167%
+-1,Momondo,Haiti,Hotel,1.0552%
+-1,KAYAK,Haiti,Hotel Citywide,7.7270%
+-1,Hotelscombined,Haiti,Hotel Citywide,2.7909%
+-1,Momondo,Haiti,Hotel Citywide,1.7217%
+-1,CheapFlights,Haiti,Hotel Citywide,0.1111%
+-1,Hotelscombined,Haiti,Vacations,16.6667%
+-1,KAYAK,Hashemite Kingdom of Jordan,Flights,1.5171%
+-1,Hotelscombined,Hashemite Kingdom of Jordan,Flights,10.7380%
+-1,Momondo,Hashemite Kingdom of Jordan,Flights,0.7083%
+-1,CheapFlights,Hashemite Kingdom of Jordan,Flights,0.4897%
+-1,KAYAK,Hashemite Kingdom of Jordan,Hotel,7.5536%
+-1,Hotelscombined,Hashemite Kingdom of Jordan,Hotel,6.6277%
+-1,Momondo,Hashemite Kingdom of Jordan,Hotel,0.6335%
+-1,KAYAK,Hashemite Kingdom of Jordan,Hotel Citywide,8.8714%
+-1,Hotelscombined,Hashemite Kingdom of Jordan,Hotel Citywide,2.4001%
+-1,Momondo,Hashemite Kingdom of Jordan,Hotel Citywide,0.7030%
+-1,Swoodoo,Hashemite Kingdom of Jordan,Hotel Citywide,0.0047%
+-1,Hotelscombined,Hashemite Kingdom of Jordan,Vacations,18.0556%
+-1,Hotelscombined,Honduras,Flights,4.2462%
+-1,KAYAK,Honduras,Flights,0.2450%
+-1,Momondo,Honduras,Flights,0.1999%
+-1,CheapFlights,Honduras,Flights,0.1341%
+-1,Hotelscombined,Honduras,Hotel,6.9408%
+-1,KAYAK,Honduras,Hotel,3.2682%
+-1,Momondo,Honduras,Hotel,1.6510%
+-1,Hotelscombined,Honduras,Hotel Citywide,6.9523%
+-1,KAYAK,Honduras,Hotel Citywide,4.7680%
+-1,Momondo,Honduras,Hotel Citywide,1.7224%
+-1,CheapFlights,Honduras,Hotel Citywide,0.0272%
+-1,Swoodoo,Honduras,Hotel Citywide,0.0021%
+-1,Hotelscombined,Honduras,Vacations,12.5000%
+-1,KAYAK,Hong Kong,Flights,5.5709%
+-1,CheapFlights,Hong Kong,Flights,4.3739%
+-1,Momondo,Hong Kong,Flights,5.5402%
+-1,Hotelscombined,Hong Kong,Flights,6.3997%
+-1,Hotelscombined,Hong Kong,Hotel,9.3082%
+-1,Momondo,Hong Kong,Hotel,3.0993%
+-1,KAYAK,Hong Kong,Hotel,4.0537%
+-1,KAYAK,Hong Kong,Hotel Citywide,9.4808%
+-1,Momondo,Hong Kong,Hotel Citywide,5.6070%
+-1,Hotelscombined,Hong Kong,Hotel Citywide,4.8823%
+-1,Swoodoo,Hong Kong,Hotel Citywide,0.0215%
+-1,Hotelscombined,Hong Kong,Vacations,10.0001%
+-1,Momondo,Hungary,Car Rentals,21.5517%
+-1,KAYAK,Hungary,Car Rentals,4.3103%
+-1,Momondo,Hungary,Flights,7.6349%
+-1,Hotelscombined,Hungary,Flights,12.8186%
+-1,CheapFlights,Hungary,Flights,1.0342%
+-1,KAYAK,Hungary,Flights,0.9971%
+-1,Hotelscombined,Hungary,Hotel,8.7905%
+-1,Momondo,Hungary,Hotel,0.9373%
+-1,KAYAK,Hungary,Hotel,2.6342%
+-1,Swoodoo,Hungary,Hotel,0.0197%
+-1,KAYAK,Hungary,Hotel Citywide,6.8709%
+-1,Hotelscombined,Hungary,Hotel Citywide,4.7582%
+-1,Momondo,Hungary,Hotel Citywide,1.5777%
+-1,Swoodoo,Hungary,Hotel Citywide,0.0856%
+-1,Hotelscombined,Hungary,Vacations,15.2083%
+-1,KAYAK,Hungary,Vacations,1.0417%
+-1,Momondo,Iceland,Car Rentals,25.0000%
+-1,CheapFlights,Iceland,Flights,3.2099%
+-1,KAYAK,Iceland,Flights,2.1235%
+-1,Hotelscombined,Iceland,Flights,6.6544%
+-1,Momondo,Iceland,Flights,1.4815%
+-1,KAYAK,Iceland,Hotel,7.6248%
+-1,Hotelscombined,Iceland,Hotel,10.1664%
+-1,Momondo,Iceland,Hotel,0.3928%
+-1,KAYAK,Iceland,Hotel Citywide,7.4867%
+-1,Momondo,Iceland,Hotel Citywide,0.8554%
+-1,Hotelscombined,Iceland,Hotel Citywide,1.2812%
+-1,Swoodoo,Iceland,Hotel Citywide,0.0057%
+-1,Hotelscombined,Iceland,Vacations,11.4286%
+-1,Momondo,India,Car Rentals,25.0000%
+-1,KAYAK,India,Car Rentals,1.3514%
+-1,Momondo,India,Flights,4.3316%
+-1,KAYAK,India,Flights,4.4253%
+-1,CheapFlights,India,Flights,1.1053%
+-1,Hotelscombined,India,Flights,9.9932%
+-1,Swoodoo,India,Flights,0.0005%
+-1,Hotelscombined,India,Hotel,6.0000%
+-1,Momondo,India,Hotel,2.8570%
+-1,KAYAK,India,Hotel,3.3135%
+-1,Hotelscombined,India,Hotel Citywide,9.8317%
+-1,KAYAK,India,Hotel Citywide,7.4622%
+-1,Momondo,India,Hotel Citywide,1.1784%
+-1,Swoodoo,India,Hotel Citywide,0.0003%
+-1,Hotelscombined,India,Vacations,18.3071%
+-1,KAYAK,India,Vacations,0.3937%
+-1,Momondo,Indonesia,Flights,3.7006%
+-1,KAYAK,Indonesia,Flights,4.9718%
+-1,CheapFlights,Indonesia,Flights,2.4011%
+-1,Hotelscombined,Indonesia,Flights,2.9379%
+-1,Hotelscombined,Indonesia,Hotel,8.4929%
+-1,Momondo,Indonesia,Hotel,2.6826%
+-1,KAYAK,Indonesia,Hotel,5.5476%
+-1,Momondo,Indonesia,Hotel Citywide,3.8524%
+-1,Hotelscombined,Indonesia,Hotel Citywide,4.4636%
+-1,KAYAK,Indonesia,Hotel Citywide,6.9497%
+-1,Swoodoo,Indonesia,Hotel Citywide,0.0017%
+-1,Hotelscombined,Indonesia,Vacations,12.5000%
+-1,KAYAK,Indonesia,Vacations,1.7857%
+-1,Momondo,Iran,Car Rentals,20.0000%
+-1,KAYAK,Iran,Car Rentals,5.0000%
+-1,KAYAK,Iran,Flights,2.2335%
+-1,CheapFlights,Iran,Flights,2.7354%
+-1,Momondo,Iran,Flights,2.7778%
+-1,Hotelscombined,Iran,Flights,8.3475%
+-1,KAYAK,Iran,Hotel,4.8267%
+-1,Momondo,Iran,Hotel,1.2376%
+-1,Hotelscombined,Iran,Hotel,0.2475%
+-1,KAYAK,Iran,Hotel Citywide,10.6197%
+-1,Momondo,Iran,Hotel Citywide,1.8458%
+-1,Hotelscombined,Iran,Hotel Citywide,3.3284%
+-1,Swoodoo,Iran,Hotel Citywide,0.0253%
+-1,Hotelscombined,Iran,Vacations,12.5000%
+-1,Momondo,Iraq,Car Rentals,25.0000%
+-1,KAYAK,Iraq,Flights,4.4513%
+-1,Hotelscombined,Iraq,Flights,9.6526%
+-1,Momondo,Iraq,Flights,1.3423%
+-1,CheapFlights,Iraq,Flights,1.4903%
+-1,KAYAK,Iraq,Hotel,5.9364%
+-1,Hotelscombined,Iraq,Hotel,4.0970%
+-1,Momondo,Iraq,Hotel,0.6689%
+-1,KAYAK,Iraq,Hotel Citywide,9.5879%
+-1,Hotelscombined,Iraq,Hotel Citywide,3.5455%
+-1,Momondo,Iraq,Hotel Citywide,1.0618%
+-1,Hotelscombined,Iraq,Vacations,12.5000%
+-1,Momondo,Ireland,Car Rentals,25.0000%
+-1,CheapFlights,Ireland,Flights,0.7341%
+-1,Momondo,Ireland,Flights,2.7393%
+-1,Hotelscombined,Ireland,Flights,8.0587%
+-1,KAYAK,Ireland,Flights,3.8199%
+-1,KAYAK,Ireland,Hotel,5.5996%
+-1,Hotelscombined,Ireland,Hotel,6.5304%
+-1,Momondo,Ireland,Hotel,1.3669%
+-1,KAYAK,Ireland,Hotel Citywide,3.4995%
+-1,Momondo,Ireland,Hotel Citywide,1.1958%
+-1,Hotelscombined,Ireland,Hotel Citywide,3.2142%
+-1,Swoodoo,Ireland,Hotel Citywide,0.0093%
+-1,Hotelscombined,Ireland,Vacations,17.0774%
+-1,KAYAK,Ireland,Vacations,0.1258%
+-1,KAYAK,Isle of Man,Flights,0.8454%
+-1,Hotelscombined,Isle of Man,Flights,12.2585%
+-1,Momondo,Isle of Man,Flights,0.7246%
+-1,CheapFlights,Isle of Man,Flights,0.1208%
+-1,KAYAK,Isle of Man,Hotel,5.3371%
+-1,Hotelscombined,Isle of Man,Hotel,6.4607%
+-1,Momondo,Isle of Man,Hotel,0.2809%
+-1,KAYAK,Isle of Man,Hotel Citywide,6.0860%
+-1,Hotelscombined,Isle of Man,Hotel Citywide,4.1011%
+-1,Momondo,Isle of Man,Hotel Citywide,1.3123%
+-1,Hotelscombined,Isle of Man,Vacations,14.5833%
+-1,CheapFlights,Israel,Flights,2.2472%
+-1,Momondo,Israel,Flights,2.5523%
+-1,KAYAK,Israel,Flights,1.6077%
+-1,Hotelscombined,Israel,Flights,6.2738%
+-1,Hotelscombined,Israel,Hotel,8.6933%
+-1,KAYAK,Israel,Hotel,6.2592%
+-1,Momondo,Israel,Hotel,1.7492%
+-1,KAYAK,Israel,Hotel Citywide,9.8334%
+-1,Hotelscombined,Israel,Hotel Citywide,3.6713%
+-1,Momondo,Israel,Hotel Citywide,1.1373%
+-1,Swoodoo,Israel,Hotel Citywide,0.0029%
+-1,Hotelscombined,Israel,Vacations,13.1580%
+-1,KAYAK,Israel,Vacations,2.4671%
+-1,Momondo,Italy,Car Rentals,24.7664%
+-1,KAYAK,Italy,Car Rentals,3.5514%
+-1,CheapFlights,Italy,Flights,3.0000%
+-1,KAYAK,Italy,Flights,4.7300%
+-1,Momondo,Italy,Flights,0.5420%
+-1,Hotelscombined,Italy,Flights,2.0509%
+-1,KAYAK,Italy,Hotel,3.6205%
+-1,Hotelscombined,Italy,Hotel,2.9988%
+-1,Momondo,Italy,Hotel,0.1342%
+-1,Swoodoo,Italy,Hotel,0.0274%
+-1,KAYAK,Italy,Hotel Citywide,6.0000%
+-1,Hotelscombined,Italy,Hotel Citywide,4.7137%
+-1,Momondo,Italy,Hotel Citywide,0.2308%
+-1,Swoodoo,Italy,Hotel Citywide,0.0293%
+-1,Hotelscombined,Italy,Vacations,6.6635%
+-1,KAYAK,Italy,Vacations,0.0628%
+-1,Momondo,Ivory Coast,Car Rentals,25.0000%
+-1,Hotelscombined,Ivory Coast,Flights,11.2482%
+-1,KAYAK,Ivory Coast,Flights,0.1560%
+-1,Momondo,Ivory Coast,Flights,0.1193%
+-1,CheapFlights,Ivory Coast,Flights,0.0792%
+-1,Hotelscombined,Ivory Coast,Hotel,7.3043%
+-1,KAYAK,Ivory Coast,Hotel,5.7229%
+-1,Momondo,Ivory Coast,Hotel,2.9368%
+-1,KAYAK,Ivory Coast,Hotel Citywide,9.5464%
+-1,Momondo,Ivory Coast,Hotel Citywide,1.8800%
+-1,Hotelscombined,Ivory Coast,Hotel Citywide,2.4093%
+-1,KAYAK,Ivory Coast,Vacations,11.5385%
+-1,Hotelscombined,Ivory Coast,Vacations,2.5641%
+-1,KAYAK,Jamaica,Flights,2.0551%
+-1,Hotelscombined,Jamaica,Flights,4.6129%
+-1,Momondo,Jamaica,Flights,0.6410%
+-1,CheapFlights,Jamaica,Flights,0.2262%
+-1,KAYAK,Jamaica,Hotel,4.8574%
+-1,Hotelscombined,Jamaica,Hotel,5.4068%
+-1,Momondo,Jamaica,Hotel,0.8741%
+-1,KAYAK,Jamaica,Hotel Citywide,10.3241%
+-1,Hotelscombined,Jamaica,Hotel Citywide,2.8948%
+-1,Momondo,Jamaica,Hotel Citywide,1.1605%
+-1,CheapFlights,Jamaica,Hotel Citywide,0.0587%
+-1,Hotelscombined,Jamaica,Vacations,7.8124%
+-1,Momondo,Japan,Car Rentals,25.0000%
+-1,Momondo,Japan,Flights,4.7381%
+-1,KAYAK,Japan,Flights,7.9866%
+-1,CheapFlights,Japan,Flights,2.1700%
+-1,Hotelscombined,Japan,Flights,7.0365%
+-1,Hotelscombined,Japan,Hotel,7.5548%
+-1,Momondo,Japan,Hotel,2.3964%
+-1,KAYAK,Japan,Hotel,3.8586%
+-1,Momondo,Japan,Hotel Citywide,3.5818%
+-1,Hotelscombined,Japan,Hotel Citywide,4.4827%
+-1,KAYAK,Japan,Hotel Citywide,0.7580%
+-1,Swoodoo,Japan,Hotel Citywide,0.0067%
+-1,Hotelscombined,Japan,Vacations,10.0000%
+-1,KAYAK,Japan,Vacations,2.0000%
+-1,Momondo,Jersey,Car Rentals,25.0000%
+-1,KAYAK,Jersey,Flights,1.4778%
+-1,Hotelscombined,Jersey,Flights,10.7143%
+-1,Momondo,Jersey,Flights,1.1084%
+-1,CheapFlights,Jersey,Flights,0.7389%
+-1,KAYAK,Jersey,Hotel,5.0000%
+-1,Hotelscombined,Jersey,Hotel,5.6383%
+-1,Momondo,Jersey,Hotel,0.2482%
+-1,KAYAK,Jersey,Hotel Citywide,8.3041%
+-1,Momondo,Jersey,Hotel Citywide,1.2728%
+-1,Hotelscombined,Jersey,Hotel Citywide,2.5720%
+-1,Hotelscombined,Jersey,Vacations,16.3158%
+-1,CheapFlights,Kazakhstan,Flights,4.0678%
+-1,KAYAK,Kazakhstan,Flights,2.2881%
+-1,Hotelscombined,Kazakhstan,Flights,5.1695%
+-1,Momondo,Kazakhstan,Flights,1.2712%
+-1,KAYAK,Kazakhstan,Hotel,8.9321%
+-1,Hotelscombined,Kazakhstan,Hotel,6.6367%
+-1,Momondo,Kazakhstan,Hotel,0.7984%
+-1,KAYAK,Kazakhstan,Hotel Citywide,4.3979%
+-1,Hotelscombined,Kazakhstan,Hotel Citywide,4.4986%
+-1,Momondo,Kazakhstan,Hotel Citywide,0.9080%
+-1,Swoodoo,Kazakhstan,Hotel Citywide,0.0039%
+-1,Hotelscombined,Kazakhstan,Vacations,10.2941%
+-1,Momondo,Kenya,Car Rentals,25.0000%
+-1,KAYAK,Kenya,Flights,2.8785%
+-1,Momondo,Kenya,Flights,1.3013%
+-1,CheapFlights,Kenya,Flights,0.9745%
+-1,Hotelscombined,Kenya,Flights,5.8360%
+-1,KAYAK,Kenya,Hotel,5.1719%
+-1,Hotelscombined,Kenya,Hotel,5.8203%
+-1,Momondo,Kenya,Hotel,0.4674%
+-1,KAYAK,Kenya,Hotel Citywide,5.9360%
+-1,Momondo,Kenya,Hotel Citywide,1.1107%
+-1,Hotelscombined,Kenya,Hotel Citywide,2.4656%
+-1,Swoodoo,Kenya,Hotel Citywide,0.0048%
+-1,Hotelscombined,Kenya,Vacations,14.5833%
+-1,KAYAK,Kiribati,Flights,25.0000%
+-1,Momondo,Kiribati,Hotel,25.0000%
+-1,Momondo,Kiribati,Hotel Citywide,8.3333%
+-1,Hotelscombined,Kosovo,Flights,14.1489%
+-1,CheapFlights,Kosovo,Flights,2.4468%
+-1,KAYAK,Kosovo,Flights,1.4894%
+-1,Momondo,Kosovo,Flights,1.1702%
+-1,Momondo,Kosovo,Hotel,6.2500%
+-1,Hotelscombined,Kosovo,Hotel,6.2500%
+-1,KAYAK,Kosovo,Hotel Citywide,7.4915%
+-1,Momondo,Kosovo,Hotel Citywide,1.5993%
+-1,Hotelscombined,Kosovo,Hotel Citywide,6.8181%
+-1,Hotelscombined,Kosovo,Vacations,12.5000%
+-1,KAYAK,Kuwait,Flights,3.3596%
+-1,Momondo,Kuwait,Flights,0.9767%
+-1,Hotelscombined,Kuwait,Flights,7.4254%
+-1,CheapFlights,Kuwait,Flights,0.2530%
+-1,KAYAK,Kuwait,Hotel,7.2211%
+-1,Hotelscombined,Kuwait,Hotel,5.5266%
+-1,Momondo,Kuwait,Hotel,0.5735%
+-1,KAYAK,Kuwait,Hotel Citywide,5.9163%
+-1,Hotelscombined,Kuwait,Hotel Citywide,4.6304%
+-1,Momondo,Kuwait,Hotel Citywide,0.6968%
+-1,Hotelscombined,Kuwait,Vacations,13.1579%
+-1,Momondo,Kyrgyzstan,Car Rentals,25.0000%
+-1,KAYAK,Kyrgyzstan,Flights,1.9097%
+-1,CheapFlights,Kyrgyzstan,Flights,0.8681%
+-1,Hotelscombined,Kyrgyzstan,Flights,6.9444%
+-1,Momondo,Kyrgyzstan,Flights,0.6076%
+-1,Hotelscombined,Kyrgyzstan,Hotel,9.5745%
+-1,KAYAK,Kyrgyzstan,Hotel,9.5745%
+-1,Momondo,Kyrgyzstan,Hotel,3.9894%
+-1,KAYAK,Kyrgyzstan,Hotel Citywide,5.5486%
+-1,Hotelscombined,Kyrgyzstan,Hotel Citywide,7.2637%
+-1,Momondo,Kyrgyzstan,Hotel Citywide,1.4766%
+-1,Hotelscombined,Kyrgyzstan,Vacations,25.0000%
+-1,KAYAK,Laos,Flights,6.7252%
+-1,Momondo,Laos,Flights,1.3158%
+-1,Hotelscombined,Laos,Flights,3.8012%
+-1,CheapFlights,Laos,Flights,0.1462%
+-1,Hotelscombined,Laos,Hotel,12.2952%
+-1,KAYAK,Laos,Hotel,10.2460%
+-1,Momondo,Laos,Hotel,2.8689%
+-1,KAYAK,Laos,Hotel Citywide,12.1919%
+-1,Hotelscombined,Laos,Hotel Citywide,4.0933%
+-1,Momondo,Laos,Hotel Citywide,2.0467%
+-1,Momondo,Latvia,Car Rentals,25.0000%
+-1,CheapFlights,Latvia,Flights,4.5209%
+-1,KAYAK,Latvia,Flights,3.5845%
+-1,Hotelscombined,Latvia,Flights,7.5827%
+-1,Momondo,Latvia,Flights,1.5453%
+-1,KAYAK,Latvia,Hotel,9.6673%
+-1,Hotelscombined,Latvia,Hotel,6.4870%
+-1,Momondo,Latvia,Hotel,1.0952%
+-1,Swoodoo,Latvia,Hotel,0.0211%
+-1,KAYAK,Latvia,Hotel Citywide,8.3807%
+-1,Hotelscombined,Latvia,Hotel Citywide,2.4460%
+-1,Momondo,Latvia,Hotel Citywide,1.0709%
+-1,Swoodoo,Latvia,Hotel Citywide,0.0563%
+-1,Hotelscombined,Latvia,Vacations,16.0194%
+-1,KAYAK,Latvia,Vacations,0.9709%
+-1,KAYAK,Lebanon,Flights,1.8874%
+-1,Hotelscombined,Lebanon,Flights,10.1116%
+-1,Momondo,Lebanon,Flights,0.6481%
+-1,CheapFlights,Lebanon,Flights,0.5812%
+-1,KAYAK,Lebanon,Hotel,7.5397%
+-1,Hotelscombined,Lebanon,Hotel,5.2381%
+-1,Momondo,Lebanon,Hotel,0.4497%
+-1,KAYAK,Lebanon,Hotel Citywide,10.6548%
+-1,Hotelscombined,Lebanon,Hotel Citywide,3.1461%
+-1,Momondo,Lebanon,Hotel Citywide,1.1772%
+-1,Swoodoo,Lebanon,Hotel Citywide,0.0017%
+-1,KAYAK,Lebanon,Vacations,8.8235%
+-1,Hotelscombined,Lebanon,Vacations,2.9412%
+-1,KAYAK,Lesotho,Flights,0.9434%
+-1,Hotelscombined,Lesotho,Flights,6.3679%
+-1,CheapFlights,Lesotho,Flights,0.4717%
+-1,Hotelscombined,Lesotho,Hotel,2.7778%
+-1,KAYAK,Lesotho,Hotel,2.0833%
+-1,Momondo,Lesotho,Hotel,1.3889%
+-1,KAYAK,Lesotho,Hotel Citywide,7.1774%
+-1,Hotelscombined,Lesotho,Hotel Citywide,3.2258%
+-1,Momondo,Lesotho,Hotel Citywide,1.0887%
+-1,KAYAK,Liberia,Flights,3.5565%
+-1,Hotelscombined,Liberia,Flights,11.2971%
+-1,CheapFlights,Liberia,Flights,0.9414%
+-1,Momondo,Liberia,Flights,0.5230%
+-1,KAYAK,Liberia,Hotel,5.5556%
+-1,Momondo,Liberia,Hotel,1.3889%
+-1,Hotelscombined,Liberia,Hotel,4.1667%
+-1,KAYAK,Liberia,Hotel Citywide,7.0454%
+-1,Momondo,Liberia,Hotel Citywide,1.9480%
+-1,Hotelscombined,Liberia,Hotel Citywide,3.3441%
+-1,KAYAK,Libya,Flights,0.9763%
+-1,Hotelscombined,Libya,Flights,7.7811%
+-1,CheapFlights,Libya,Flights,0.8876%
+-1,Momondo,Libya,Flights,0.5621%
+-1,KAYAK,Libya,Hotel,5.9322%
+-1,Hotelscombined,Libya,Hotel,4.4492%
+-1,Momondo,Libya,Hotel,0.8475%
+-1,KAYAK,Libya,Hotel Citywide,8.6817%
+-1,Hotelscombined,Libya,Hotel Citywide,3.7239%
+-1,Momondo,Libya,Hotel Citywide,1.3673%
+-1,KAYAK,Liechtenstein,Flights,3.5519%
+-1,CheapFlights,Liechtenstein,Flights,2.3224%
+-1,Hotelscombined,Liechtenstein,Flights,8.0600%
+-1,Momondo,Liechtenstein,Flights,1.6393%
+-1,KAYAK,Liechtenstein,Hotel,7.6923%
+-1,Hotelscombined,Liechtenstein,Hotel,5.7692%
+-1,Momondo,Liechtenstein,Hotel,0.8242%
+-1,Swoodoo,Liechtenstein,Hotel,0.2747%
+-1,KAYAK,Liechtenstein,Hotel Citywide,5.2126%
+-1,Hotelscombined,Liechtenstein,Hotel Citywide,2.0243%
+-1,Momondo,Liechtenstein,Hotel Citywide,0.7212%
+-1,Swoodoo,Liechtenstein,Hotel Citywide,0.0127%
+-1,Hotelscombined,Liechtenstein,Vacations,21.4286%
+-1,Momondo,Luxembourg,Car Rentals,24.3902%
+-1,KAYAK,Luxembourg,Car Rentals,0.6098%
+-1,KAYAK,Luxembourg,Flights,1.6785%
+-1,Hotelscombined,Luxembourg,Flights,8.9341%
+-1,CheapFlights,Luxembourg,Flights,0.6626%
+-1,Momondo,Luxembourg,Flights,0.7194%
+-1,Swoodoo,Luxembourg,Flights,0.0026%
+-1,KAYAK,Luxembourg,Hotel,8.4816%
+-1,Hotelscombined,Luxembourg,Hotel,3.5736%
+-1,Momondo,Luxembourg,Hotel,0.5061%
+-1,Swoodoo,Luxembourg,Hotel,0.0767%
+-1,KAYAK,Luxembourg,Hotel Citywide,5.8001%
+-1,Hotelscombined,Luxembourg,Hotel Citywide,2.0362%
+-1,Swoodoo,Luxembourg,Hotel Citywide,0.9058%
+-1,Momondo,Luxembourg,Hotel Citywide,0.8808%
+-1,Hotelscombined,Luxembourg,Vacations,6.8713%
+-1,KAYAK,Luxembourg,Vacations,0.9503%
+-1,KAYAK,Macau,Flights,2.9605%
+-1,CheapFlights,Macau,Flights,3.1250%
+-1,Momondo,Macau,Flights,1.9737%
+-1,Hotelscombined,Macau,Flights,9.7040%
+-1,Hotelscombined,Macau,Hotel,7.0513%
+-1,KAYAK,Macau,Hotel,7.2650%
+-1,Momondo,Macau,Hotel,1.2821%
+-1,KAYAK,Macau,Hotel Citywide,11.0221%
+-1,Hotelscombined,Macau,Hotel Citywide,3.9078%
+-1,Momondo,Macau,Hotel Citywide,1.0020%
+-1,Momondo,Madagascar,Car Rentals,25.0000%
+-1,Hotelscombined,Madagascar,Flights,4.0151%
+-1,KAYAK,Madagascar,Flights,0.2161%
+-1,CheapFlights,Madagascar,Flights,0.1981%
+-1,Momondo,Madagascar,Flights,0.0810%
+-1,KAYAK,Madagascar,Hotel,7.3530%
+-1,Hotelscombined,Madagascar,Hotel,3.6765%
+-1,Momondo,Madagascar,Hotel,0.7353%
+-1,KAYAK,Madagascar,Hotel Citywide,9.4500%
+-1,Momondo,Madagascar,Hotel Citywide,1.8780%
+-1,Hotelscombined,Madagascar,Hotel Citywide,1.9557%
+-1,KAYAK,Madagascar,Vacations,12.5000%
+-1,KAYAK,Malawi,Flights,3.2025%
+-1,Hotelscombined,Malawi,Flights,6.0950%
+-1,Momondo,Malawi,Flights,0.7231%
+-1,CheapFlights,Malawi,Flights,0.5165%
+-1,Hotelscombined,Malawi,Hotel,6.2500%
+-1,KAYAK,Malawi,Hotel,4.8611%
+-1,Momondo,Malawi,Hotel,0.6944%
+-1,KAYAK,Malawi,Hotel Citywide,5.7692%
+-1,Momondo,Malawi,Hotel Citywide,1.3187%
+-1,Hotelscombined,Malawi,Hotel Citywide,2.9670%
+-1,Momondo,Malaysia,Car Rentals,19.4444%
+-1,KAYAK,Malaysia,Car Rentals,5.5555%
+-1,KAYAK,Malaysia,Flights,9.9321%
+-1,Momondo,Malaysia,Flights,5.6717%
+-1,CheapFlights,Malaysia,Flights,4.5820%
+-1,Hotelscombined,Malaysia,Flights,5.1000%
+-1,Hotelscombined,Malaysia,Hotel,7.9270%
+-1,Momondo,Malaysia,Hotel,2.5010%
+-1,KAYAK,Malaysia,Hotel,5.3094%
+-1,Momondo,Malaysia,Hotel Citywide,2.6443%
+-1,Hotelscombined,Malaysia,Hotel Citywide,3.3969%
+-1,KAYAK,Malaysia,Hotel Citywide,11.0443%
+-1,Swoodoo,Malaysia,Hotel Citywide,0.0006%
+-1,Hotelscombined,Malaysia,Vacations,17.0454%
+-1,KAYAK,Malaysia,Vacations,1.1364%
+-1,KAYAK,Maldives,Flights,3.6458%
+-1,Momondo,Maldives,Flights,1.2255%
+-1,Hotelscombined,Maldives,Flights,11.4584%
+-1,CheapFlights,Maldives,Flights,0.2911%
+-1,Hotelscombined,Maldives,Hotel,7.2169%
+-1,KAYAK,Maldives,Hotel,6.4622%
+-1,Momondo,Maldives,Hotel,1.8868%
+-1,KAYAK,Maldives,Hotel Citywide,6.1854%
+-1,Hotelscombined,Maldives,Hotel Citywide,6.5471%
+-1,Momondo,Maldives,Hotel Citywide,0.7139%
+-1,Swoodoo,Maldives,Hotel Citywide,0.0047%
+-1,Hotelscombined,Maldives,Vacations,14.2858%
+-1,KAYAK,Maldives,Vacations,3.5715%
+-1,Hotelscombined,Mali,Flights,9.5694%
+-1,KAYAK,Mali,Flights,0.2847%
+-1,CheapFlights,Mali,Flights,0.1389%
+-1,Momondo,Mali,Flights,0.1389%
+-1,Hotelscombined,Mali,Hotel,4.0324%
+-1,KAYAK,Mali,Hotel,5.2421%
+-1,Momondo,Mali,Hotel,0.4032%
+-1,KAYAK,Mali,Hotel Citywide,5.2438%
+-1,Momondo,Mali,Hotel Citywide,1.0807%
+-1,Hotelscombined,Mali,Hotel Citywide,1.9175%
+-1,Hotelscombined,Mali,Vacations,15.0000%
+-1,KAYAK,Malta,Flights,4.1164%
+-1,CheapFlights,Malta,Flights,4.5259%
+-1,Momondo,Malta,Flights,2.6616%
+-1,Hotelscombined,Malta,Flights,7.4785%
+-1,KAYAK,Malta,Hotel,5.8036%
+-1,Hotelscombined,Malta,Hotel,6.0065%
+-1,Momondo,Malta,Hotel,0.2841%
+-1,KAYAK,Malta,Hotel Citywide,7.7942%
+-1,Hotelscombined,Malta,Hotel Citywide,2.0584%
+-1,Momondo,Malta,Hotel Citywide,0.7204%
+-1,Swoodoo,Malta,Hotel Citywide,0.0077%
+-1,Hotelscombined,Malta,Vacations,12.5000%
+-1,KAYAK,Malta,Vacations,1.5625%
+-1,KAYAK,Marshall Islands,Flights,8.3333%
+-1,Momondo,Marshall Islands,Flights,8.3333%
+-1,Hotelscombined,Marshall Islands,Flights,8.3333%
+-1,KAYAK,Marshall Islands,Hotel,8.3333%
+-1,Momondo,Marshall Islands,Hotel,8.3333%
+-1,Hotelscombined,Marshall Islands,Hotel,8.3333%
+-1,KAYAK,Marshall Islands,Hotel Citywide,12.0690%
+-1,Momondo,Marshall Islands,Hotel Citywide,2.5862%
+-1,Hotelscombined,Marshall Islands,Hotel Citywide,0.8621%
+-1,Hotelscombined,Martinique,Flights,6.5865%
+-1,CheapFlights,Martinique,Flights,0.4519%
+-1,Momondo,Martinique,Flights,0.2500%
+-1,KAYAK,Martinique,Flights,0.1442%
+-1,KAYAK,Martinique,Hotel,6.6216%
+-1,Hotelscombined,Martinique,Hotel,4.6621%
+-1,Momondo,Martinique,Hotel,1.4189%
+-1,KAYAK,Martinique,Hotel Citywide,3.9121%
+-1,Hotelscombined,Martinique,Hotel Citywide,1.9070%
+-1,Momondo,Martinique,Hotel Citywide,0.6795%
+-1,CheapFlights,Martinique,Hotel Citywide,0.0056%
+-1,Hotelscombined,Martinique,Vacations,1.2502%
+-1,KAYAK,Martinique,Vacations,0.6251%
+-1,Hotelscombined,Mauritania,Flights,12.1501%
+-1,KAYAK,Mauritania,Flights,0.3303%
+-1,CheapFlights,Mauritania,Flights,0.5112%
+-1,Momondo,Mauritania,Flights,0.4089%
+-1,KAYAK,Mauritania,Hotel,6.6667%
+-1,Momondo,Mauritania,Hotel,0.8333%
+-1,Hotelscombined,Mauritania,Hotel,7.5000%
+-1,KAYAK,Mauritania,Hotel Citywide,6.5748%
+-1,Momondo,Mauritania,Hotel Citywide,1.5051%
+-1,Hotelscombined,Mauritania,Hotel Citywide,2.6616%
+-1,Hotelscombined,Mauritania,Vacations,8.3333%
+-1,KAYAK,Mauritius,Flights,1.1851%
+-1,Momondo,Mauritius,Flights,0.9996%
+-1,Hotelscombined,Mauritius,Flights,6.4613%
+-1,CheapFlights,Mauritius,Flights,0.5565%
+-1,KAYAK,Mauritius,Hotel,4.9799%
+-1,Hotelscombined,Mauritius,Hotel,5.2154%
+-1,Momondo,Mauritius,Hotel,0.7066%
+-1,Swoodoo,Mauritius,Hotel,0.0336%
+-1,KAYAK,Mauritius,Hotel Citywide,6.6264%
+-1,Momondo,Mauritius,Hotel Citywide,1.2124%
+-1,Hotelscombined,Mauritius,Hotel Citywide,2.3391%
+-1,Swoodoo,Mauritius,Hotel Citywide,0.0080%
+-1,Hotelscombined,Mauritius,Vacations,5.6819%
+-1,KAYAK,Mauritius,Vacations,3.4092%
+-1,KAYAK,Mayotte,Flights,0.4325%
+-1,Momondo,Mayotte,Flights,0.3893%
+-1,Hotelscombined,Mayotte,Flights,6.0121%
+-1,CheapFlights,Mayotte,Flights,0.3893%
+-1,KAYAK,Mayotte,Hotel,9.3750%
+-1,Hotelscombined,Mayotte,Hotel,6.2500%
+-1,KAYAK,Mayotte,Hotel Citywide,6.3616%
+-1,Momondo,Mayotte,Hotel Citywide,2.3884%
+-1,Hotelscombined,Mayotte,Hotel Citywide,1.4286%
+-1,KAYAK,Mayotte,Vacations,15.6250%
+-1,Hotelscombined,Mayotte,Vacations,9.3750%
+-1,Momondo,Mexico,Car Rentals,22.6108%
+-1,KAYAK,Mexico,Car Rentals,5.5748%
+-1,Hotelscombined,Mexico,Flights,6.1373%
+-1,KAYAK,Mexico,Flights,1.7473%
+-1,CheapFlights,Mexico,Flights,0.5760%
+-1,Momondo,Mexico,Flights,0.3262%
+-1,Hotelscombined,Mexico,Hotel,9.8394%
+-1,Momondo,Mexico,Hotel,0.5857%
+-1,KAYAK,Mexico,Hotel,5.1845%
+-1,KAYAK,Mexico,Hotel Citywide,2.9036%
+-1,Hotelscombined,Mexico,Hotel Citywide,0.6253%
+-1,Momondo,Mexico,Hotel Citywide,0.2496%
+-1,Swoodoo,Mexico,Hotel Citywide,0.0000%
+-1,Hotelscombined,Mexico,Vacations,19.1666%
+-1,KAYAK,Mexico,Vacations,1.2500%
+-1,KAYAK,Monaco,Flights,0.9000%
+-1,Hotelscombined,Monaco,Flights,7.4667%
+-1,CheapFlights,Monaco,Flights,0.9333%
+-1,Momondo,Monaco,Flights,0.9333%
+-1,KAYAK,Monaco,Hotel,9.4130%
+-1,Hotelscombined,Monaco,Hotel,2.9352%
+-1,Momondo,Monaco,Hotel,0.5061%
+-1,KAYAK,Monaco,Hotel Citywide,9.2869%
+-1,Hotelscombined,Monaco,Hotel Citywide,1.9214%
+-1,Momondo,Monaco,Hotel Citywide,0.7686%
+-1,Swoodoo,Monaco,Hotel Citywide,0.0107%
+-1,KAYAK,Monaco,Vacations,1.9608%
+-1,Hotelscombined,Monaco,Vacations,0.4902%
+-1,KAYAK,Mongolia,Flights,7.7546%
+-1,Hotelscombined,Mongolia,Flights,7.5810%
+-1,CheapFlights,Mongolia,Flights,0.8681%
+-1,Momondo,Mongolia,Flights,0.8102%
+-1,KAYAK,Mongolia,Hotel,7.5611%
+-1,Hotelscombined,Mongolia,Hotel,7.4391%
+-1,Momondo,Mongolia,Hotel,2.4391%
+-1,KAYAK,Mongolia,Hotel Citywide,14.0789%
+-1,Momondo,Mongolia,Hotel Citywide,2.3185%
+-1,Hotelscombined,Mongolia,Hotel Citywide,3.2732%
+-1,Hotelscombined,Montenegro,Flights,12.9629%
+-1,KAYAK,Montenegro,Flights,2.7527%
+-1,CheapFlights,Montenegro,Flights,3.4785%
+-1,Momondo,Montenegro,Flights,1.4097%
+-1,KAYAK,Montenegro,Hotel,9.2105%
+-1,Hotelscombined,Montenegro,Hotel,4.7697%
+-1,Momondo,Montenegro,Hotel,0.8224%
+-1,KAYAK,Montenegro,Hotel Citywide,7.6457%
+-1,Hotelscombined,Montenegro,Hotel Citywide,2.8770%
+-1,Momondo,Montenegro,Hotel Citywide,0.8973%
+-1,Swoodoo,Montenegro,Hotel Citywide,0.0139%
+-1,Hotelscombined,Montenegro,Vacations,25.0001%
+-1,KAYAK,Montserrat,Flights,25.0000%
+-1,KAYAK,Montserrat,Hotel Citywide,25.0000%
+-1,Momondo,Morocco,Car Rentals,25.0000%
+-1,Hotelscombined,Morocco,Flights,7.5137%
+-1,KAYAK,Morocco,Flights,0.2354%
+-1,CheapFlights,Morocco,Flights,0.5087%
+-1,Momondo,Morocco,Flights,0.4550%
+-1,KAYAK,Morocco,Hotel,6.8867%
+-1,Hotelscombined,Morocco,Hotel,7.4279%
+-1,Momondo,Morocco,Hotel,0.9550%
+-1,KAYAK,Morocco,Hotel Citywide,6.0245%
+-1,Momondo,Morocco,Hotel Citywide,0.8571%
+-1,Hotelscombined,Morocco,Hotel Citywide,1.7161%
+-1,Swoodoo,Morocco,Hotel Citywide,0.0005%
+-1,KAYAK,Morocco,Vacations,11.6071%
+-1,Hotelscombined,Morocco,Vacations,4.7619%
+-1,Momondo,Mozambique,Car Rentals,25.0000%
+-1,KAYAK,Mozambique,Car Rentals,2.7778%
+-1,CheapFlights,Mozambique,Flights,7.6334%
+-1,KAYAK,Mozambique,Flights,4.9304%
+-1,Hotelscombined,Mozambique,Flights,5.5916%
+-1,Momondo,Mozambique,Flights,4.1415%
+-1,KAYAK,Mozambique,Hotel,6.0394%
+-1,Hotelscombined,Mozambique,Hotel,5.3371%
+-1,Momondo,Mozambique,Hotel,1.4045%
+-1,KAYAK,Mozambique,Hotel Citywide,4.2548%
+-1,Momondo,Mozambique,Hotel Citywide,0.9656%
+-1,Hotelscombined,Mozambique,Hotel Citywide,2.0609%
+-1,KAYAK,Mozambique,Vacations,6.2500%
+-1,Hotelscombined,Mozambique,Vacations,12.5000%
+-1,KAYAK,Myanmar,Flights,10.7143%
+-1,CheapFlights,Myanmar,Flights,0.7143%
+-1,Momondo,Myanmar,Flights,1.3393%
+-1,Hotelscombined,Myanmar,Flights,3.3036%
+-1,Hotelscombined,Myanmar,Hotel,10.7877%
+-1,KAYAK,Myanmar,Hotel,9.9316%
+-1,Momondo,Myanmar,Hotel,2.9110%
+-1,KAYAK,Myanmar,Hotel Citywide,14.2906%
+-1,Momondo,Myanmar,Hotel Citywide,2.1171%
+-1,Hotelscombined,Myanmar,Hotel Citywide,3.4347%
+-1,KAYAK,Namibia,Flights,2.0370%
+-1,Hotelscombined,Namibia,Flights,9.1851%
+-1,CheapFlights,Namibia,Flights,0.9630%
+-1,Momondo,Namibia,Flights,0.8518%
+-1,Hotelscombined,Namibia,Hotel,6.5476%
+-1,KAYAK,Namibia,Hotel,5.1587%
+-1,Momondo,Namibia,Hotel,0.9921%
+-1,KAYAK,Namibia,Hotel Citywide,7.8858%
+-1,Hotelscombined,Namibia,Hotel Citywide,3.1332%
+-1,Momondo,Namibia,Hotel Citywide,1.2288%
+-1,Swoodoo,Namibia,Hotel Citywide,0.0081%
+-1,Hotelscombined,Namibia,Vacations,25.0000%
+-1,KAYAK,Nauru,Flights,25.0000%
+-1,Hotelscombined,Nauru,Hotel,12.5000%
+-1,KAYAK,Nauru,Hotel Citywide,3.5715%
+-1,Momondo,Nauru,Hotel Citywide,3.5715%
+-1,Hotelscombined,Nauru,Hotel Citywide,1.7857%
+-1,Momondo,Nepal,Car Rentals,25.0000%
+-1,KAYAK,Nepal,Flights,4.4912%
+-1,Momondo,Nepal,Flights,1.4798%
+-1,CheapFlights,Nepal,Flights,0.7442%
+-1,Hotelscombined,Nepal,Flights,8.2208%
+-1,Hotelscombined,Nepal,Hotel,10.2041%
+-1,KAYAK,Nepal,Hotel,9.0561%
+-1,Momondo,Nepal,Hotel,3.3801%
+-1,KAYAK,Nepal,Hotel Citywide,8.6754%
+-1,Hotelscombined,Nepal,Hotel Citywide,6.3378%
+-1,Momondo,Nepal,Hotel Citywide,1.4887%
+-1,Hotelscombined,Nepal,Vacations,15.0000%
+-1,Momondo,Netherlands,Car Rentals,23.6112%
+-1,KAYAK,Netherlands,Car Rentals,2.3611%
+-1,CheapFlights,Netherlands,Flights,5.0502%
+-1,Momondo,Netherlands,Flights,5.7581%
+-1,Hotelscombined,Netherlands,Flights,2.4896%
+-1,KAYAK,Netherlands,Flights,4.6026%
+-1,Hotelscombined,Netherlands,Hotel,8.8033%
+-1,Momondo,Netherlands,Hotel,0.5473%
+-1,KAYAK,Netherlands,Hotel,2.3197%
+-1,Swoodoo,Netherlands,Hotel,0.0147%
+-1,Momondo,Netherlands,Hotel Citywide,2.8325%
+-1,Hotelscombined,Netherlands,Hotel Citywide,3.3349%
+-1,KAYAK,Netherlands,Hotel Citywide,7.6541%
+-1,Swoodoo,Netherlands,Hotel Citywide,0.0434%
+-1,Hotelscombined,Netherlands,Vacations,14.9575%
+-1,KAYAK,Netherlands,Vacations,1.8811%
+-1,KAYAK,New Caledonia,Flights,0.2352%
+-1,Hotelscombined,New Caledonia,Flights,4.7569%
+-1,CheapFlights,New Caledonia,Flights,0.3136%
+-1,Momondo,New Caledonia,Flights,0.0131%
+-1,KAYAK,New Caledonia,Hotel,4.4545%
+-1,Hotelscombined,New Caledonia,Hotel,3.4545%
+-1,Momondo,New Caledonia,Hotel,1.4545%
+-1,KAYAK,New Caledonia,Hotel Citywide,9.1453%
+-1,Momondo,New Caledonia,Hotel Citywide,1.7956%
+-1,Hotelscombined,New Caledonia,Hotel Citywide,3.4239%
+-1,Hotelscombined,New Caledonia,Vacations,4.7618%
+-1,KAYAK,New Caledonia,Vacations,9.5235%
+-1,Momondo,New Zealand,Car Rentals,25.0000%
+-1,CheapFlights,New Zealand,Flights,8.9458%
+-1,KAYAK,New Zealand,Flights,8.8159%
+-1,Momondo,New Zealand,Flights,4.4822%
+-1,Hotelscombined,New Zealand,Flights,1.9209%
+-1,Hotelscombined,New Zealand,Hotel,9.9974%
+-1,Momondo,New Zealand,Hotel,1.9689%
+-1,KAYAK,New Zealand,Hotel,5.9941%
+-1,Momondo,New Zealand,Hotel Citywide,4.2244%
+-1,Hotelscombined,New Zealand,Hotel Citywide,4.5687%
+-1,KAYAK,New Zealand,Hotel Citywide,11.1234%
+-1,Swoodoo,New Zealand,Hotel Citywide,0.0005%
+-1,Hotelscombined,New Zealand,Vacations,13.8889%
+-1,Hotelscombined,Nicaragua,Flights,4.2588%
+-1,CheapFlights,Nicaragua,Flights,0.3606%
+-1,Momondo,Nicaragua,Flights,0.3926%
+-1,KAYAK,Nicaragua,Flights,0.4017%
+-1,Hotelscombined,Nicaragua,Hotel,8.7087%
+-1,KAYAK,Nicaragua,Hotel,7.6576%
+-1,Momondo,Nicaragua,Hotel,1.6516%
+-1,Hotelscombined,Nicaragua,Hotel Citywide,3.9885%
+-1,KAYAK,Nicaragua,Hotel Citywide,4.5522%
+-1,Momondo,Nicaragua,Hotel Citywide,1.7823%
+-1,CheapFlights,Nicaragua,Hotel Citywide,0.6042%
+-1,Hotelscombined,Nicaragua,Vacations,25.0000%
+-1,Hotelscombined,Niger,Flights,7.0513%
+-1,KAYAK,Niger,Flights,0.2381%
+-1,Momondo,Niger,Flights,0.1465%
+-1,CheapFlights,Niger,Flights,0.1465%
+-1,KAYAK,Niger,Hotel,3.7501%
+-1,KAYAK,Niger,Hotel Citywide,5.2802%
+-1,Momondo,Niger,Hotel Citywide,1.5240%
+-1,Hotelscombined,Niger,Hotel Citywide,2.0012%
+-1,KAYAK,Nigeria,Flights,1.1746%
+-1,Momondo,Nigeria,Flights,1.6905%
+-1,Hotelscombined,Nigeria,Flights,9.6349%
+-1,CheapFlights,Nigeria,Flights,0.8770%
+-1,KAYAK,Nigeria,Hotel,4.3978%
+-1,Hotelscombined,Nigeria,Hotel,4.1601%
+-1,Momondo,Nigeria,Hotel,0.6141%
+-1,KAYAK,Nigeria,Hotel Citywide,3.0102%
+-1,Hotelscombined,Nigeria,Hotel Citywide,1.7558%
+-1,Momondo,Nigeria,Hotel Citywide,0.5511%
+-1,Swoodoo,Nigeria,Hotel Citywide,0.0026%
+-1,Hotelscombined,Nigeria,Vacations,10.7143%
+-1,KAYAK,Nigeria,Vacations,1.7857%
+-1,KAYAK,Niue,Flights,12.5000%
+-1,KAYAK,Niue,Hotel Citywide,9.3750%
+-1,Hotelscombined,Niue,Hotel Citywide,6.2500%
+-1,KAYAK,Norfolk Island,Flights,12.5000%
+-1,KAYAK,Norfolk Island,Hotel Citywide,7.5000%
+-1,Momondo,Norfolk Island,Hotel Citywide,2.5000%
+-1,Hotelscombined,Norfolk Island,Hotel Citywide,3.7500%
+-1,KAYAK,North Korea,Hotel Citywide,25.0000%
+-1,Momondo,North Macedonia,Car Rentals,25.0000%
+-1,KAYAK,North Macedonia,Flights,5.1188%
+-1,CheapFlights,North Macedonia,Flights,4.7656%
+-1,Hotelscombined,North Macedonia,Flights,9.6589%
+-1,Momondo,North Macedonia,Flights,2.8112%
+-1,KAYAK,North Macedonia,Hotel,6.1753%
+-1,Hotelscombined,North Macedonia,Hotel,6.5738%
+-1,Momondo,North Macedonia,Hotel,0.5976%
+-1,KAYAK,North Macedonia,Hotel Citywide,7.0715%
+-1,Hotelscombined,North Macedonia,Hotel Citywide,1.9039%
+-1,Momondo,North Macedonia,Hotel Citywide,0.7279%
+-1,Swoodoo,North Macedonia,Hotel Citywide,0.0260%
+-1,Hotelscombined,North Macedonia,Vacations,6.8182%
+-1,KAYAK,North Macedonia,Vacations,2.2727%
+-1,KAYAK,Northern Mariana Islands,Flights,15.6250%
+-1,Momondo,Northern Mariana Islands,Flights,2.2321%
+-1,CheapFlights,Northern Mariana Islands,Flights,1.3393%
+-1,Hotelscombined,Northern Mariana Islands,Flights,1.3393%
+-1,KAYAK,Northern Mariana Islands,Hotel,9.6585%
+-1,Hotelscombined,Northern Mariana Islands,Hotel,10.7948%
+-1,Momondo,Northern Mariana Islands,Hotel,1.1363%
+-1,KAYAK,Northern Mariana Islands,Hotel Citywide,14.5051%
+-1,Momondo,Northern Mariana Islands,Hotel Citywide,1.7065%
+-1,Hotelscombined,Northern Mariana Islands,Hotel Citywide,3.0717%
+-1,Momondo,Norway,Car Rentals,22.2222%
+-1,KAYAK,Norway,Car Rentals,2.7778%
+-1,Momondo,Norway,Flights,13.9285%
+-1,CheapFlights,Norway,Flights,1.4641%
+-1,Hotelscombined,Norway,Flights,3.4602%
+-1,KAYAK,Norway,Flights,2.5082%
+-1,Momondo,Norway,Hotel,0.8317%
+-1,Hotelscombined,Norway,Hotel,8.1101%
+-1,KAYAK,Norway,Hotel,1.9942%
+-1,Momondo,Norway,Hotel Citywide,15.5094%
+-1,Hotelscombined,Norway,Hotel Citywide,9.6626%
+-1,KAYAK,Norway,Hotel Citywide,15.4432%
+-1,Swoodoo,Norway,Hotel Citywide,0.0574%
+-1,Hotelscombined,Norway,Vacations,12.9902%
+-1,KAYAK,Norway,Vacations,0.4902%
+-1,KAYAK,Oman,Flights,4.3942%
+-1,Momondo,Oman,Flights,1.2213%
+-1,CheapFlights,Oman,Flights,0.6705%
+-1,Hotelscombined,Oman,Flights,7.1121%
+-1,KAYAK,Oman,Hotel,7.1366%
+-1,Hotelscombined,Oman,Hotel,6.5603%
+-1,Momondo,Oman,Hotel,0.4876%
+-1,KAYAK,Oman,Hotel Citywide,6.9793%
+-1,Hotelscombined,Oman,Hotel Citywide,3.1807%
+-1,Momondo,Oman,Hotel Citywide,0.7600%
+-1,Hotelscombined,Oman,Vacations,10.0000%
+-1,KAYAK,Pakistan,Flights,1.3704%
+-1,Hotelscombined,Pakistan,Flights,15.0471%
+-1,Momondo,Pakistan,Flights,0.6410%
+-1,CheapFlights,Pakistan,Flights,0.2830%
+-1,Hotelscombined,Pakistan,Hotel,7.6285%
+-1,KAYAK,Pakistan,Hotel,6.7333%
+-1,Momondo,Pakistan,Hotel,2.1017%
+-1,KAYAK,Pakistan,Hotel Citywide,8.8218%
+-1,Momondo,Pakistan,Hotel Citywide,1.8125%
+-1,Hotelscombined,Pakistan,Hotel Citywide,4.8402%
+-1,Hotelscombined,Pakistan,Vacations,9.8214%
+-1,KAYAK,Palau,Flights,12.5000%
+-1,Momondo,Palau,Flights,4.1667%
+-1,CheapFlights,Palau,Flights,2.0833%
+-1,Hotelscombined,Palau,Flights,2.0833%
+-1,KAYAK,Palau,Hotel,8.9287%
+-1,Hotelscombined,Palau,Hotel,7.1429%
+-1,KAYAK,Palau,Hotel Citywide,9.5455%
+-1,Momondo,Palau,Hotel Citywide,1.5909%
+-1,Hotelscombined,Palau,Hotel Citywide,2.7273%
+-1,KAYAK,Palestine,Flights,2.4816%
+-1,Momondo,Palestine,Flights,1.2178%
+-1,Hotelscombined,Palestine,Flights,9.7656%
+-1,CheapFlights,Palestine,Flights,0.7812%
+-1,KAYAK,Palestine,Hotel,8.9286%
+-1,Momondo,Palestine,Hotel,0.8929%
+-1,Hotelscombined,Palestine,Hotel,4.4643%
+-1,KAYAK,Palestine,Hotel Citywide,13.7160%
+-1,Momondo,Palestine,Hotel Citywide,1.8127%
+-1,Hotelscombined,Palestine,Hotel Citywide,5.1057%
+-1,Hotelscombined,Palestine,Vacations,25.0000%
+-1,Momondo,Panama,Car Rentals,25.0000%
+-1,Hotelscombined,Panama,Flights,4.2053%
+-1,Momondo,Panama,Flights,0.3934%
+-1,KAYAK,Panama,Flights,0.4369%
+-1,CheapFlights,Panama,Flights,0.4017%
+-1,Hotelscombined,Panama,Hotel,8.8771%
+-1,KAYAK,Panama,Hotel,7.3805%
+-1,Momondo,Panama,Hotel,1.7472%
+-1,KAYAK,Panama,Hotel Citywide,5.0337%
+-1,Hotelscombined,Panama,Hotel Citywide,4.7495%
+-1,Momondo,Panama,Hotel Citywide,1.6626%
+-1,Swoodoo,Panama,Hotel Citywide,0.0008%
+-1,Hotelscombined,Panama,Vacations,16.6667%
+-1,KAYAK,Panama,Vacations,1.6667%
+-1,Momondo,Papua New Guinea,Car Rentals,25.0000%
+-1,KAYAK,Papua New Guinea,Flights,14.1667%
+-1,Momondo,Papua New Guinea,Flights,1.7857%
+-1,CheapFlights,Papua New Guinea,Flights,1.9048%
+-1,Hotelscombined,Papua New Guinea,Flights,1.4286%
+-1,KAYAK,Papua New Guinea,Hotel,10.3210%
+-1,Hotelscombined,Papua New Guinea,Hotel,10.5504%
+-1,Momondo,Papua New Guinea,Hotel,3.4403%
+-1,KAYAK,Papua New Guinea,Hotel Citywide,12.0032%
+-1,Momondo,Papua New Guinea,Hotel Citywide,2.9550%
+-1,Hotelscombined,Papua New Guinea,Hotel Citywide,3.5696%
+-1,Momondo,Paraguay,Car Rentals,25.0000%
+-1,KAYAK,Paraguay,Flights,0.9613%
+-1,Hotelscombined,Paraguay,Flights,6.5438%
+-1,CheapFlights,Paraguay,Flights,0.3918%
+-1,Momondo,Paraguay,Flights,0.3446%
+-1,KAYAK,Paraguay,Hotel,7.9797%
+-1,Hotelscombined,Paraguay,Hotel,6.5365%
+-1,Momondo,Paraguay,Hotel,1.2734%
+-1,KAYAK,Paraguay,Hotel Citywide,6.7453%
+-1,Hotelscombined,Paraguay,Hotel Citywide,6.9944%
+-1,Momondo,Paraguay,Hotel Citywide,0.9460%
+-1,Swoodoo,Paraguay,Hotel Citywide,0.0069%
+-1,Hotelscombined,Paraguay,Vacations,22.2222%
+-1,KAYAK,Paraguay,Vacations,2.7778%
+-1,Momondo,Peru,Car Rentals,24.0134%
+-1,KAYAK,Peru,Car Rentals,1.4437%
+-1,Hotelscombined,Peru,Flights,9.5239%
+-1,CheapFlights,Peru,Flights,2.9334%
+-1,KAYAK,Peru,Flights,2.5576%
+-1,Momondo,Peru,Flights,1.2081%
+-1,Hotelscombined,Peru,Hotel,10.2692%
+-1,Momondo,Peru,Hotel,1.8067%
+-1,KAYAK,Peru,Hotel,7.4185%
+-1,Hotelscombined,Peru,Hotel Citywide,5.2843%
+-1,Momondo,Peru,Hotel Citywide,2.5099%
+-1,KAYAK,Peru,Hotel Citywide,4.8541%
+-1,Swoodoo,Peru,Hotel Citywide,0.0009%
+-1,Hotelscombined,Peru,Vacations,18.6047%
+-1,Momondo,Philippines,Car Rentals,25.0000%
+-1,KAYAK,Philippines,Flights,12.7635%
+-1,Momondo,Philippines,Flights,3.8451%
+-1,CheapFlights,Philippines,Flights,1.0862%
+-1,Hotelscombined,Philippines,Flights,3.2814%
+-1,Hotelscombined,Philippines,Hotel,7.5924%
+-1,KAYAK,Philippines,Hotel,7.2013%
+-1,Momondo,Philippines,Hotel,2.3910%
+-1,KAYAK,Philippines,Hotel Citywide,10.1648%
+-1,Momondo,Philippines,Hotel Citywide,1.8827%
+-1,Hotelscombined,Philippines,Hotel Citywide,5.2496%
+-1,Swoodoo,Philippines,Hotel Citywide,0.0005%
+-1,Hotelscombined,Philippines,Vacations,13.3334%
+-1,Momondo,Poland,Car Rentals,25.0000%
+-1,KAYAK,Poland,Car Rentals,1.0417%
+-1,Hotelscombined,Poland,Flights,13.1753%
+-1,Momondo,Poland,Flights,0.7831%
+-1,CheapFlights,Poland,Flights,0.7200%
+-1,KAYAK,Poland,Flights,0.5653%
+-1,Hotelscombined,Poland,Hotel,8.5537%
+-1,Momondo,Poland,Hotel,0.3724%
+-1,KAYAK,Poland,Hotel,1.4814%
+-1,Swoodoo,Poland,Hotel,0.0042%
+-1,Hotelscombined,Poland,Hotel Citywide,2.1705%
+-1,KAYAK,Poland,Hotel Citywide,7.0411%
+-1,Momondo,Poland,Hotel Citywide,1.3248%
+-1,Swoodoo,Poland,Hotel Citywide,0.0030%
+-1,Hotelscombined,Poland,Vacations,17.2177%
+-1,KAYAK,Poland,Vacations,0.6887%
+-1,Momondo,Portugal,Car Rentals,23.8703%
+-1,KAYAK,Portugal,Car Rentals,7.9418%
+-1,Momondo,Portugal,Flights,9.8967%
+-1,CheapFlights,Portugal,Flights,6.8042%
+-1,KAYAK,Portugal,Flights,4.1919%
+-1,Hotelscombined,Portugal,Flights,2.6076%
+-1,Hotelscombined,Portugal,Hotel,8.6243%
+-1,Momondo,Portugal,Hotel,0.9888%
+-1,KAYAK,Portugal,Hotel,3.9262%
+-1,Swoodoo,Portugal,Hotel,0.0029%
+-1,Momondo,Portugal,Hotel Citywide,5.4998%
+-1,Hotelscombined,Portugal,Hotel Citywide,4.7286%
+-1,KAYAK,Portugal,Hotel Citywide,3.5144%
+-1,Swoodoo,Portugal,Hotel Citywide,0.0120%
+-1,Hotelscombined,Portugal,Vacations,15.9013%
+-1,KAYAK,Portugal,Vacations,1.7007%
+-1,Momondo,Puerto Rico,Car Rentals,25.0000%
+-1,KAYAK,Puerto Rico,Flights,0.8361%
+-1,Hotelscombined,Puerto Rico,Flights,3.8220%
+-1,Momondo,Puerto Rico,Flights,0.1155%
+-1,CheapFlights,Puerto Rico,Flights,0.0857%
+-1,KAYAK,Puerto Rico,Hotel,7.1620%
+-1,Hotelscombined,Puerto Rico,Hotel,7.7751%
+-1,Momondo,Puerto Rico,Hotel,0.6778%
+-1,KAYAK,Puerto Rico,Hotel Citywide,6.6601%
+-1,Hotelscombined,Puerto Rico,Hotel Citywide,2.9530%
+-1,Momondo,Puerto Rico,Hotel Citywide,0.9898%
+-1,Hotelscombined,Puerto Rico,Vacations,14.0625%
+-1,Momondo,Qatar,Car Rentals,25.0000%
+-1,KAYAK,Qatar,Flights,6.5321%
+-1,Momondo,Qatar,Flights,1.5677%
+-1,Hotelscombined,Qatar,Flights,7.3771%
+-1,CheapFlights,Qatar,Flights,0.5115%
+-1,KAYAK,Qatar,Hotel,8.0598%
+-1,Hotelscombined,Qatar,Hotel,7.2514%
+-1,Momondo,Qatar,Hotel,1.1024%
+-1,KAYAK,Qatar,Hotel Citywide,10.5841%
+-1,Hotelscombined,Qatar,Hotel Citywide,4.5183%
+-1,Momondo,Qatar,Hotel Citywide,1.4033%
+-1,Hotelscombined,Qatar,Vacations,15.1516%
+-1,KAYAK,Qatar,Vacations,0.7576%
+-1,Momondo,Republic of Lithuania,Car Rentals,25.0001%
+-1,CheapFlights,Republic of Lithuania,Flights,7.9658%
+-1,KAYAK,Republic of Lithuania,Flights,3.5741%
+-1,Hotelscombined,Republic of Lithuania,Flights,6.8203%
+-1,Momondo,Republic of Lithuania,Flights,2.1578%
+-1,KAYAK,Republic of Lithuania,Hotel,10.4681%
+-1,Hotelscombined,Republic of Lithuania,Hotel,10.4681%
+-1,Momondo,Republic of Lithuania,Hotel,0.7983%
+-1,KAYAK,Republic of Lithuania,Hotel Citywide,7.5428%
+-1,Hotelscombined,Republic of Lithuania,Hotel Citywide,3.1094%
+-1,Momondo,Republic of Lithuania,Hotel Citywide,1.0205%
+-1,Hotelscombined,Republic of Lithuania,Vacations,10.6060%
+-1,KAYAK,Republic of Lithuania,Vacations,1.7677%
+-1,KAYAK,Republic of Moldova,Flights,2.0808%
+-1,Hotelscombined,Republic of Moldova,Flights,9.7384%
+-1,CheapFlights,Republic of Moldova,Flights,1.6830%
+-1,Momondo,Republic of Moldova,Flights,0.9180%
+-1,KAYAK,Republic of Moldova,Hotel,8.1107%
+-1,Hotelscombined,Republic of Moldova,Hotel,4.2939%
+-1,Momondo,Republic of Moldova,Hotel,0.8588%
+-1,KAYAK,Republic of Moldova,Hotel Citywide,6.9292%
+-1,Hotelscombined,Republic of Moldova,Hotel Citywide,2.1561%
+-1,Momondo,Republic of Moldova,Hotel Citywide,0.7366%
+-1,Swoodoo,Republic of Moldova,Hotel Citywide,0.0092%
+-1,Hotelscombined,Republic of Moldova,Vacations,18.3334%
+-1,Momondo,Romania,Car Rentals,21.6217%
+-1,KAYAK,Romania,Car Rentals,5.4054%
+-1,CheapFlights,Romania,Flights,3.9864%
+-1,Hotelscombined,Romania,Flights,6.9014%
+-1,KAYAK,Romania,Flights,2.4394%
+-1,Momondo,Romania,Flights,4.0568%
+-1,KAYAK,Romania,Hotel,7.9102%
+-1,Hotelscombined,Romania,Hotel,4.0106%
+-1,Momondo,Romania,Hotel,0.2526%
+-1,Swoodoo,Romania,Hotel,0.0185%
+-1,KAYAK,Romania,Hotel Citywide,4.4361%
+-1,Hotelscombined,Romania,Hotel Citywide,2.4789%
+-1,Momondo,Romania,Hotel Citywide,0.8546%
+-1,Swoodoo,Romania,Hotel Citywide,0.0259%
+-1,Hotelscombined,Romania,Vacations,14.5161%
+-1,KAYAK,Romania,Vacations,0.7392%
+-1,Momondo,Russia,Car Rentals,21.5910%
+-1,KAYAK,Russia,Car Rentals,7.9546%
+-1,CheapFlights,Russia,Flights,4.5790%
+-1,Momondo,Russia,Flights,7.5455%
+-1,Hotelscombined,Russia,Flights,0.0769%
+-1,KAYAK,Russia,Flights,0.0512%
+-1,Momondo,Russia,Hotel,6.8525%
+-1,KAYAK,Russia,Hotel,1.1907%
+-1,Swoodoo,Russia,Hotel,0.0333%
+-1,Hotelscombined,Russia,Hotel,0.0125%
+-1,Momondo,Russia,Hotel Citywide,8.1241%
+-1,KAYAK,Russia,Hotel Citywide,0.2665%
+-1,Hotelscombined,Russia,Hotel Citywide,0.0295%
+-1,Swoodoo,Russia,Hotel Citywide,0.0053%
+-1,KAYAK,Russia,Vacations,7.1875%
+-1,KAYAK,Rwanda,Flights,2.8028%
+-1,Hotelscombined,Rwanda,Flights,4.8486%
+-1,CheapFlights,Rwanda,Flights,0.5728%
+-1,Momondo,Rwanda,Flights,0.4092%
+-1,Hotelscombined,Rwanda,Hotel,7.6531%
+-1,KAYAK,Rwanda,Hotel,6.1225%
+-1,Momondo,Rwanda,Hotel,0.5102%
+-1,KAYAK,Rwanda,Hotel Citywide,8.4341%
+-1,Momondo,Rwanda,Hotel Citywide,1.5976%
+-1,Hotelscombined,Rwanda,Hotel Citywide,2.3172%
+-1,Swoodoo,Rwanda,Hotel Citywide,0.0144%
+-1,KAYAK,Rwanda,Vacations,12.5000%
+-1,Momondo,Réunion,Car Rentals,25.0000%
+-1,Hotelscombined,Réunion,Flights,5.8536%
+-1,CheapFlights,Réunion,Flights,0.2043%
+-1,Momondo,Réunion,Flights,0.1416%
+-1,KAYAK,Réunion,Flights,0.0604%
+-1,KAYAK,Réunion,Hotel,6.4446%
+-1,Hotelscombined,Réunion,Hotel,4.9741%
+-1,Momondo,Réunion,Hotel,0.6920%
+-1,KAYAK,Réunion,Hotel Citywide,4.5434%
+-1,Hotelscombined,Réunion,Hotel Citywide,1.7141%
+-1,Momondo,Réunion,Hotel Citywide,0.6455%
+-1,Swoodoo,Réunion,Hotel Citywide,0.0030%
+-1,KAYAK,Réunion,Vacations,11.0577%
+-1,Hotelscombined,Réunion,Vacations,2.6442%
+-1,Hotelscombined,Saint Barthélemy,Flights,13.4535%
+-1,CheapFlights,Saint Barthélemy,Flights,1.4831%
+-1,KAYAK,Saint Barthélemy,Flights,0.5297%
+-1,Momondo,Saint Barthélemy,Flights,0.3178%
+-1,KAYAK,Saint Barthélemy,Hotel,10.7144%
+-1,Hotelscombined,Saint Barthélemy,Hotel,3.5715%
+-1,KAYAK,Saint Barthélemy,Hotel Citywide,5.4737%
+-1,Hotelscombined,Saint Barthélemy,Hotel Citywide,1.5789%
+-1,Momondo,Saint Barthélemy,Hotel Citywide,0.7895%
+-1,KAYAK,Saint Barthélemy,Vacations,8.3333%
+-1,Hotelscombined,Saint Barthélemy,Vacations,8.3333%
+-1,KAYAK,Saint Lucia,Flights,8.7165%
+-1,Momondo,Saint Lucia,Flights,1.2452%
+-1,CheapFlights,Saint Lucia,Flights,0.8621%
+-1,Hotelscombined,Saint Lucia,Flights,3.7356%
+-1,KAYAK,Saint Lucia,Hotel,7.1427%
+-1,Hotelscombined,Saint Lucia,Hotel,8.6465%
+-1,Momondo,Saint Lucia,Hotel,0.7519%
+-1,KAYAK,Saint Lucia,Hotel Citywide,6.3427%
+-1,Hotelscombined,Saint Lucia,Hotel Citywide,2.5978%
+-1,Momondo,Saint Lucia,Hotel Citywide,1.1134%
+-1,Hotelscombined,Saint Lucia,Vacations,25.0000%
+-1,Hotelscombined,Saint Martin,Flights,14.0278%
+-1,KAYAK,Saint Martin,Flights,0.4167%
+-1,CheapFlights,Saint Martin,Flights,0.6944%
+-1,Momondo,Saint Martin,Flights,0.3472%
+-1,KAYAK,Saint Martin,Hotel,7.1429%
+-1,Hotelscombined,Saint Martin,Hotel,7.1429%
+-1,KAYAK,Saint Martin,Hotel Citywide,5.4803%
+-1,Momondo,Saint Martin,Hotel Citywide,0.9544%
+-1,Hotelscombined,Saint Martin,Hotel Citywide,1.1700%
+-1,Hotelscombined,Saint Martin,Vacations,16.6667%
+-1,KAYAK,Saint Pierre and Miquelon,Flights,0.9146%
+-1,Momondo,Saint Pierre and Miquelon,Flights,0.3049%
+-1,Hotelscombined,Saint Pierre and Miquelon,Flights,5.7927%
+-1,CheapFlights,Saint Pierre and Miquelon,Flights,1.2195%
+-1,Hotelscombined,Saint Pierre and Miquelon,Hotel,3.1250%
+-1,KAYAK,Saint Pierre and Miquelon,Hotel,3.1250%
+-1,KAYAK,Saint Pierre and Miquelon,Hotel Citywide,13.9189%
+-1,Momondo,Saint Pierre and Miquelon,Hotel Citywide,1.2162%
+-1,Hotelscombined,Saint Pierre and Miquelon,Hotel Citywide,2.4324%
+-1,KAYAK,Saint Vincent and the Grenadines,Flights,12.3950%
+-1,Momondo,Saint Vincent and the Grenadines,Flights,1.6807%
+-1,Hotelscombined,Saint Vincent and the Grenadines,Flights,4.4118%
+-1,CheapFlights,Saint Vincent and the Grenadines,Flights,0.6303%
+-1,Hotelscombined,Saint Vincent and the Grenadines,Hotel,9.6775%
+-1,KAYAK,Saint Vincent and the Grenadines,Hotel,6.4517%
+-1,Momondo,Saint Vincent and the Grenadines,Hotel,0.8065%
+-1,KAYAK,Saint Vincent and the Grenadines,Hotel Citywide,4.6250%
+-1,Hotelscombined,Saint Vincent and the Grenadines,Hotel Citywide,2.6250%
+-1,Momondo,Saint Vincent and the Grenadines,Hotel Citywide,0.5625%
+-1,CheapFlights,Saint Vincent and the Grenadines,Hotel Citywide,0.0625%
+-1,KAYAK,Samoa,Flights,3.8462%
+-1,Momondo,Samoa,Flights,5.7692%
+-1,Hotelscombined,Samoa,Flights,1.9231%
+-1,CheapFlights,Samoa,Flights,1.9231%
+-1,Hotelscombined,Samoa,Hotel,7.8125%
+-1,KAYAK,Samoa,Hotel,5.2083%
+-1,Momondo,Samoa,Hotel,2.6042%
+-1,KAYAK,Samoa,Hotel Citywide,13.2883%
+-1,Momondo,Samoa,Hotel Citywide,2.0270%
+-1,Hotelscombined,Samoa,Hotel Citywide,2.4775%
+-1,KAYAK,San Marino,Flights,5.0459%
+-1,Momondo,San Marino,Flights,3.4404%
+-1,CheapFlights,San Marino,Flights,2.8287%
+-1,Hotelscombined,San Marino,Flights,4.2813%
+-1,KAYAK,San Marino,Hotel,10.7143%
+-1,Hotelscombined,San Marino,Hotel,5.7143%
+-1,Momondo,San Marino,Hotel,0.7143%
+-1,KAYAK,San Marino,Hotel Citywide,6.9539%
+-1,Hotelscombined,San Marino,Hotel Citywide,1.4932%
+-1,Momondo,San Marino,Hotel Citywide,0.2560%
+-1,Hotelscombined,San Marino,Vacations,1.5625%
+-1,Momondo,Saudi Arabia,Car Rentals,25.0000%
+-1,Hotelscombined,Saudi Arabia,Flights,4.2460%
+-1,KAYAK,Saudi Arabia,Flights,0.3329%
+-1,Momondo,Saudi Arabia,Flights,0.1081%
+-1,CheapFlights,Saudi Arabia,Flights,0.0294%
+-1,KAYAK,Saudi Arabia,Hotel,7.4825%
+-1,Hotelscombined,Saudi Arabia,Hotel,6.3481%
+-1,Momondo,Saudi Arabia,Hotel,0.8944%
+-1,KAYAK,Saudi Arabia,Hotel Citywide,5.4010%
+-1,Hotelscombined,Saudi Arabia,Hotel Citywide,2.4216%
+-1,Momondo,Saudi Arabia,Hotel Citywide,0.3396%
+-1,Swoodoo,Saudi Arabia,Hotel Citywide,0.0007%
+-1,Hotelscombined,Saudi Arabia,Vacations,14.1667%
+-1,KAYAK,Saudi Arabia,Vacations,1.2500%
+-1,Momondo,Senegal,Car Rentals,24.9999%
+-1,Hotelscombined,Senegal,Flights,8.0766%
+-1,KAYAK,Senegal,Flights,0.3859%
+-1,CheapFlights,Senegal,Flights,0.4202%
+-1,Momondo,Senegal,Flights,0.1921%
+-1,KAYAK,Senegal,Hotel,5.2958%
+-1,Hotelscombined,Senegal,Hotel,4.7710%
+-1,Momondo,Senegal,Hotel,0.9065%
+-1,KAYAK,Senegal,Hotel Citywide,6.1182%
+-1,Momondo,Senegal,Hotel Citywide,1.1017%
+-1,Hotelscombined,Senegal,Hotel Citywide,1.7147%
+-1,KAYAK,Senegal,Vacations,11.2903%
+-1,Hotelscombined,Senegal,Vacations,5.6451%
+-1,Momondo,Serbia,Car Rentals,25.0000%
+-1,Hotelscombined,Serbia,Flights,11.8001%
+-1,KAYAK,Serbia,Flights,2.2909%
+-1,CheapFlights,Serbia,Flights,3.0260%
+-1,Momondo,Serbia,Flights,1.3896%
+-1,KAYAK,Serbia,Hotel,9.7796%
+-1,Hotelscombined,Serbia,Hotel,3.6870%
+-1,Momondo,Serbia,Hotel,0.8093%
+-1,KAYAK,Serbia,Hotel Citywide,7.6629%
+-1,Momondo,Serbia,Hotel Citywide,0.8905%
+-1,Hotelscombined,Serbia,Hotel Citywide,2.4044%
+-1,Swoodoo,Serbia,Hotel Citywide,0.0311%
+-1,Hotelscombined,Serbia,Vacations,14.0625%
+-1,Momondo,Seychelles,Car Rentals,25.0000%
+-1,KAYAK,Seychelles,Flights,2.0478%
+-1,Hotelscombined,Seychelles,Flights,7.8498%
+-1,Momondo,Seychelles,Flights,0.5973%
+-1,CheapFlights,Seychelles,Flights,0.1706%
+-1,KAYAK,Seychelles,Hotel,4.8013%
+-1,Hotelscombined,Seychelles,Hotel,4.8013%
+-1,Momondo,Seychelles,Hotel,0.3311%
+-1,KAYAK,Seychelles,Hotel Citywide,5.1416%
+-1,Hotelscombined,Seychelles,Hotel Citywide,2.3399%
+-1,Momondo,Seychelles,Hotel Citywide,1.1238%
+-1,KAYAK,Seychelles,Vacations,7.1429%
+-1,Hotelscombined,Seychelles,Vacations,3.5714%
+-1,KAYAK,Sierra Leone,Flights,4.1209%
+-1,Momondo,Sierra Leone,Flights,0.8242%
+-1,Hotelscombined,Sierra Leone,Flights,6.1127%
+-1,CheapFlights,Sierra Leone,Flights,0.4808%
+-1,Hotelscombined,Sierra Leone,Hotel,10.2273%
+-1,KAYAK,Sierra Leone,Hotel,3.4091%
+-1,Momondo,Sierra Leone,Hotel,1.1364%
+-1,KAYAK,Sierra Leone,Hotel Citywide,7.0058%
+-1,Momondo,Sierra Leone,Hotel Citywide,2.1221%
+-1,Hotelscombined,Sierra Leone,Hotel Citywide,2.8779%
+-1,Momondo,Singapore,Car Rentals,25.0000%
+-1,CheapFlights,Singapore,Flights,8.8161%
+-1,KAYAK,Singapore,Flights,10.3105%
+-1,Momondo,Singapore,Flights,4.9120%
+-1,Hotelscombined,Singapore,Flights,6.1458%
+-1,Hotelscombined,Singapore,Hotel,10.1571%
+-1,Momondo,Singapore,Hotel,3.3410%
+-1,KAYAK,Singapore,Hotel,8.3544%
+-1,Momondo,Singapore,Hotel Citywide,4.1790%
+-1,KAYAK,Singapore,Hotel Citywide,7.4425%
+-1,Hotelscombined,Singapore,Hotel Citywide,5.4844%
+-1,Swoodoo,Singapore,Hotel Citywide,0.0055%
+-1,Hotelscombined,Singapore,Vacations,16.6667%
+-1,KAYAK,Sint Maarten,Flights,5.3764%
+-1,Momondo,Sint Maarten,Flights,1.3441%
+-1,Hotelscombined,Sint Maarten,Flights,5.3092%
+-1,CheapFlights,Sint Maarten,Flights,0.6720%
+-1,KAYAK,Sint Maarten,Hotel,6.3254%
+-1,Hotelscombined,Sint Maarten,Hotel,6.3254%
+-1,Momondo,Sint Maarten,Hotel,0.4518%
+-1,KAYAK,Sint Maarten,Hotel Citywide,5.3483%
+-1,Momondo,Sint Maarten,Hotel Citywide,0.7741%
+-1,Hotelscombined,Sint Maarten,Hotel Citywide,1.8473%
+-1,Momondo,Slovakia,Car Rentals,25.0000%
+-1,Hotelscombined,Slovakia,Flights,13.1039%
+-1,CheapFlights,Slovakia,Flights,0.6275%
+-1,KAYAK,Slovakia,Flights,0.4068%
+-1,Momondo,Slovakia,Flights,0.1551%
+-1,KAYAK,Slovakia,Hotel,8.4559%
+-1,Hotelscombined,Slovakia,Hotel,4.0441%
+-1,Momondo,Slovakia,Hotel,0.8578%
+-1,Swoodoo,Slovakia,Hotel,0.0245%
+-1,KAYAK,Slovakia,Hotel Citywide,7.7734%
+-1,Hotelscombined,Slovakia,Hotel Citywide,2.4203%
+-1,Momondo,Slovakia,Hotel Citywide,1.0291%
+-1,Swoodoo,Slovakia,Hotel Citywide,0.1973%
+-1,Hotelscombined,Slovakia,Vacations,17.4528%
+-1,KAYAK,Slovakia,Vacations,2.7123%
+-1,Momondo,Slovenia,Car Rentals,25.0000%
+-1,CheapFlights,Slovenia,Flights,5.0634%
+-1,KAYAK,Slovenia,Flights,3.1544%
+-1,Hotelscombined,Slovenia,Flights,5.7327%
+-1,Momondo,Slovenia,Flights,1.6500%
+-1,KAYAK,Slovenia,Hotel,10.5668%
+-1,Hotelscombined,Slovenia,Hotel,4.8271%
+-1,Momondo,Slovenia,Hotel,0.8165%
+-1,KAYAK,Slovenia,Hotel Citywide,9.4013%
+-1,Hotelscombined,Slovenia,Hotel Citywide,1.7964%
+-1,Momondo,Slovenia,Hotel Citywide,0.9048%
+-1,Swoodoo,Slovenia,Hotel Citywide,0.0709%
+-1,Hotelscombined,Slovenia,Vacations,16.2500%
+-1,KAYAK,Slovenia,Vacations,1.6667%
+-1,KAYAK,Solomon Islands,Flights,14.2857%
+-1,Momondo,Solomon Islands,Flights,1.7857%
+-1,CheapFlights,Solomon Islands,Flights,1.7857%
+-1,KAYAK,Solomon Islands,Hotel,10.0000%
+-1,Hotelscombined,Solomon Islands,Hotel,5.0000%
+-1,KAYAK,Solomon Islands,Hotel Citywide,13.2114%
+-1,Momondo,Solomon Islands,Hotel Citywide,2.6423%
+-1,Hotelscombined,Solomon Islands,Hotel Citywide,2.6423%
+-1,KAYAK,Somalia,Flights,5.0481%
+-1,Hotelscombined,Somalia,Flights,7.5721%
+-1,CheapFlights,Somalia,Flights,1.9231%
+-1,Momondo,Somalia,Flights,1.6026%
+-1,Hotelscombined,Somalia,Hotel,10.1192%
+-1,KAYAK,Somalia,Hotel,11.9050%
+-1,KAYAK,Somalia,Hotel Citywide,8.1615%
+-1,Hotelscombined,Somalia,Hotel Citywide,3.5792%
+-1,Momondo,Somalia,Hotel Citywide,1.5184%
+-1,Hotelscombined,Somalia,Vacations,12.5000%
+-1,Momondo,South Africa,Car Rentals,25.0000%
+-1,CheapFlights,South Africa,Flights,5.2448%
+-1,KAYAK,South Africa,Flights,4.4636%
+-1,Hotelscombined,South Africa,Flights,9.2317%
+-1,Momondo,South Africa,Flights,2.5816%
+-1,KAYAK,South Africa,Hotel,8.1558%
+-1,Hotelscombined,South Africa,Hotel,7.7174%
+-1,Momondo,South Africa,Hotel,0.8844%
+-1,KAYAK,South Africa,Hotel Citywide,7.3932%
+-1,Momondo,South Africa,Hotel Citywide,1.2561%
+-1,Hotelscombined,South Africa,Hotel Citywide,3.5596%
+-1,Swoodoo,South Africa,Hotel Citywide,0.0026%
+-1,Hotelscombined,South Africa,Vacations,14.3581%
+-1,KAYAK,South Africa,Vacations,1.5203%
+-1,Momondo,South Korea,Flights,9.8214%
+-1,KAYAK,South Korea,Flights,11.3957%
+-1,CheapFlights,South Korea,Flights,3.1485%
+-1,Hotelscombined,South Korea,Flights,0.0235%
+-1,Momondo,South Korea,Hotel,8.6965%
+-1,Hotelscombined,South Korea,Hotel,0.0778%
+-1,KAYAK,South Korea,Hotel,3.8521%
+-1,Swoodoo,South Korea,Hotel,0.0195%
+-1,Momondo,South Korea,Hotel Citywide,6.8386%
+-1,KAYAK,South Korea,Hotel Citywide,4.7872%
+-1,Hotelscombined,South Korea,Hotel Citywide,0.0778%
+-1,Swoodoo,South Korea,Hotel Citywide,0.0228%
+-1,KAYAK,South Korea,Vacations,2.2728%
+-1,KAYAK,South Sudan,Flights,6.9588%
+-1,Momondo,South Sudan,Flights,2.8350%
+-1,Hotelscombined,South Sudan,Flights,4.6392%
+-1,CheapFlights,South Sudan,Flights,2.0619%
+-1,KAYAK,South Sudan,Hotel,12.5000%
+-1,KAYAK,South Sudan,Hotel Citywide,6.2943%
+-1,Momondo,South Sudan,Hotel Citywide,1.9503%
+-1,Hotelscombined,South Sudan,Hotel Citywide,3.2801%
+-1,Momondo,Spain,Car Rentals,23.7508%
+-1,KAYAK,Spain,Car Rentals,3.6369%
+-1,KAYAK,Spain,Flights,4.0000%
+-1,CheapFlights,Spain,Flights,1.1485%
+-1,Hotelscombined,Spain,Flights,1.2058%
+-1,Momondo,Spain,Flights,0.2026%
+-1,Hotelscombined,Spain,Hotel,9.3496%
+-1,KAYAK,Spain,Hotel,7.1734%
+-1,Momondo,Spain,Hotel,0.6251%
+-1,Swoodoo,Spain,Hotel,0.0017%
+-1,KAYAK,Spain,Hotel Citywide,6.0000%
+-1,Hotelscombined,Spain,Hotel Citywide,2.3765%
+-1,Momondo,Spain,Hotel Citywide,0.7488%
+-1,Swoodoo,Spain,Hotel Citywide,0.0046%
+-1,Hotelscombined,Spain,Vacations,14.3729%
+-1,KAYAK,Spain,Vacations,0.0900%
+-1,Momondo,Sri Lanka,Car Rentals,25.0000%
+-1,KAYAK,Sri Lanka,Flights,4.1783%
+-1,Momondo,Sri Lanka,Flights,2.3235%
+-1,CheapFlights,Sri Lanka,Flights,0.7180%
+-1,Hotelscombined,Sri Lanka,Flights,7.4093%
+-1,Hotelscombined,Sri Lanka,Hotel,8.6677%
+-1,KAYAK,Sri Lanka,Hotel,7.6512%
+-1,Momondo,Sri Lanka,Hotel,2.4880%
+-1,KAYAK,Sri Lanka,Hotel Citywide,11.4983%
+-1,Momondo,Sri Lanka,Hotel Citywide,2.4621%
+-1,Hotelscombined,Sri Lanka,Hotel Citywide,7.7775%
+-1,Hotelscombined,Sri Lanka,Vacations,8.7502%
+-1,KAYAK,Sri Lanka,Vacations,2.5001%
+-1,KAYAK,St Kitts and Nevis,Flights,11.5000%
+-1,Momondo,St Kitts and Nevis,Flights,1.7500%
+-1,CheapFlights,St Kitts and Nevis,Flights,0.2500%
+-1,Hotelscombined,St Kitts and Nevis,Flights,1.2500%
+-1,KAYAK,St Kitts and Nevis,Hotel,2.8846%
+-1,Momondo,St Kitts and Nevis,Hotel,1.9231%
+-1,Hotelscombined,St Kitts and Nevis,Hotel,2.8846%
+-1,KAYAK,St Kitts and Nevis,Hotel Citywide,10.6173%
+-1,Momondo,St Kitts and Nevis,Hotel Citywide,1.5432%
+-1,Hotelscombined,St Kitts and Nevis,Hotel Citywide,2.1605%
+-1,Hotelscombined,St Kitts and Nevis,Vacations,25.0000%
+-1,Hotelscombined,Sudan,Flights,8.7049%
+-1,KAYAK,Sudan,Flights,0.1562%
+-1,Momondo,Sudan,Flights,0.0799%
+-1,CheapFlights,Sudan,Flights,0.0532%
+-1,KAYAK,Sudan,Hotel,11.3636%
+-1,Hotelscombined,Sudan,Hotel,4.5454%
+-1,Momondo,Sudan,Hotel,2.2727%
+-1,KAYAK,Sudan,Hotel Citywide,9.2953%
+-1,Hotelscombined,Sudan,Hotel Citywide,3.6119%
+-1,Momondo,Sudan,Hotel Citywide,1.7351%
+-1,Hotelscombined,Sudan,Vacations,25.0000%
+-1,KAYAK,Suriname,Flights,4.2749%
+-1,Momondo,Suriname,Flights,1.1364%
+-1,Hotelscombined,Suriname,Flights,8.0087%
+-1,CheapFlights,Suriname,Flights,2.2727%
+-1,KAYAK,Suriname,Hotel,5.8333%
+-1,Hotelscombined,Suriname,Hotel,6.4583%
+-1,Momondo,Suriname,Hotel,1.0417%
+-1,KAYAK,Suriname,Hotel Citywide,8.7010%
+-1,Momondo,Suriname,Hotel Citywide,1.5406%
+-1,Hotelscombined,Suriname,Hotel Citywide,2.4335%
+-1,Hotelscombined,Suriname,Vacations,25.0000%
+-1,Momondo,Sweden,Car Rentals,23.2143%
+-1,KAYAK,Sweden,Car Rentals,2.6786%
+-1,Momondo,Sweden,Flights,18.7024%
+-1,CheapFlights,Sweden,Flights,2.1563%
+-1,Hotelscombined,Sweden,Flights,2.9203%
+-1,KAYAK,Sweden,Flights,1.3749%
+-1,Momondo,Sweden,Hotel,1.6344%
+-1,Hotelscombined,Sweden,Hotel,5.6304%
+-1,KAYAK,Sweden,Hotel,1.6256%
+-1,Momondo,Sweden,Hotel Citywide,3.6966%
+-1,Hotelscombined,Sweden,Hotel Citywide,2.4866%
+-1,KAYAK,Sweden,Hotel Citywide,2.7155%
+-1,Swoodoo,Sweden,Hotel Citywide,0.0410%
+-1,Hotelscombined,Sweden,Vacations,15.1654%
+-1,KAYAK,Sweden,Vacations,0.7353%
+-1,Momondo,Switzerland,Car Rentals,24.7908%
+-1,KAYAK,Switzerland,Car Rentals,0.2092%
+-1,Momondo,Switzerland,Flights,6.4779%
+-1,KAYAK,Switzerland,Flights,7.0490%
+-1,Hotelscombined,Switzerland,Flights,2.4434%
+-1,CheapFlights,Switzerland,Flights,1.5638%
+-1,Swoodoo,Switzerland,Flights,0.0010%
+-1,Hotelscombined,Switzerland,Hotel,7.5536%
+-1,KAYAK,Switzerland,Hotel,3.7521%
+-1,Momondo,Switzerland,Hotel,0.2622%
+-1,Swoodoo,Switzerland,Hotel,0.0136%
+-1,KAYAK,Switzerland,Hotel Citywide,7.9655%
+-1,Hotelscombined,Switzerland,Hotel Citywide,2.5363%
+-1,Momondo,Switzerland,Hotel Citywide,2.1708%
+-1,Swoodoo,Switzerland,Hotel Citywide,0.7821%
+-1,Hotelscombined,Switzerland,Vacations,12.7406%
+-1,KAYAK,Switzerland,Vacations,5.9793%
+-1,KAYAK,Syria,Flights,1.6266%
+-1,Hotelscombined,Syria,Flights,7.4825%
+-1,Momondo,Syria,Flights,0.7507%
+-1,CheapFlights,Syria,Flights,0.7507%
+-1,KAYAK,Syria,Hotel Citywide,10.3893%
+-1,Hotelscombined,Syria,Hotel Citywide,2.8509%
+-1,Momondo,Syria,Hotel Citywide,1.5077%
+-1,CheapFlights,São Tomé and Príncipe,Flights,8.9285%
+-1,KAYAK,São Tomé and Príncipe,Flights,6.6666%
+-1,Hotelscombined,São Tomé and Príncipe,Flights,5.7143%
+-1,Momondo,São Tomé and Príncipe,Flights,2.9762%
+-1,KAYAK,São Tomé and Príncipe,Hotel Citywide,14.4068%
+-1,Hotelscombined,São Tomé and Príncipe,Hotel Citywide,2.3305%
+-1,Momondo,São Tomé and Príncipe,Hotel Citywide,0.6356%
+-1,Momondo,Taiwan,Flights,5.0352%
+-1,CheapFlights,Taiwan,Flights,1.9906%
+-1,KAYAK,Taiwan,Flights,7.2600%
+-1,Hotelscombined,Taiwan,Flights,5.9719%
+-1,Hotelscombined,Taiwan,Hotel,8.2938%
+-1,Momondo,Taiwan,Hotel,3.6137%
+-1,KAYAK,Taiwan,Hotel,2.2512%
+-1,Momondo,Taiwan,Hotel Citywide,5.9568%
+-1,Hotelscombined,Taiwan,Hotel Citywide,6.1856%
+-1,KAYAK,Taiwan,Hotel Citywide,2.6685%
+-1,Swoodoo,Taiwan,Hotel Citywide,0.0018%
+-1,Momondo,Tajikistan,Car Rentals,25.0000%
+-1,KAYAK,Tajikistan,Flights,3.6058%
+-1,CheapFlights,Tajikistan,Flights,2.1635%
+-1,Hotelscombined,Tajikistan,Flights,6.0096%
+-1,Momondo,Tajikistan,Flights,2.4039%
+-1,Hotelscombined,Tajikistan,Hotel,8.3333%
+-1,KAYAK,Tajikistan,Hotel,8.3333%
+-1,Momondo,Tajikistan,Hotel,4.1667%
+-1,KAYAK,Tajikistan,Hotel Citywide,6.2185%
+-1,Hotelscombined,Tajikistan,Hotel Citywide,3.3193%
+-1,Momondo,Tajikistan,Hotel Citywide,0.7563%
+-1,Momondo,Tanzania,Car Rentals,25.0000%
+-1,KAYAK,Tanzania,Flights,1.6565%
+-1,CheapFlights,Tanzania,Flights,1.1461%
+-1,Hotelscombined,Tanzania,Flights,8.0677%
+-1,Momondo,Tanzania,Flights,0.7342%
+-1,KAYAK,Tanzania,Hotel,4.4887%
+-1,Hotelscombined,Tanzania,Hotel,4.9432%
+-1,Momondo,Tanzania,Hotel,0.7386%
+-1,KAYAK,Tanzania,Hotel Citywide,3.1469%
+-1,Hotelscombined,Tanzania,Hotel Citywide,2.0974%
+-1,Momondo,Tanzania,Hotel Citywide,0.7452%
+-1,Hotelscombined,Tanzania,Vacations,14.9998%
+-1,Momondo,Thailand,Car Rentals,25.0000%
+-1,Momondo,Thailand,Flights,5.4099%
+-1,CheapFlights,Thailand,Flights,2.6967%
+-1,Hotelscombined,Thailand,Flights,2.3115%
+-1,KAYAK,Thailand,Flights,1.5410%
+-1,Hotelscombined,Thailand,Hotel,8.2503%
+-1,Momondo,Thailand,Hotel,2.3266%
+-1,KAYAK,Thailand,Hotel,6.3051%
+-1,Momondo,Thailand,Hotel Citywide,4.0524%
+-1,Hotelscombined,Thailand,Hotel Citywide,5.0536%
+-1,KAYAK,Thailand,Hotel Citywide,9.8765%
+-1,Swoodoo,Thailand,Hotel Citywide,0.0051%
+-1,Hotelscombined,Thailand,Vacations,15.0000%
+-1,KAYAK,Thailand,Vacations,6.2500%
+-1,Hotelscombined,Togo,Flights,5.2452%
+-1,KAYAK,Togo,Flights,0.1870%
+-1,Momondo,Togo,Flights,0.1246%
+-1,CheapFlights,Togo,Flights,0.1039%
+-1,KAYAK,Togo,Hotel,4.6875%
+-1,Hotelscombined,Togo,Hotel,3.1250%
+-1,KAYAK,Togo,Hotel Citywide,4.7534%
+-1,Momondo,Togo,Hotel Citywide,1.1634%
+-1,Hotelscombined,Togo,Hotel Citywide,1.1785%
+-1,KAYAK,Togo,Vacations,25.0000%
+-1,KAYAK,Tonga,Flights,21.8750%
+-1,CheapFlights,Tonga,Flights,6.2500%
+-1,Hotelscombined,Tonga,Flights,3.1250%
+-1,Momondo,Tonga,Flights,3.1250%
+-1,KAYAK,Tonga,Hotel,15.0000%
+-1,Hotelscombined,Tonga,Hotel,15.0000%
+-1,KAYAK,Tonga,Hotel Citywide,15.3361%
+-1,Momondo,Tonga,Hotel Citywide,2.3109%
+-1,Hotelscombined,Tonga,Hotel Citywide,1.8908%
+-1,KAYAK,Trinidad and Tobago,Flights,5.8764%
+-1,Momondo,Trinidad and Tobago,Flights,0.8992%
+-1,CheapFlights,Trinidad and Tobago,Flights,0.6839%
+-1,Hotelscombined,Trinidad and Tobago,Flights,4.6099%
+-1,KAYAK,Trinidad and Tobago,Hotel,6.3499%
+-1,Hotelscombined,Trinidad and Tobago,Hotel,7.0648%
+-1,Momondo,Trinidad and Tobago,Hotel,0.7990%
+-1,KAYAK,Trinidad and Tobago,Hotel Citywide,11.0537%
+-1,Momondo,Trinidad and Tobago,Hotel Citywide,1.8927%
+-1,Hotelscombined,Trinidad and Tobago,Hotel Citywide,2.4439%
+-1,CheapFlights,Trinidad and Tobago,Hotel Citywide,0.0244%
+-1,Hotelscombined,Trinidad and Tobago,Vacations,17.3077%
+-1,Momondo,Tunisia,Car Rentals,25.0000%
+-1,Hotelscombined,Tunisia,Flights,6.2605%
+-1,KAYAK,Tunisia,Flights,0.1621%
+-1,Momondo,Tunisia,Flights,0.2163%
+-1,CheapFlights,Tunisia,Flights,0.2032%
+-1,KAYAK,Tunisia,Hotel,8.1767%
+-1,Hotelscombined,Tunisia,Hotel,7.8712%
+-1,Momondo,Tunisia,Hotel,0.7989%
+-1,KAYAK,Tunisia,Hotel Citywide,8.0845%
+-1,Hotelscombined,Tunisia,Hotel Citywide,2.6817%
+-1,Momondo,Tunisia,Hotel Citywide,1.0798%
+-1,KAYAK,Tunisia,Vacations,12.3475%
+-1,Hotelscombined,Tunisia,Vacations,4.5732%
+-1,Momondo,Turkey,Car Rentals,20.6897%
+-1,KAYAK,Turkey,Car Rentals,15.5173%
+-1,CheapFlights,Turkey,Flights,5.2204%
+-1,Hotelscombined,Turkey,Flights,8.3738%
+-1,Momondo,Turkey,Flights,3.2322%
+-1,KAYAK,Turkey,Flights,0.9273%
+-1,Hotelscombined,Turkey,Hotel,8.8020%
+-1,Momondo,Turkey,Hotel,0.4637%
+-1,KAYAK,Turkey,Hotel,0.2804%
+-1,Swoodoo,Turkey,Hotel,0.0014%
+-1,Hotelscombined,Turkey,Hotel Citywide,10.4083%
+-1,KAYAK,Turkey,Hotel Citywide,8.1536%
+-1,Momondo,Turkey,Hotel Citywide,1.8130%
+-1,Swoodoo,Turkey,Hotel Citywide,0.0037%
+-1,Hotelscombined,Turkey,Vacations,16.3242%
+-1,KAYAK,Turkey,Vacations,1.3699%
+-1,KAYAK,Turkmenistan,Hotel Citywide,10.0000%
+-1,Momondo,Turkmenistan,Hotel Citywide,5.0000%
+-1,KAYAK,Turks and Caicos Islands,Flights,4.3033%
+-1,Momondo,Turks and Caicos Islands,Flights,1.1271%
+-1,CheapFlights,Turks and Caicos Islands,Flights,0.7172%
+-1,Hotelscombined,Turks and Caicos Islands,Flights,6.5574%
+-1,KAYAK,Turks and Caicos Islands,Hotel,5.8458%
+-1,Hotelscombined,Turks and Caicos Islands,Hotel,7.0896%
+-1,Momondo,Turks and Caicos Islands,Hotel,0.8707%
+-1,KAYAK,Turks and Caicos Islands,Hotel Citywide,6.2561%
+-1,Momondo,Turks and Caicos Islands,Hotel Citywide,0.9644%
+-1,Hotelscombined,Turks and Caicos Islands,Hotel Citywide,1.6568%
+-1,CheapFlights,Turks and Caicos Islands,Hotel Citywide,0.0247%
+-1,Hotelscombined,U.S. Minor Outlying Islands,Hotel,18.7500%
+-1,KAYAK,U.S. Minor Outlying Islands,Hotel Citywide,2.0588%
+-1,Hotelscombined,U.S. Minor Outlying Islands,Hotel Citywide,7.0589%
+-1,KAYAK,U.S. Virgin Islands,Flights,0.6615%
+-1,Hotelscombined,U.S. Virgin Islands,Flights,3.0807%
+-1,CheapFlights,U.S. Virgin Islands,Flights,0.0490%
+-1,Momondo,U.S. Virgin Islands,Flights,0.0490%
+-1,KAYAK,U.S. Virgin Islands,Hotel,6.0715%
+-1,Hotelscombined,U.S. Virgin Islands,Hotel,7.7382%
+-1,Momondo,U.S. Virgin Islands,Hotel,0.4167%
+-1,KAYAK,U.S. Virgin Islands,Hotel Citywide,8.7733%
+-1,Hotelscombined,U.S. Virgin Islands,Hotel Citywide,3.8796%
+-1,Momondo,U.S. Virgin Islands,Hotel Citywide,0.9659%
+-1,CheapFlights,U.S. Virgin Islands,Hotel Citywide,0.2093%
+-1,Hotelscombined,U.S. Virgin Islands,Vacations,10.0000%
+-1,KAYAK,Uganda,Flights,3.2020%
+-1,Momondo,Uganda,Flights,1.1084%
+-1,CheapFlights,Uganda,Flights,0.9852%
+-1,Hotelscombined,Uganda,Flights,5.6240%
+-1,KAYAK,Uganda,Hotel,6.4316%
+-1,Hotelscombined,Uganda,Hotel,6.4316%
+-1,Momondo,Uganda,Hotel,1.0374%
+-1,KAYAK,Uganda,Hotel Citywide,6.7086%
+-1,Momondo,Uganda,Hotel Citywide,1.6375%
+-1,Hotelscombined,Uganda,Hotel Citywide,3.0814%
+-1,Hotelscombined,Uganda,Vacations,10.7143%
+-1,KAYAK,Uganda,Vacations,3.5714%
+-1,Momondo,Ukraine,Car Rentals,22.5000%
+-1,KAYAK,Ukraine,Car Rentals,2.5000%
+-1,KAYAK,Ukraine,Flights,2.8163%
+-1,CheapFlights,Ukraine,Flights,3.0578%
+-1,Hotelscombined,Ukraine,Flights,6.4718%
+-1,Momondo,Ukraine,Flights,2.8616%
+-1,Hotelscombined,Ukraine,Hotel,8.4022%
+-1,KAYAK,Ukraine,Hotel,7.6579%
+-1,Momondo,Ukraine,Hotel,0.5560%
+-1,Swoodoo,Ukraine,Hotel,0.0090%
+-1,KAYAK,Ukraine,Hotel Citywide,5.4252%
+-1,Hotelscombined,Ukraine,Hotel Citywide,4.5126%
+-1,Momondo,Ukraine,Hotel Citywide,1.4443%
+-1,Swoodoo,Ukraine,Hotel Citywide,0.0044%
+-1,Hotelscombined,Ukraine,Vacations,12.6582%
+-1,KAYAK,Ukraine,Vacations,2.8481%
+-1,Momondo,United Arab Emirates,Car Rentals,25.0000%
+-1,CheapFlights,United Arab Emirates,Flights,1.9441%
+-1,KAYAK,United Arab Emirates,Flights,3.0841%
+-1,Hotelscombined,United Arab Emirates,Flights,11.6822%
+-1,Momondo,United Arab Emirates,Flights,1.7654%
+-1,Hotelscombined,United Arab Emirates,Hotel,6.8055%
+-1,KAYAK,United Arab Emirates,Hotel,5.1909%
+-1,Momondo,United Arab Emirates,Hotel,0.8474%
+-1,KAYAK,United Arab Emirates,Hotel Citywide,8.3062%
+-1,Hotelscombined,United Arab Emirates,Hotel Citywide,4.6838%
+-1,Momondo,United Arab Emirates,Hotel Citywide,1.4620%
+-1,Swoodoo,United Arab Emirates,Hotel Citywide,0.0013%
+-1,Hotelscombined,United Arab Emirates,Vacations,15.8163%
+-1,KAYAK,United Arab Emirates,Vacations,1.5306%
+-1,Momondo,United Kingdom,Car Rentals,25.0000%
+-1,KAYAK,United Kingdom,Car Rentals,0.7692%
+-1,KAYAK,United Kingdom,Flights,8.6724%
+-1,CheapFlights,United Kingdom,Flights,0.7765%
+-1,Hotelscombined,United Kingdom,Flights,7.2596%
+-1,Momondo,United Kingdom,Flights,0.1436%
+-1,KAYAK,United Kingdom,Hotel,4.8129%
+-1,Momondo,United Kingdom,Hotel,0.7639%
+-1,Hotelscombined,United Kingdom,Hotel,4.2786%
+-1,Swoodoo,United Kingdom,Hotel,0.0045%
+-1,KAYAK,United Kingdom,Hotel Citywide,2.0000%
+-1,Momondo,United Kingdom,Hotel Citywide,0.4492%
+-1,Hotelscombined,United Kingdom,Hotel Citywide,0.2035%
+-1,Swoodoo,United Kingdom,Hotel Citywide,0.0024%
+-1,KAYAK,United Kingdom,Vacations,15.7933%
+-1,Hotelscombined,United Kingdom,Vacations,1.7454%
+-1,KAYAK,United States,Car Rentals,3.5569%
+-1,Travelsearch,United States,Car Rentals,4.5732%
+-1,Momondo,United States,Car Rentals,0.3049%
+-1,KAYAK,United States,Flights,16.0000%
+-1,CheapFlights,United States,Flights,0.5741%
+-1,Travelsearch,United States,Flights,0.8990%
+-1,Momondo,United States,Flights,0.1854%
+-1,Hotelscombined,United States,Flights,4.1763%
+-1,Swoodoo,United States,Flights,0.0000%
+-1,KAYAK,United States,Hotel,4.0000%
+-1,Momondo,United States,Hotel,0.6845%
+-1,Hotelscombined,United States,Hotel,0.6554%
+-1,Swoodoo,United States,Hotel,0.0030%
+-1,KAYAK,United States,Hotel Citywide,8.0189%
+-1,Momondo,United States,Hotel Citywide,1.2499%
+-1,Hotelscombined,United States,Hotel Citywide,0.8870%
+-1,Swoodoo,United States,Hotel Citywide,0.0038%
+-1,CheapFlights,United States,Hotel Citywide,0.0011%
+-1,Hotelscombined,United States,Vacations,16.2267%
+-1,KAYAK,United States,Vacations,1.3746%
+-1,Momondo,Uruguay,Car Rentals,23.2143%
+-1,KAYAK,Uruguay,Car Rentals,3.5714%
+-1,Hotelscombined,Uruguay,Flights,5.9873%
+-1,CheapFlights,Uruguay,Flights,1.1353%
+-1,KAYAK,Uruguay,Flights,0.7545%
+-1,Momondo,Uruguay,Flights,0.7994%
+-1,Hotelscombined,Uruguay,Hotel,8.1565%
+-1,KAYAK,Uruguay,Hotel,6.4944%
+-1,Momondo,Uruguay,Hotel,1.2291%
+-1,Hotelscombined,Uruguay,Hotel Citywide,5.9381%
+-1,KAYAK,Uruguay,Hotel Citywide,5.5218%
+-1,Momondo,Uruguay,Hotel Citywide,1.8977%
+-1,Swoodoo,Uruguay,Hotel Citywide,0.0012%
+-1,Hotelscombined,Uruguay,Vacations,25.0000%
+-1,KAYAK,Uzbekistan,Flights,2.2947%
+-1,CheapFlights,Uzbekistan,Flights,2.3551%
+-1,Hotelscombined,Uzbekistan,Flights,8.1521%
+-1,Momondo,Uzbekistan,Flights,1.1473%
+-1,Hotelscombined,Uzbekistan,Hotel,8.0461%
+-1,KAYAK,Uzbekistan,Hotel,7.3277%
+-1,Momondo,Uzbekistan,Hotel,2.5862%
+-1,KAYAK,Uzbekistan,Hotel Citywide,8.9199%
+-1,Hotelscombined,Uzbekistan,Hotel Citywide,6.3247%
+-1,Momondo,Uzbekistan,Hotel Citywide,1.8111%
+-1,Swoodoo,Uzbekistan,Hotel Citywide,0.0047%
+-1,Hotelscombined,Uzbekistan,Vacations,16.6667%
+-1,KAYAK,Vanuatu,Flights,9.7826%
+-1,Momondo,Vanuatu,Flights,1.0870%
+-1,Hotelscombined,Vanuatu,Flights,1.0870%
+-1,CheapFlights,Vanuatu,Flights,1.0870%
+-1,Hotelscombined,Vanuatu,Hotel,4.5455%
+-1,KAYAK,Vanuatu,Hotel,4.5455%
+-1,KAYAK,Vanuatu,Hotel Citywide,9.1216%
+-1,Momondo,Vanuatu,Hotel Citywide,3.3784%
+-1,Hotelscombined,Vanuatu,Hotel Citywide,4.3919%
+-1,KAYAK,Vanuatu,Vacations,25.0000%
+-1,Momondo,Vatican City,Flights,4.7619%
+-1,KAYAK,Vatican City,Flights,5.9524%
+-1,CheapFlights,Vatican City,Flights,5.9524%
+-1,Hotelscombined,Vatican City,Flights,4.7619%
+-1,KAYAK,Vatican City,Hotel,25.0000%
+-1,Hotelscombined,Vatican City,Hotel,25.0000%
+-1,Momondo,Vatican City,Hotel,12.5000%
+-1,KAYAK,Vatican City,Hotel Citywide,18.0693%
+-1,Momondo,Vatican City,Hotel Citywide,0.9901%
+-1,Hotelscombined,Vatican City,Hotel Citywide,2.4753%
+-1,Momondo,Venezuela,Car Rentals,23.6112%
+-1,KAYAK,Venezuela,Car Rentals,1.3889%
+-1,CheapFlights,Venezuela,Flights,1.5710%
+-1,KAYAK,Venezuela,Flights,1.1075%
+-1,Hotelscombined,Venezuela,Flights,3.0567%
+-1,Momondo,Venezuela,Flights,0.9628%
+-1,Hotelscombined,Venezuela,Hotel,8.0915%
+-1,KAYAK,Venezuela,Hotel,6.2445%
+-1,Momondo,Venezuela,Hotel,1.2753%
+-1,KAYAK,Venezuela,Hotel Citywide,4.4845%
+-1,Momondo,Venezuela,Hotel Citywide,2.5520%
+-1,Hotelscombined,Venezuela,Hotel Citywide,3.7273%
+-1,Hotelscombined,Venezuela,Vacations,17.8571%
+-1,Momondo,Vietnam,Flights,5.9154%
+-1,CheapFlights,Vietnam,Flights,1.2953%
+-1,Hotelscombined,Vietnam,Flights,5.5052%
+-1,KAYAK,Vietnam,Flights,5.4836%
+-1,Hotelscombined,Vietnam,Hotel,9.2414%
+-1,Momondo,Vietnam,Hotel,3.2585%
+-1,KAYAK,Vietnam,Hotel,6.6477%
+-1,Momondo,Vietnam,Hotel Citywide,4.6798%
+-1,Hotelscombined,Vietnam,Hotel Citywide,4.9354%
+-1,KAYAK,Vietnam,Hotel Citywide,7.4055%
+-1,Swoodoo,Vietnam,Hotel Citywide,0.0016%
+-1,Hotelscombined,Vietnam,Vacations,12.5001%
+-1,KAYAK,Vietnam,Vacations,5.0000%
+-1,CheapFlights,Wallis and Futuna,Flights,4.1667%
+-1,Hotelscombined,Wallis and Futuna,Flights,4.1667%
+-1,KAYAK,Wallis and Futuna,Hotel Citywide,3.1250%
+-1,Momondo,Wallis and Futuna,Hotel Citywide,1.1364%
+-1,Hotelscombined,Wallis and Futuna,Hotel Citywide,0.5682%
+-1,KAYAK,Yemen,Flights,5.6604%
+-1,Momondo,Yemen,Flights,1.8868%
+-1,Hotelscombined,Yemen,Flights,5.4245%
+-1,CheapFlights,Yemen,Flights,0.2358%
+-1,Hotelscombined,Yemen,Hotel,3.8462%
+-1,Momondo,Yemen,Hotel,3.8462%
+-1,KAYAK,Yemen,Hotel,1.9231%
+-1,KAYAK,Yemen,Hotel Citywide,8.0508%
+-1,Hotelscombined,Yemen,Hotel Citywide,4.6610%
+-1,Momondo,Yemen,Hotel Citywide,1.9491%
+-1,Momondo,Zambia,Car Rentals,25.0000%
+-1,KAYAK,Zambia,Flights,0.9025%
+-1,Hotelscombined,Zambia,Flights,7.9196%
+-1,CheapFlights,Zambia,Flights,1.8727%
+-1,Momondo,Zambia,Flights,1.9404%
+-1,KAYAK,Zambia,Hotel,4.4230%
+-1,Hotelscombined,Zambia,Hotel,4.6154%
+-1,Momondo,Zambia,Hotel,2.1154%
+-1,KAYAK,Zambia,Hotel Citywide,3.5487%
+-1,Momondo,Zambia,Hotel Citywide,1.0152%
+-1,Hotelscombined,Zambia,Hotel Citywide,1.8671%
+-1,KAYAK,Zimbabwe,Flights,2.3108%
+-1,Momondo,Zimbabwe,Flights,1.5070%
+-1,Hotelscombined,Zimbabwe,Flights,7.2170%
+-1,CheapFlights,Zimbabwe,Flights,0.7368%
+-1,Hotelscombined,Zimbabwe,Hotel,6.4541%
+-1,KAYAK,Zimbabwe,Hotel,5.0817%
+-1,Momondo,Zimbabwe,Hotel,2.5223%
+-1,KAYAK,Zimbabwe,Hotel Citywide,6.2775%
+-1,Momondo,Zimbabwe,Hotel Citywide,1.3995%
+-1,Hotelscombined,Zimbabwe,Hotel Citywide,2.4491%
+-1,Hotelscombined,Zimbabwe,Vacations,7.1429%
+-1,Hotelscombined,Åland,Flights,14.1667%
+-1,KAYAK,Åland,Flights,0.2778%
+-1,CheapFlights,Åland,Flights,0.5556%
+-1,Momondo,Åland,Flights,0.2778%
+-1,KAYAK,Åland,Hotel,10.2941%
+-1,Hotelscombined,Åland,Hotel,10.2941%
+-1,KAYAK,Åland,Hotel Citywide,9.9337%
+-1,Hotelscombined,Åland,Hotel Citywide,2.8973%
+-1,Momondo,Åland,Hotel Citywide,0.9106%

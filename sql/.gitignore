@@ -1,0 +1,6 @@
+# CSV files
+*.csv
+
+# Database files
+*.db
+
