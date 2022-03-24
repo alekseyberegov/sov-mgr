@@ -23,8 +23,8 @@ ct_searches as (
 )
 select s.month
     , 'kayak' as advertiser
+    , a.advertiser_name as brand
 	, a.advertiser_name||'_'||s.user_country_id_name||'_'||s.campaign_targeting_type_name as placement
-	, a.advertiser_name as brand
 	, s.user_country_id_name as country
 	, s.campaign_targeting_type_name as vertical
     , '-1' as device

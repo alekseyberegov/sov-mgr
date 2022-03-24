@@ -15,13 +15,28 @@
 * search_cnt
 * sov_meas
 
-## Generating SOV stats
-* Kayak
+### Reported SOV
+* device
+* brand
+* country
+* vertical
+* sov
+
+#### File name
 ```
-../scripts/rsql.sh -p "start_month=2022-01-01" -p "user=aleksey" -s ./sov_kayak.sql 
-```
-* Trivago
-```
-../scripts/rsql.sh -p "start_month=2022-01-01" -p "user=aleksey" -s ./sov_trivago.sql 
+    <advertiser>"_"<report-name>"_"<YYYY>-<MM>".csv"
 ```
 
+## Generating SOV stats
+* Kayak
+  ```
+  ../scripts/rsql.sh -p "start_month=2022-01-01" -p "user=aleksey" -s ../sql/sov/sov_kayak.sql > kayak_market-sov_2022-01.csv
+  ```
+* Trivago
+  ```
+  ../scripts/rsql.sh -p "start_month=2022-02-01" -p "user=aleksey" -s ../sql/sov/sov_trivago.sql > trivago_market-sov_2022-02.csv
+  ```
+* Booking
+  ```
+  ../scripts/rsql.sh -p "start_month=2022-02-01" -p "user=aleksey" -s ../sql/sov/sov_bcom.sql > bcom_market-sov_2022-02.csv
+  ```
