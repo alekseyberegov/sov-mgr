@@ -603,6 +603,9 @@ from exploratory.client_sov  ks
 group by 1,2,3
 order by 1
 
+select *
+from exploratory.client_sov  ks 
+limit 100
 
 
 

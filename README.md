@@ -40,3 +40,12 @@
   ```
   ../scripts/rsql.sh -p "start_month=2022-02-01" -p "user=aleksey" -s ../sql/sov/sov_bcom.sql > bcom_market-sov_2022-02.csv
   ```
+## Useful commands
+* Parsing CSV files
+  ```
+  cat trivago_sov_feb.csv | ../scripts/parser.sh -c "1 2 12" -n "0%"
+  ```
+* Preparing SOV reports
+  ```
+  ../scripts/transform.py  -c "0,1,11" ./trivago_sov_feb.csv -n "0%" -p "-1,Trivago Global" > trivago_client-sov_2022-02.csv
+  ```
