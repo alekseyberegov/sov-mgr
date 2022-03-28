@@ -21,9 +21,7 @@ ct_searches as (
 	where date between '${start_month}' and date '${start_month}' + interval '1 month'
 	group by 1, 2, 3
 )
-select s.month
-    , 'kayak' as advertiser
-    , a.advertiser_name as brand
+select  a.advertiser_name as brand
 	, a.advertiser_name||'_'||s.user_country_id_name||'_'||s.campaign_targeting_type_name as placement
 	, s.user_country_id_name as country
 	, s.campaign_targeting_type_name as vertical
@@ -35,4 +33,4 @@ select s.month
 	, isnull(click_cnt / cast(nullif(search_cnt,0) as numeric), 0) as sov_meas
 from ct_searches s
 	left join ct_clicks a using (month, user_country_id_name, campaign_targeting_type_name)
-group by 1, 2, 3, 4, 5, 6, 7
+group by 1, 2, 3, 4, 5

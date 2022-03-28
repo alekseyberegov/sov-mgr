@@ -1,8 +1,35 @@
 #!/bin/bash
 
+# A POSIX variable
+OPTIND=1         # Reset in case getopts has been used previously in the shell
+
+# Initialize our own variables
+separator=","
+verbose=0
+script=$0
+
+function show_help() {
+    echo "Usage: $script [-h] [-s OFS] file"
+}
+
+while getopts "h?vs:" opt; do
+  case "$opt" in
+    h|\?)
+      show_help
+      exit 0
+      ;;
+    v)  verbose=1
+      ;;
+    s)  separator=$OPTARG
+      ;;
+  esac
+done
+
+shift $((OPTIND-1))
+
 if [[ $# -ne 1 ]] ; then
-  echo "Usage: $0 <file>"
-  exit 1	
+    show_help
+    exit 1	
 fi
 
 path=$1
@@ -25,16 +52,13 @@ folder="reports/${report}/${timestamp}/"
 # Create the folder for the report
 aws s3api put-object --bucket ${bucket} --key ${folder}
 
-column_cnt=$(head -1 ${path} | sed 's/[^,]//g' | wc -c)
-column_cnt=$((columns + 2))
-
 temp_file=$(mktemp)
 
 awk -v brand_col="${brand}"  \
     -v brand_hdr="advertiser"  \
     -v date_col="${timestamp}"  \
     -v date_hdr="date"  \
-    -v OFS=","  \ '{if (NR==1) print brand_hdr,date_hdr,$0; else print brand_col,date_col,$0}' \
+    -v OFS="${separator}"  \ '{if (NR==1) print brand_hdr,date_hdr,$0; else print brand_col,date_col,$0}' \
      ${path} > ${temp_file}
 
 aws s3 cp "${temp_file}" "s3://${bucket}/${folder}${filename}"

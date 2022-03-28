@@ -69,7 +69,8 @@ fi
 ssh -N -f -i ~/.ssh/id_rsa -L "${port}:${host}:5439" "${user}@${proxy}"
 
 # run SQL
-echo "" | cat "${script}" - | template | ${POSTGRESQL_BIN}/psql  -P footer=off -A -F',' -h localhost -p ${port} -U ${user} ${database}
+PSQL_OPTS="-P footer=off -A -F| "
+echo "" | cat "${script}" - | template | ${POSTGRESQL_BIN}/psql ${PSQL_OPTS} -h localhost -p ${port} -U ${user} ${database}
 
 # get PID for the ssh tunnel
 pid=$(ps -A | grep "ssh" | grep redshift | awk '{print $1}')

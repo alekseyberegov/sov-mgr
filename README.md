@@ -49,3 +49,6 @@
   ```
   ../scripts/transform.py  -c "0,1,11" ./trivago_sov_feb.csv -n "0%" -p "-1,Trivago Global" > trivago_client-sov_2022-02.csv
   ```
+  ```
+  ./scripts/transform.py -c "0,1,6" -n "0%"  ./bcom_sov_feb.csv -p "Booking.com,-1" -r "3,0,2,1,4" > bcom_client-sov_2022-01.csv
+  ```

@@ -45,9 +45,7 @@ ct_searches as (
             and publisher_name not ilike '%wetter%'
 	group by 1, 2, 3, 4
 )
-select s.month
-    , 'bcom' as advertiser
-    , 'Booking.com' as brand
+select 'Booking.com' as brand
 	, brand ||'_'||s.user_country_id_name||'_'||s.user_device_id_name as placement
 	, s.user_country_id_name as country
 	, s.campaign_targeting_type_name as vertical
@@ -59,5 +57,5 @@ select s.month
 	, isnull(click_cnt / cast(nullif(search_cnt,0) as numeric), 0) as sov_meas
 from ct_searches s 
 		left join ct_clicks a using (month, user_country_id_name, campaign_targeting_type_name, user_device_id_name)
-group by 1, 2, 3, 4, 5, 6, 7
+group by 1, 2, 3, 4, 5
 

@@ -63,9 +63,7 @@ ct_searches as (
 			and publisher_name not ilike '%parallax%'
 	group by 1, 2, 3
 )
-select s.month
-    , 'trivago' as advertiser
-    , 'Trivago Global'  as brand
+select 'Trivago Global' as brand
 	, brand ||'_'||s.user_country_id_name||'_'||s.campaign_targeting_type_name as placement
 	, s.user_country_id_name as country
 	, s.campaign_targeting_type_name as vertical
@@ -77,5 +75,5 @@ select s.month
 	, isnull(click_cnt / cast(nullif(search_cnt,0) as numeric), 0) as sov_meas
 from ct_searches s 
 		left join ct_clicks a using (month, user_country_id_name, campaign_targeting_type_name)
-group by 1, 2, 3, 4, 5, 6, 7
+group by 1, 2, 3, 4, 5
 
