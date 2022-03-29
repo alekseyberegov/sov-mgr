@@ -593,21 +593,77 @@ group by 1,2,3,4
 --    2021-11-30|       2021|          11| 3040|
 --    2021-12-31|       2021|          12| 2821|
 --    2022-01-31|       2022|           1| 2848|
+--    2022-03-01|       2022|           3| 2862|
 select partition_date, report_year, report_month , count(1)
 from exploratory.kayak_sov ks 
 group by 1,2,3
 order by 1
 
-select partition_date, report_year, report_month , count(1)
-from exploratory.client_sov  ks 
-group by 1,2,3
-order by 1
+select partition_date, advertiser , device, count(1)
+from exploratory.advertiser_sov  ks 
+group by 2,1,3
+order by 2,1,3
 
 select *
-from exploratory.client_sov  ks 
+from exploratory.advertiser_sov  ks 
+where brand = 'Trivago Global'
+
+select partition_date, advertiser , device, count(1)
+from exploratory.market_sov
+group by 2,1,3
+order by 2,1,3
+
+select *
+from exploratory.market_sov
+where partition_date = '2022-01-01'
+
+
+select '2022-03-01'::date as dt, (dt - interval '1 month') as prev_dt
+
+
+select date_part('mon', partition_date) 
+from exploratory.market_sov
+where partition_date = '2022-02-01'
 limit 100
 
 
-
+select ks.partition_date 
+	, date_part('y'  , ks.partition_date) as report_year 
+	, date_part('mon', ks.partition_date) as report_month 
+	, ks.placement as "key"
+	, ks.brand 
+	, ks.country 
+	, ks.vertical 
+	, ks.search_cnt as searches
+	, ks.click_cnt as clicks
+	, ks.cost_amt as cost
+	, ks.avg_cpc_meas as avg_cpc
+	, ks.sov_meas as sov
+	, ps.search_cnt as searchs_0
+	, ps.click_cnt as clicks_0
+	, ps.cost_amt as cost_0
+	, ps.sov_meas as sov_0
+	, ps.avg_cpc_meas as avg_cpc_0
+	, cs.sov as sov_adj_0
+	, ks.sov_meas * (sov_adj_0 / ps.sov_meas) as sov_est
+from exploratory.market_sov ks 
+	left join exploratory.market_sov ps 
+		on (ks.brand = ps.brand 
+			and ks.country = ps.country 
+				and ks.vertical = ps.vertical 
+					and ks.advertiser = ps.advertiser
+						and ps.partition_date = (cast('${start_month}' as date) -  interval '1 month'))
+	left join exploratory.advertiser_sov cs 
+		on (ks.brand = cs.brand 
+			and ks.country = cs.country 
+				and ks.vertical = cs.vertical 
+					and ks.advertiser = cs.advertiser
+						and cs.partition_date = (cast('${start_month}' as date) - interval '1 month'))
+where ks.partition_date = '${start_month}' 
+		and ks.advertiser = '${advertiser}'
+			and ks.brand is not null
+order by ks.brand
+			, ks.country desc
+			, ks.vertical
 
 

@@ -52,3 +52,8 @@
   ```
   ./scripts/transform.py -c "0,1,6" -n "0%"  ./bcom_sov_feb.csv -p "Booking.com,-1" -r "3,0,2,1,4" > bcom_client-sov_2022-01.csv
   ```
+## Generating data for Gdoc
+* Placement SOV
+  ```
+  ../scripts/rsql.sh -p "user=aleksey" -p "start_month=2022-02-01" -s ../sql/reports/plmt_sov.sql -p "advertiser=kayak"
+  ```
