@@ -15,7 +15,7 @@ select ks.partition_date
 	, ps.sov_meas as sov_0
 	, ps.avg_cpc_meas as avg_cpc_0
 	, cs.sov as sov_adj_0
-	, ks.sov_meas * (sov_adj_0 / ps.sov_meas) as sov_est
+	, ISNULL(ks.sov_meas * (sov_adj_0 / NULLIF(ps.sov_meas, 0)), 0) as sov_est
 from exploratory.market_sov ks 
 	left join exploratory.market_sov ps 
 		on (ks.brand = ps.brand 

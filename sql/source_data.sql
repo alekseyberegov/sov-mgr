@@ -666,4 +666,126 @@ order by ks.brand
 			, ks.country desc
 			, ks.vertical
 
+			
+			
+--
+-- Historical data
+--	
+select ks.key, ks.partition_date as dt,  click_cnt,  cs.sov, round(click_cnt / sov, 0) as searches_adj 
+from exploratory.kayak_sov ks 
+	inner join (
+		select top 10 country, vertical, brand
+		from (
+			select 
+				  dense_rank() over(partition by ks.country, ks.vertical order by ks.cost_amt desc) as rn
+				, ks.brand
+				, ks.country 
+				, ks.vertical
+				, ks.cost_amt as cost
+			from exploratory.kayak_sov ks 
+			where ks.report_month = 1 and ks.brand is not null
+			order by ks.country, ks.vertical, ks.cost_amt desc
+		) 
+		where rn = 1
+		order by cost desc
+	) tp on (ks.brand = tp.brand 
+		and ks.vertical = tp.vertical 
+			and ks.country = tp.country)
+	inner join exploratory.client_sov cs 
+		on (ks.brand = cs.brand 
+			and ks.vertical = cs.vertical 
+				and cs.country = tp.country
+					and decode(cs.partition_date,'2021-11-30', 11, '2022-02-02', 12,'2022-02-03', 1, '2022-03-03', 2) 
+					  = decode(ks.partition_date,'2021-11-30', 11, '2021-12-31', 12,'2022-01-31', 1, '2022-03-01', 2) )
+where ks.partition_date in ('2021-11-30', '2021-12-31', '2022-01-31', '2022-03-01')
+order by 1, 2
+
+
+select ks.placement
+    , ks.partition_date as dt
+    , ks.click_cnt
+    , case when dt = '${start_month}' 
+        then  '=' || ks.click_cnt ||
+            '/ VLOOKUP(\"' ||
+                decode(ks.device,  '-1','ALL', ks.device  ) || '_' ||
+                decode(ks.country, '-1','ALL', ks.country ) || '_' ||
+                decode(ks.vertical,'-1','ALL', ks.vertical) || '\",top!A:Q,11,false)'
+        else cast(cs.sov as varchar) end as sov
+    , round(click_cnt / sov, 0) as searches_adj 
+from exploratory.market_sov ks 
+	inner join (
+		select top 10 country, vertical, device, brand
+		from (
+			select 
+				  dense_rank() over(partition by ks.country, ks.vertical, ks.device order by ks.cost_amt desc) as rn
+				, ks.brand
+				, ks.country 
+				, ks.vertical
+                , ks.device
+				, ks.cost_amt as cost
+			from exploratory.market_sov ks 
+			where ks.advertiser = '${advertiser}'
+                and ks.partition_date = (cast('${start_month}' as date) - interval '1 month')
+                    and ks.brand is not null
+			order by ks.country, ks.vertical, ks.device, ks.cost_amt desc
+		) ranked
+		where rn = 1
+		order by cost desc
+	) tp on (
+        ks.brand = tp.brand 
+		    and ks.vertical = tp.vertical 
+			    and ks.country = tp.country
+                    and ks.device = tp.device
+        )
+	inner join exploratory.advertiser_sov cs 
+		on (ks.brand = cs.brand 
+			and ks.vertical = cs.vertical 
+				and ks.country = cs.country
+                    and ks.device = COALESCE(cs.device, '-1')
+                        and ks.partition_date = cs.partition_date)
+where ks.advertiser = '${advertiser}'
+order by 1, 2
+
+
+
+select ks.partition_date 
+	, ks.placement
+	, ks.brand 
+	, ks.country 
+	, ks.vertical 
+	, ks.device
+	, ks.search_cnt as searches
+	, ks.click_cnt as clicks
+	, ks.cost_amt as cost
+	, ks.avg_cpc_meas as avg_cpc
+	, ks.sov_meas as sov
+	, ps.search_cnt as searchs_0
+	, ps.click_cnt as clicks_0
+	, ps.cost_amt as cost_0
+	, ps.sov_meas as sov_0
+	, ps.avg_cpc_meas as avg_cpc_0
+	, cs.sov as sov_adj_0
+	, case when ps.sov_meas = 0 then 0 else ks.sov_meas * (sov_adj_0 / ps.sov_meas) end as sov_est
+from exploratory.market_sov ks 
+	left join exploratory.market_sov ps 
+		on (ks.brand = ps.brand 
+			and ks.country = ps.country 
+				and ks.vertical = ps.vertical 
+					and ks.device = ps.device
+						and ks.advertiser = ps.advertiser
+							and ps.partition_date = (cast('${start_month}' as date) - interval '1 month'))
+	left join exploratory.advertiser_sov cs 
+		on (ks.brand = cs.brand 
+			and ks.country = cs.country 
+				and ks.vertical = cs.vertical 
+					and ks.device = COALESCE(cs.device, '-1')
+						and ks.advertiser = cs.advertiser
+							and cs.partition_date = (cast('${start_month}' as date) - interval '1 month'))
+where ks.partition_date = '${start_month}' 
+		and ks.advertiser = '${advertiser}'
+			and ks.brand is not null
+order by ks.brand
+		, ks.country desc
+		, ks.vertical
+		, ks.device
 
