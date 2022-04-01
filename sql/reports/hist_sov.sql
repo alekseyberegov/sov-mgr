@@ -33,7 +33,7 @@ from exploratory.market_sov ks
 			    and ks.country = tp.country
                     and ks.device = tp.device
         )
-	inner join exploratory.advertiser_sov cs 
+	left join exploratory.advertiser_sov cs 
 		on (ks.brand = cs.brand 
 			and ks.vertical = cs.vertical 
 				and ks.country = cs.country

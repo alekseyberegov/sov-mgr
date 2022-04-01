@@ -40,6 +40,10 @@
   ```
   ../scripts/rsql.sh -p "start_month=2022-02-01" -p "user=aleksey" -s ../sql/sov/sov_bcom.sql > bcom_market-sov_2022-02.csv
   ```
+* Shorcut
+  ```
+  ../scripts/sov.sh -u aleksey -a bcom -m "2022-02"
+  ```
 ## Useful commands
 * Parsing CSV files
   ```

@@ -29,7 +29,7 @@ from (
 		, ISNULL(cs.sov, 0) as sov_adj_0
 		, ISNULL(ks.sov_meas * (sov_adj_0 / NULLIF(ps.sov_meas,0)), ks.sov_meas / 4) as sov_est
 		, '=INDIRECT(\"R[0]C[-1]\", FALSE)' as sov_adj
-		, '=INDIRECT(\"R[0]C[-5]\", FALSE) / INDIRECT(\"R[0]C[-1]\",FALSE)' as searches_adj
+		, '=IFERROR(INDIRECT(\"R[0]C[-5]\", FALSE) / INDIRECT(\"R[0]C[-1]\",FALSE),0)' as searches_adj
 		, case when sov_adj_0 = 0 then '=1' else  '=INDIRECT(\"R[0]C[-2]\", FALSE) / INDIRECT(\"R[0]C[-4]\",FALSE) - 1' end as sov_change
 		, ISNULL(ks.avg_cpc_meas / NULLIF(ps.avg_cpc_meas,0) - 1, 0) as cpc_change
 		, case when cpc_change = 0 then '=1' else '=INDIRECT(\"R[0]C[-2]\",FALSE) / INDIRECT(\"R[0]C[-1]\",FALSE)' end as elas

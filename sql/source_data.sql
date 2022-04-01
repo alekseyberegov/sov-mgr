@@ -788,4 +788,47 @@ order by ks.brand
 		, ks.country desc
 		, ks.vertical
 		, ks.device
+		
 
+select "model", market, vertical, device
+	, max(update_date_1) as update_date_1
+	, max(update_date_0) as update_date_0
+	, max(case when start_date = update_date_1 then target end) as target_1
+	, max(case when start_date = update_date_0 then target end) as target_0
+from (
+	select start_date
+		, max(start_date) over(partition by "model", market, vertical, device) as update_date_1
+		, max(case when start_date < (cast('${start_month}' as date) - interval '1 month') then start_date end) over(partition by "model", market, vertical, device) as update_date_0
+		, market 
+		, vertical
+		, device
+		, "model" 
+		, target 
+	from mart.cpa_targets ct 
+	where start_date < (cast('${start_month}' as date) + interval '1 month')
+		and advertiser_id = 8
+	order by "model", market, vertical, device, start_date desc
+)
+where start_date in (update_date_1, update_date_0)
+group by "model", market, vertical, device
+
+
+select "model"
+	,  market
+	, decode(vertical, '-1', 'ALL', vertical) as vertical
+	, decode(device,   '-1', 'ALL', device  ) as device
+	, listagg(start_date::date||': '||target::numeric(5,2), '; ') 
+		WITHIN GROUP (ORDER BY start_date) as target_updates
+from (
+	select 
+		 max(case when start_date < (cast('${start_month}' as date) - interval '1 month') then start_date end) 
+			over(partition by "model", market, vertical, device) as dt
+		, *
+	from mart.cpa_targets ct 
+	where start_date < (cast('${start_month}' as date) + interval '1 month')
+		and advertiser_id = ${advertiser_id}
+	order by "model", market, vertical, device
+)
+where start_date >= dt
+group by 1, 2, 3, 4
+order by 1, 2, 3, 4
