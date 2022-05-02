@@ -35,7 +35,7 @@
 * Geneate market SOVs 
 * Transform client SOVs
 * Upload SOVs
-### Generating market SOVs 
+### Generating Market SOVs 
 * Kayak
   ```
   ../scripts/rsql.sh -p "start_month=2022-01-01" -p "user=aleksey" -s ../sql/sov/sov_kayak.sql > kayak_market-sov_2022-01.csv
@@ -48,11 +48,13 @@
   ```
   ../scripts/rsql.sh -p "start_month=2022-02-01" -p "user=aleksey" -s ../sql/sov/sov_bcom.sql > bcom_market-sov_2022-02.csv
   ```
-* Shorcut
+#### Shorcut
   ```
-  ../scripts/sov.sh -u aleksey -a bcom -m "2022-02"
+  ../scripts/sov.sh -u aleksey -m "2022-04" -a bcom 
+  ../scripts/sov.sh -u aleksey -m "2022-04" -a kayak 
+  ../scripts/sov.sh -u aleksey -m "2022-04" -a trivago 
   ```
-### Transforming client SOVs
+### Transforming Client SOVs
 * Booking
   ```
   ../scripts/transform.py -c "0,1,3,4" ./bcom_sov_mar.csv -n "0%" -p "-1" -r "3,1,2,0,4" > bcom_client-sov_2022-03.csv
@@ -66,7 +68,7 @@
   ../scripts/transform.py -c "0,1,2,4" ./kayak_sov_mar.csv -n "0%" -p "-1" > kayak_client-sov_2022-03.csv
   ```
 ### Uploading SOVs
-* Uploading Client Sovs
+* Uploading Client SOVs
   ```
   ../scripts/upload.sh trivago_client-sov_2022-03.csv
   ../scripts/upload.sh kayak_client-sov_2022-03.csv
