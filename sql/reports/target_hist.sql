@@ -1,4 +1,5 @@
-select model
+select advertiser_name as brand
+	, model
 	, market
 	, decode(vertical, '-1', 'ALL', vertical) as vertical
 	, decode(device,   '-1', 'ALL', device  ) as device
@@ -11,9 +12,9 @@ from (
 		, *
 	from mart.cpa_targets ct 
 	where start_date < (cast('${start_month}' as date) + interval '1 month')
-		and advertiser_id = ${advertiser_id}
+		and advertiser_id in ( ${advertiser_brands})
 	order by model, market, vertical, device
 )
 where start_date >= dt
-group by 1, 2, 3, 4
-order by 1, 2, 3, 4
+group by 1, 2, 3, 4, 5
+order by 1, 2, 3, 4, 5

@@ -177,15 +177,64 @@ group by 1, 2, 3
 order by 1, 2, 3
 
 
-select report_year, report_month, partition_date 
+select advertiser, partition_date 
 	, count(1) as total_cnt
-from exploratory.client_sov cs 
-group by 1, 2, 3
-order by 1, 2, 3
+from exploratory.advertiser_sov  cs 
+group by 1, 2
+order by 1, 2
 
-select *
-from exploratory.client_sov 
-where brand = '' or brand is null
+select advertiser, partition_date 
+	, count(1) as total_cnt
+from exploratory.market_sov ms  
+group by 1, 2
+order by 1, 2
+
+select partition_date , sov, country, vertical, device, brand
+from exploratory.advertiser_sov 
+where advertiser = 'bcom' 
+order by country, vertical, device, brand, partition_date 
+
+
+select partition_date , sov_meas , country, vertical, device, brand
+from exploratory.market_sov 
+where advertiser = 'kayak' 
+order by country, vertical, device, brand, partition_date 
+
+
+	select 
+		 max(case when start_date < (cast('${start_month}' as date) - interval '1 month') then start_date end) 
+			over(partition by model, market, vertical, device) as dt
+		, *
+	from mart.cpa_targets ct 
+	where start_date < (cast('${start_month}' as date) + interval '1 month')
+		and advertiser_id in ( ${advertiser_brands})
+	order by model, market, vertical, device
+	
+	
+select advertiser_name as brand
+	, model
+	, market
+	, decode(vertical, '-1', 'ALL', vertical) as vertical
+	, decode(device,   '-1', 'ALL', device  ) as device
+	, listagg(start_date::date||'; '||target::numeric(5,2), '; ') 
+		WITHIN GROUP (ORDER BY start_date) as target_updates
+from (
+	select 
+		 max(case when start_date < (cast('${start_month}' as date) - interval '1 month') then start_date end) 
+			over(partition by model, market, vertical, device) as dt
+		, *
+	from mart.cpa_targets ct 
+	where start_date < (cast('${start_month}' as date) + interval '1 month')
+		and advertiser_id in ( ${advertiser_brands})
+	order by model, market, vertical, device
+)
+where start_date >= dt
+group by 1, 2, 3, 4
+order by 1, 2, 3, 4
+
+
+	
+	
 
 --report_year|report_month|partition_date|total_cnt|
 -------------+------------+--------------+---------+

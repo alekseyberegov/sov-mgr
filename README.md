@@ -27,7 +27,15 @@
     <advertiser>"_"<report-name>"_"<YYYY>-<MM>".csv"
 ```
 
-## Generating SOV stats
+## Databases
+* exploratory.advertiser_sov
+* exploratory.market_sov
+
+## Generate Reports
+* Geneate market SOVs 
+* Transform client SOVs
+* Upload SOVs
+### Generating market SOVs 
 * Kayak
   ```
   ../scripts/rsql.sh -p "start_month=2022-01-01" -p "user=aleksey" -s ../sql/sov/sov_kayak.sql > kayak_market-sov_2022-01.csv
@@ -44,20 +52,29 @@
   ```
   ../scripts/sov.sh -u aleksey -a bcom -m "2022-02"
   ```
-## Useful commands
-* Parsing CSV files
+### Transforming client SOVs
+* Booking
   ```
-  cat trivago_sov_feb.csv | ../scripts/parser.sh -c "1 2 12" -n "0%"
+  ../scripts/transform.py -c "0,1,3,4" ./bcom_sov_mar.csv -n "0%" -p "-1" -r "3,1,2,0,4" > bcom_client-sov_2022-03.csv
   ```
-* Preparing SOV reports
+* Trivago
   ```
-  ../scripts/transform.py  -c "0,1,11" ./trivago_sov_feb.csv -n "0%" -p "-1,Trivago Global" > trivago_client-sov_2022-02.csv
+  ../scripts/transform.py -c "0,1,2,4" ./trivago_sov_mar.csv -n "0%" -p "-1" > trivago_client-sov_2022-03.csv
   ```
+* Kayak
   ```
-  ./scripts/transform.py -c "0,1,6" -n "0%"  ./bcom_sov_feb.csv -p "Booking.com,-1" -r "3,0,2,1,4" > bcom_client-sov_2022-01.csv
+  ../scripts/transform.py -c "0,1,2,4" ./kayak_sov_mar.csv -n "0%" -p "-1" > kayak_client-sov_2022-03.csv
   ```
-## Generating data for Gdoc
-* Placement SOV
+### Uploading SOVs
+* Uploading Client Sovs
   ```
-  ../scripts/rsql.sh -p "user=aleksey" -p "start_month=2022-02-01" -s ../sql/reports/plmt_sov.sql -p "advertiser=kayak"
+  ../scripts/upload.sh trivago_client-sov_2022-03.csv
+  ../scripts/upload.sh kayak_client-sov_2022-03.csv
+  ../scripts/upload.sh bcom_client-sov_2022-03.csv
+  ```
+* Uploading Market SOVs
+  ```
+  ../scripts/upload.sh -s "|" trivago_market-sov_2022-04.csv
+  ../scripts/upload.sh -s "|" kayak_market-sov_2022-04.csv
+  ../scripts/upload.sh -s "|" bcom_market-sov_2022-04.csv
   ```
