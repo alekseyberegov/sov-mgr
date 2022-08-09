@@ -57,33 +57,33 @@
 ### Transforming Client SOVs
 * Booking
   ```
-  ../scripts/transform.py -c "0,1,3,4" ./bcom_sov_mar.csv -n "0%" -p "-1" -r "3,1,2,0,4" > bcom_client-sov_2022-03.csv
+  ../scripts/transform.py -c "0,1,3,4" ./bcom_sov_jun.csv -n "0%" -p "-1" -r "3,1,2,0,4" > bcom_client-sov_2022-06.csv
   ```
 * Trivago
   ```
-  ../scripts/transform.py -c "0,1,2,4" ./trivago_sov_mar.csv -n "0%" -p "-1" > trivago_client-sov_2022-03.csv
+  ../scripts/transform.py -c "0,1,2,4" ./trivago_sov_jun.csv -n "0%" -p "-1" > trivago_client-sov_2022-06.csv
   ```
 * Kayak
   ```
-  ../scripts/transform.py -c "0,1,2,4" ./kayak_sov_mar.csv -n "0%" -p "-1" > kayak_client-sov_2022-03.csv
+  ../scripts/transform.py -c "0,1,2,4" ./kayak_sov_jun.csv -n "0%" -p "-1" > kayak_client-sov_2022-06.csv
   ```
 ### Uploading SOVs
 * Uploading Client SOVs
   ```
-  ../scripts/upload.sh trivago_client-sov_2022-04.csv
-  ../scripts/upload.sh kayak_client-sov_2022-04.csv
-  ../scripts/upload.sh bcom_client-sov_2022-04.csv
+  ../scripts/upload.sh trivago_client-sov_2022-06.csv
+  ../scripts/upload.sh kayak_client-sov_2022-06.csv
+  ../scripts/upload.sh bcom_client-sov_2022-06.csv
   ```
 * Uploading Market SOVs
   ```
-  ../scripts/upload.sh -s "|" trivago_market-sov_2022-05.csv
-  ../scripts/upload.sh -s "|" kayak_market-sov_2022-05.csv
-  ../scripts/upload.sh -s "|" bcom_market-sov_2022-05.csv
+  ../scripts/upload.sh -s "|" trivago_market-sov_2022-07.csv
+  ../scripts/upload.sh -s "|" kayak_market-sov_2022-07.csv
+  ../scripts/upload.sh -s "|" bcom_market-sov_2022-07.csv
   ```
 ## R-Studio config
 * Kayak
 ```
-arguments <- list(start_month="2022-04-01", 
+arguments <- list(start_month="2022-07-01", 
                   advertiser="kayak", 
                   output_file="kayak-client-sov", 
                   advertiser_id="1", 
@@ -91,9 +91,15 @@ arguments <- list(start_month="2022-04-01",
 ```
 * Booking
 ```
-arguments <- list(start_month="2022-05-01", 
+arguments <- list(start_month="2022-07-01", 
                   advertiser="bcom", 
                   output_file="bcom-client-sov", 
                   advertiser_id="8", 
                   advertiser_brands="8")
 ```
+
+arguments <- list(start_month="2022-07-01", 
+                  advertiser="trivago", 
+                  output_file="trivago-client-sov", 
+                  advertiser_id="156", 
+                  advertiser_brands="156")
