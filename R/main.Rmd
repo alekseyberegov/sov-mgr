@@ -1,0 +1,85 @@
+---
+title: "Build Kayak SOV report"
+output: kayak_sov_report
+---
+
+## https://googlesheets4.tidyverse.org/articles/write-sheets.html#write-formulas
+
+
+```{r}
+library(tidyverse)  
+library(modelr)     
+library(broom)
+library(whisker)
+library(DBI)
+library(dplyr)
+library(reshape2)
+library(tidyr)
+library(googlesheets4)
+```
+
+## Load SQL
+
+```{r}
+source("./sql.R")
+```
+
+## Open the redshift connection
+```{r}
+dbcon <- dbConnect(odbc::odbc(), "Redshift ODBC DSN", timeout = 10)
+ping <- DBI::dbGetQuery(dbcon, "select current_date")
+```
+
+
+## 
+```{r}
+is.integer64 <- function(x) {
+  class(x)=="integer64"
+}
+```
+
+## Load data from database
+```{r}
+sov_report.data <- tbl(dbcon, sql(sov_report.sql)) %>% collect() %>% mutate_if(is.integer64, as.integer)
+top_spends.data <- tbl(dbcon, sql(top_spends.sql)) %>% collect() %>% mutate_if(is.integer64, as.integer)
+fin_report.data <- tbl(dbcon, sql(fin_report.sql)) %>% collect() %>% mutate_if(is.integer64, as.integer)
+```
+
+## Create formulas
+```{r}
+top_spends.data$sov_adj = gs4_formula(top_spends.data$sov_adj)
+top_spends.data$searches_adj = gs4_formula(top_spends.data$searches_adj)
+top_spends.data$sov_change = gs4_formula(top_spends.data$sov_change)
+top_spends.data$elas = gs4_formula(top_spends.data$elas)
+top_spends.data$err_low = gs4_formula(top_spends.data$err_low)
+top_spends.data$err_neg = gs4_formula(top_spends.data$err_neg)
+fin_report.data$sov = gs4_formula(fin_report.data$sov)
+```
+
+```{r}
+settings <-tibble::tribble(
+    ~Parameter, ~Threshod,
+    "Min cost", 1000,
+    "Min elasticity", 0.35
+)
+
+errors <-tibble::tribble(
+    ~error, ~count,
+    "Low Elasticity", "=sum(top!O:O)",
+    "Negative Correlation", "=sum(top!P:P)"
+)
+errors$count <- gs4_formula(errors$count)
+```
+
+## Create Google Sheets
+```{r}
+gs4_auth(email = "aleksey@clicktripz.com")
+httr::set_config(httr::config(http_version = 0))
+(ss <- gs4_create("kayak-sov-report", sheets = list(settings = settings, raw = sov_report.data, top = top_spends.data, errors = errors, final = fin_report.data)))
+```
+
+
+## Close the connection
+```{r}
+dbDisconnect(dbcon)
+```
