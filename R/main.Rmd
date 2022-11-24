@@ -1,12 +1,15 @@
 ---
-title: "Build Kayak SOV report"
-output: kayak_sov_report
+title: "Build Advertiser SOV report"
+output: advertiser_sov_report
 ---
 
 ## https://googlesheets4.tidyverse.org/articles/write-sheets.html#write-formulas
 
 
 ```{r}
+options(gsubfn.engine = "R")
+
+library(gsubfn)
 library(tidyverse)  
 library(modelr)     
 library(broom)
@@ -16,6 +19,15 @@ library(dplyr)
 library(reshape2)
 library(tidyr)
 library(googlesheets4)
+```
+
+## Input parameters
+```{r}
+arguments <- list(start_month="2022-10-01", 
+                  advertiser="bcom", 
+                  output_file="bcom-client-sov", 
+                  advertiser_id="8", 
+                  advertiser_brands="8")
 ```
 
 ## Load SQL
@@ -38,11 +50,23 @@ is.integer64 <- function(x) {
 }
 ```
 
+## Preparing SQL
+```{r}
+sov_report.prep_sql <- gsubfn("\\$\\{([a-zA-Z_][a-zA-Z_0-9]*)\\}",  arguments, sov_report.sql)
+top_spends.prep_sql <- gsubfn("\\$\\{([a-zA-Z_][a-zA-Z_0-9]*)\\}",  arguments, top_spends.sql)
+fin_report.prep_sql <- gsubfn("\\$\\{([a-zA-Z_][a-zA-Z_0-9]*)\\}",  arguments, fin_report.sql)
+hst_report.prep_sql <- gsubfn("\\$\\{([a-zA-Z_][a-zA-Z_0-9]*)\\}",  arguments, hst_report.sql)
+tgt_report.prep_sql <- gsubfn("\\$\\{([a-zA-Z_][a-zA-Z_0-9]*)\\}",  arguments, tgt_report.sql)
+```
+
+
 ## Load data from database
 ```{r}
-sov_report.data <- tbl(dbcon, sql(sov_report.sql)) %>% collect() %>% mutate_if(is.integer64, as.integer)
-top_spends.data <- tbl(dbcon, sql(top_spends.sql)) %>% collect() %>% mutate_if(is.integer64, as.integer)
-fin_report.data <- tbl(dbcon, sql(fin_report.sql)) %>% collect() %>% mutate_if(is.integer64, as.integer)
+sov_report.data <- tbl(dbcon, sql(sov_report.prep_sql)) %>% collect() %>% mutate_if(is.integer64, as.integer)
+top_spends.data <- tbl(dbcon, sql(top_spends.prep_sql)) %>% collect() %>% mutate_if(is.integer64, as.integer)
+fin_report.data <- tbl(dbcon, sql(fin_report.prep_sql)) %>% collect() %>% mutate_if(is.integer64, as.integer)
+hst_report.data <- tbl(dbcon, sql(hst_report.prep_sql)) %>% collect() %>% mutate_if(is.integer64, as.integer)
+tgt_report.data <- tbl(dbcon, sql(tgt_report.prep_sql)) %>% collect() %>% mutate_if(is.integer64, as.integer)
 ```
 
 ## Create formulas
@@ -54,6 +78,8 @@ top_spends.data$elas = gs4_formula(top_spends.data$elas)
 top_spends.data$err_low = gs4_formula(top_spends.data$err_low)
 top_spends.data$err_neg = gs4_formula(top_spends.data$err_neg)
 fin_report.data$sov = gs4_formula(fin_report.data$sov)
+hst_report.data$sov = gs4_formula(hst_report.data$sov)
+hst_report.data$searches_adj = gs4_formula(hst_report.data$searches_adj)
 ```
 
 ```{r}
@@ -75,7 +101,7 @@ errors$count <- gs4_formula(errors$count)
 ```{r}
 gs4_auth(email = "aleksey@clicktripz.com")
 httr::set_config(httr::config(http_version = 0))
-(ss <- gs4_create("kayak-sov-report", sheets = list(settings = settings, raw = sov_report.data, top = top_spends.data, errors = errors, final = fin_report.data)))
+(ss <- gs4_create(arguments$output_file, sheets = list(settings = settings, raw = sov_report.data, top = top_spends.data, errors = errors, final = fin_report.data, history = hst_report.data, targets=tgt_report.data)))
 ```
 
 

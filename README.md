@@ -57,23 +57,23 @@
 ### Transforming Client SOVs
 * Booking
   ```
-  ../scripts/transform.py -c "0,1,3,4" ./bcom_sov_sep.csv -n "0%" -p "-1" -r "3,1,2,0,4" > bcom_client-sov_2022-09.csv
+  ../scripts/transform.py -c "0,1,3,4" ./bcom_sov_oct.csv -n "0%" -p "-1" -r "3,1,2,0,4" > bcom_client-sov_2022-10.csv
   ```
 * Trivago
   ```
-  ../scripts/transform.py -c "0,1,2,4" ./trivago_sov_sep.csv -n "0%" -p "-1" > trivago_client-sov_2022-09.csv
+  ../scripts/transform.py -c "0,1,2,4" ./trivago_sov_oct.csv -n "0%" -p "-1" > trivago_client-sov_2022-10.csv
   ```
 * Kayak
   ```
-  ../scripts/transform.py -c "0,1,2,4" ./kayak_sov_sep.csv -n "0%" -p "-1" > kayak_client-sov_2022-09.csv
+  ../scripts/transform.py -c "0,1,2,4" ./kayak_sov_oct.csv -n "0%" -p "-1" > kayak_client-sov_2022-10.csv
   ```
 Header: `brand,country,vertical,device,sov`
 ### Uploading SOVs
 * Uploading Client SOVs
   ```
-  ../scripts/upload.sh trivago_client-sov_2022-09.csv
-  ../scripts/upload.sh kayak_client-sov_2022-09.csv
-  ../scripts/upload.sh bcom_client-sov_2022-09.csv
+  ../scripts/upload.sh trivago_client-sov_2022-10.csv
+  ../scripts/upload.sh kayak_client-sov_2022-10.csv
+  ../scripts/upload.sh bcom_client-sov_2022-10.csv
   ```
 * Uploading Market SOVs
   ```
