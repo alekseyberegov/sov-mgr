@@ -48,11 +48,11 @@
   ```
   ../scripts/rsql.sh -p "start_month=2022-10-01" -p "user=aleksey" -s ../sql/sov/sov_bcom.sql > bcom_market-sov_2022-05.csv
   ```
-#### Shorcut
+#### Shorcut for Generating Market SOVs 
   ```
-  ../scripts/sov.sh -u aleksey -m "2022-10" -a bcom 
-  ../scripts/sov.sh -u aleksey -m "2022-10" -a kayak 
-  ../scripts/sov.sh -u aleksey -m "2022-10" -a trivago 
+  ../scripts/sov.sh -u aleksey -m "2022-11" -a bcom 
+  ../scripts/sov.sh -u aleksey -m "2022-11" -a kayak 
+  ../scripts/sov.sh -u aleksey -m "2022-11" -a trivago 
   ```
 ### Transforming Client SOVs
 * Booking
@@ -77,9 +77,9 @@ Header: `brand,country,vertical,device,sov`
   ```
 * Uploading Market SOVs
   ```
-  ../scripts/upload.sh -s "|" trivago_market-sov_2022-10.csv
-  ../scripts/upload.sh -s "|" kayak_market-sov_2022-10.csv
-  ../scripts/upload.sh -s "|" bcom_market-sov_2022-10.csv
+  ../scripts/upload.sh -s "|" trivago_market-sov_2022-11.csv
+  ../scripts/upload.sh -s "|" kayak_market-sov_2022-11.csv
+  ../scripts/upload.sh -s "|" bcom_market-sov_2022-11.csv
   ```
 ## R-Studio config
 * Kayak
